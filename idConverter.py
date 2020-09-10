@@ -16,14 +16,29 @@ def labelbox_to_supervisely(labelboxID, type, supervisely_set):
     if(type == "id"):
         # Reduce the hash code to 9 digits
         superviselyID = int_number % 10**9
+        if(len(str(superviselyID)) != 9):
+            string = str(superviselyID)
+            while(len(string) < 9):
+                string += "0"
+            superviselyID = int(string)
         supervisely_set.add(superviselyID)
     elif(type == "classID"):
         # Reduce the hash code to 7 digits
         superviselyID = int_number % 10**7
+        if(len(str(superviselyID)) != 7):
+            string = str(superviselyID)
+            while(len(string) < 7):
+                string += "0"
+            superviselyID = int(string)
         supervisely_set.add(superviselyID)
     else:
         # Reduce the hash code to 8 digits
         superviselyID = int_number % 10**8
+        if(len(str(superviselyID)) != 8):
+            string = str(superviselyID)
+            while(len(string) < 8):
+                string += "0"
+            superviselyID = int(string)
         supervisely_set.add(superviselyID)
 
     # Checking errors if there are hash code collisions
