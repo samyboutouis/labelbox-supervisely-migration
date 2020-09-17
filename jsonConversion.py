@@ -39,7 +39,7 @@ if __name__ == "__main__":
 
         # types of polygon, bitmap, line, point
         new_object["geometryType"] = "bitmap"
-        new_object["lablerLogin"] = "edtriplett"
+        new_object["labelerLogin"] = "edtriplett"
 
         # Creation time
         new_object["createdAt"] = "2020-06-02T17:02:42.352Z"
@@ -85,7 +85,7 @@ if __name__ == "__main__":
 
         # Base64 encoding goes here
         new_object["bitmap"]["data"] = ""
-        
+
         # Origin goes here
         new_object["bitmap"]["origin"] = []
 
