@@ -1,4 +1,5 @@
 from idConverter import labelbox_to_supervisely
+from nameConverter import convert_name
 import json
 
 if __name__ == "__main__":
@@ -11,7 +12,7 @@ if __name__ == "__main__":
     # Initialize Supervisely version of Book of Fortresses
     supervisely_bof = {}
     supervisely_bof["description"] = ""
-    supervisely_bof["tags"] = ""
+    supervisely_bof["tags"] = []
     supervisely_bof["size"] = {}
     supervisely_bof["size"]["height"] = 10
     supervisely_bof["size"]["width"] = 10
@@ -39,7 +40,7 @@ if __name__ == "__main__":
         # types of polygon, bitmap, line, point
         new_object["geometryType"] = "bitmap"
         new_object["lablerLogin"] = "edtriplett"
-        
+
         # Creation time
         new_object["createdAt"] = "2020-06-02T17:02:42.352Z"
         new_object["updatedAt"] = "2020-06-14T23:20:32.100Z"
@@ -49,11 +50,36 @@ if __name__ == "__main__":
 
         # If the labelbox object has classifications
         try: 
+            # Set classifications to classifications sub-hierarchy
             classifications = object_list[i]["classifications"]
+
+            # For each classification, append to tags a JSON object 
             for k in range(len(classifications)):
                 new_object["tags"].append({})
+
+                # Get and set ID of feature
                 new_object["tags"][k]["id"] = labelbox_to_supervisely(classifications[k]["featureId"], "regular", used_ids)
+
+                # Set name or question of the tag
+                new_object["tags"][k]["name"] = classifications[k]["title"]
+
+                if type(classifications[k]["answer"]) is dict:
+                    # Set value of the tag
+                    new_object["tags"][k]["value"] = classifications[k]["answer"]["title"]
+                else:
+                    # Set value of the tag
+                    new_object["tags"][k]["value"] = classifications[k]["answer"]
+
+                # Set extraneous tags
+                new_object["tags"][k]["lablerLogin"] = "edtriplett"
+                new_object["tags"][k]["createdAt"] = "2020-06-02T17:02:42.352Z"
+                new_object["tags"][k]["updatedAt"] = "2020-06-14T23:20:32.100Z"
         except:
             print("No classifications")
+        
+        supervisely_bof["objects"].append(new_object)
+
+    with open('test.json', 'w') as outfile:
+        json.dump(supervisely_bof, outfile, indent=4)
             
     
