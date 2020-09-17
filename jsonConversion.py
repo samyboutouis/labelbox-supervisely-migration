@@ -61,7 +61,7 @@ if __name__ == "__main__":
                 new_object["tags"][k]["id"] = labelbox_to_supervisely(classifications[k]["featureId"], "regular", used_ids)
 
                 # Set name or question of the tag
-                new_object["tags"][k]["name"] = classifications[k]["title"]
+                new_object["tags"][k]["name"] = convert_name(classifications[k]["title"])
 
                 if type(classifications[k]["answer"]) is dict:
                     # Set value of the tag
