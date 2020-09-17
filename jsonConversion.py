@@ -47,6 +47,7 @@ if __name__ == "__main__":
 
         # Make tags for the new object
         new_object["tags"] = []
+        class_title = ""
 
         # If the labelbox object has classifications
         try: 
@@ -65,10 +66,12 @@ if __name__ == "__main__":
 
                 if type(classifications[k]["answer"]) is dict:
                     # Set value of the tag
-                    new_object["tags"][k]["value"] = classifications[k]["answer"]["title"]
+                    new_object["tags"][k]["value"] = convert_name(classifications[k]["answer"]["title"])
+                    if(k == 0):
+                        class_title = new_object["tags"][k]["value"]
                 else:
                     # Set value of the tag
-                    new_object["tags"][k]["value"] = classifications[k]["answer"]
+                    new_object["tags"][k]["value"] = convert_name(classifications[k]["answer"])
 
                 # Set extraneous tags
                 new_object["tags"][k]["lablerLogin"] = "edtriplett"
@@ -77,6 +80,15 @@ if __name__ == "__main__":
         except:
             print("No classifications")
         
+        new_object["classTitle"] = class_title
+        new_object["bitmap"] = {}
+
+        # Base64 encoding goes here
+        new_object["bitmap"]["data"] = ""
+        
+        # Origin goes here
+        new_object["bitmap"]["origin"] = []
+
         supervisely_bof["objects"].append(new_object)
 
     with open('test.json', 'w') as outfile:
