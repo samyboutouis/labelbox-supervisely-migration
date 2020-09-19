@@ -1,0 +1,1556 @@
+{
+    "description": "",
+    "tags": "",
+    "size": {
+        "height": 10,
+        "width": 10
+    },
+    "objects": [
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 60287090,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Curved wall or straight?",
+                    "value": "Curved (Vertical - following terrain - only)",
+                    "id": 69265317,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Castle wall or city wall?",
+                    "value": "Castle wall",
+                    "id": 37879025,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Outer-most (low) wall, Outer ward wall or Inner was wall?",
+                    "value": "Outer ward wall",
+                    "id": 97523229,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 69096673,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 99313933,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Coursed",
+                    "id": 59449860,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 48631351,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "8",
+                    "id": 84906713,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "Flat",
+                    "id": 84947937,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 29513100,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Wall",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1392,
+                    2469
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 39220040,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Curved wall or straight?",
+                    "value": "Curved (Horizontal and vertical)",
+                    "id": 76919587,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Castle wall or city wall?",
+                    "value": "Castle wall",
+                    "id": 73894576,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Outer-most (low) wall, Outer ward wall or Inner was wall?",
+                    "value": "Outer ward wall",
+                    "id": 24078470,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 74952110,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 69702750,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 95354650,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Coursed",
+                    "id": 78901690,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 18901373,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "12",
+                    "id": 64464161,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "Flat",
+                    "id": 40048557,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 48103097,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Wall",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1349,
+                    2904
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 37400618,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Curved wall or straight?",
+                    "value": "Straight",
+                    "id": 92822100,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Castle wall or city wall?",
+                    "value": "Castle wall",
+                    "id": 46442273,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 54449566,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Outer-most (low) wall, Outer ward wall or Inner was wall?",
+                    "value": "Inner ward wall (There may not be an inner ward)",
+                    "id": 25707765,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 52801085,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 29795182,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 66031925,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Coursed",
+                    "id": 90380309,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "7",
+                    "id": 78758165,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "Flat",
+                    "id": 43379390,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 48001843,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Wall",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1059,
+                    2823
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 60954450,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Curved wall or straight?",
+                    "value": "Straight",
+                    "id": 12630780,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Castle wall or city wall?",
+                    "value": "Castle wall",
+                    "id": 89287458,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Outer-most (low) wall, Outer ward wall or Inner was wall?",
+                    "value": "Inner ward wall (There may not be an inner ward)",
+                    "id": 17653142,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 89628073,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 21852137,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Coursed",
+                    "id": 64030490,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 69369053,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "6",
+                    "id": 44334388,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "Flat",
+                    "id": 67839778,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 97204027,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Wall",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAL0AAAEFCAYAAAC2OeacAAAEbklEQVR42u3d226bQBiFUcby+78yuUkk1/IB6MAc9lp3rarU4G9+D8ROyvLBuq7r459LKWWBwZU90X/8QhYEadFbBIzi5hQgehA9iB5ED6IH0YPoIS/69ZengKvdWz+Ax/B9F5eI6C0AoqO3AHAha/9P0qQ3/RG9BUDS9sb2B9GD6KFx9PbYmPQgehe9tHOf5UD2bqn8TB/Rx3PfX/QWgFcB0Z8ZlVcBTHqvApzILcsKi8DdINGD6EH0IHoQPYj+E7cNMenhSPTuPWPSg+jf8yrhXEVOet+ed65itzcJT2itu0fin2xP7wndvrVxria7kPVkGhRx0SN+0eNVUvRtLiJNfdHT+dQWv+jt9xG9+BF9yDWF+AOi9wQ7L5GT3nQjdnszSvwWqOhNfkQvfkQv/t18WD48entpYqO38AwF0dtCRG4FRU9c/KInLn7RExe/6F0o7npsM4QvetMv7rhFP/kEF7/oIwK4+lbqaPGL3tSPi1/0Jl/cwhf9RU++9/30w28Mt92JY9IjehA9tmCiB9GD6Gln5A+2XLXNEj3dhX92/KInLn7RExe/6ImLX/TEXeyK3kSMO0bRh4fRywI58jiOxi968ccdo+jFH7ffF734447Ph0iC4084vldvyzDpiXtlEz1x8YueuPhFTxzRI3oQPfznhaPoiYtf9Ai/8cIQPVHbnVJKET1x2x3RExe+6Inb7oieuKkveuKIHtGD6EH0IHoQPYgeRA+dRe8X/jKjv5+BY9Jj0oPoQfQgehA9iB5ED6IH0YPoQfQgenjr8ReuiR6THkQPogfRg+hB9CB6ED2IHkQPogfRg+hhWf59h6XoMelB9CB6ED2IHkQPogfRg+hB9CB6ED289PxmM9Fj0oPoQfQwYfTruq5OCyY9iB5ED6IH0YPoQfQgehA97PDqHZaix6QH0YPoQfQgehA9iB46it6npjDpQfQgehA9iB4aePcOS9Fj0oPoQfQgehA9iB5ED6IH0YPoQfRQIXqfmmIWn95sZtJjewOiB9GD6EH0IHoQPYgeRA+iB9GD6EH0ZPr2DkvRY9KD6GHW6H1qCpMeRA+iB9GD6KFT99YPYMt30J61vttUSinueIm+WtC1v+5Zcf49BvGL/tTYaz2WmqGKfzylZgg9xX7m9D96nBZGH1vl+5X/2QzBX3meLJIOtzcjxT7i1u3srZnoxe6YQ9z2PvGC91iitzdin/uYZ91KRUW/50lMC/7V8T7/3SyLwKQXezn6b0ddBKIPDb7GsY56d0n0Yj/16/e4CEQv9sv/39YLQfRib/6Yrl4Eohd73CLw0xAE3+XjP/MYbiknEgt9d/T04dursuEk+m7uGNjWiF4oiB5Ej2sX0YPo4dB1meiJCl70xAW/LBvfezPDbb2Ej8EJvmL0ThhTPf/fJp9AaGHLq/HRNu3piXMz5YmL3ilg5i3QpgtZ053Z3UWO7Q1MvsURPdPs1UVPBO+9AdFjyoseRE/WlBc9mQvGKaBX725d+oYqUYugxj38H8qgDOzrS8RWAAAAAElFTkSuQmCC",
+                "origin": [
+                    1134,
+                    3294
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 98159896,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 49142756,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Keep Shape?",
+                    "value": "Rectangular",
+                    "id": 67977352,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 15785579,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 10807384,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Coursed",
+                    "id": 25120330,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 61207298,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "6",
+                    "id": 51271353,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "id": 14493348,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 26686116,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Keep",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAMEAAAICCAYAAAB2oamvAAAGmElEQVR42u3dy3biMBBAQcTh/39Zs8kyGcBuPVpdtU9ihK8b42AeD0L13rtVyOVp54v7+wLIqZ2087fW2i7xrdgWFk+C2UfC3/7e7COxI79J8OeOMPIo+G7Hm3EE/nTnNw0OnwQ7HPlnH52zve7Psq2rt7ON2uCoo+CVBYo+At95knY4T9l1Iu2ynW3kTnDnQd09OqyMcNUT+79t3SmE3d5MaLvtAFGj8e6CRo7oXc5TVoew6za2XXaAEa8LV0a4yxsFu4TwzXbO3sY24wTl3YNa9XdnnqCNeGJXvEw9cRuPuWKc+d2RK4/rzmObsS6Z3kl72hnzBBm5Y416TqK2cdY+03vvTztf3ccR+TtHHPlnXfM5PgJBzplQmeN/2vmosj5/TSuTgDLnU0tPjGFlCO9+dkoE/puSFSF8erJuElA+GBFw1M595a3aZ7V3CHD0NwlABCACEEHk60lEAFONuOa0PIJqR2ATp+Ak2OFqsSvW4vRyCEQAIgARgAhABCACEAH85mUJ5nPV+JpRFz1NAkyCjOU6KlsLL4c8yYjAzk/wOYGdhCwHsxH76mvFA/F0ErkP3T33bHZMvBwCEYAIQAQgAhABiABEACIAEYAIQAQgAhABiABEACIAEYAIoFYEPl+MSQAiABGACEAEIAIQAYgARAAigKIRZPheMRg+CYSAl0NCQARCQARCQARCQARCQARCQARCQARCQARCoJjWWvO/Q5gE31ZjyThpCnwdgRAoPwmEwGlT4HIEQqD8JBACp0yB2xEIgfKTQAhknwJhEQiB8pNACGSdAuERCIHyk0AIZJsCwyKA8pPAV0CRZQqYBDAiAlOATFPAJAARUH0KiABEQPUpIAIQAYgARAAiQASWABGACOAs336eRQSYBJYAEYAIQAQgAhABiABEACKI4u5zmAQgAhABiABEACKANa68OykCTAJLgAhABCACEAGIAEQAIgARgAhABCACEAGIABK7epMHEWASWAJEACIAEYAIQAQgAhABiABEACIAEYAIQASQ1J3vyhMBJoElQAQgAhDBVicpYBKACEAEIAIQAYgARAAiABGACEAE8JG7/6YjAkwCS4AIQAQgAhABiABEACIAEYAIQAQgAhABiABEACIAEYAIIJGIO6CLAJPAEiACEAGIAEQAIgjWe++WFpMARAAiABGACEAEIAIQAYgARAAiABGACEAEIAIIF3GnCRGACEAEIAIQASKwBIgARAAiABGACEAEIAIQAYgARAAiABFE8AUdmAQgAhABiABGi7rThAhABCACEAGIABFYAkQAIgARgAhABCACEAGIAEQAIgARgAhABCACEAGIAHYXeacJEYAIQAQgAhABIoj8Zb6bAJMARAAiABGACEAEIAIQAYgARAAiABGACEAEIAIQAUSLvtOECEAEIAIQAYgAEVgCRAAiABGACEAEIAIQAYgARAAiABHc4gs6MAlABCACEAGIAAYacacJEYAIQAQgAhABIrAEiABEACIAEYAIQAQgAhABiABEACIAEYAIQAQgAhAB7GjUnSZEACIAEYAIQASIIOKX+IIOTAIQAYgARAAiABGACEAEIAIQAYgARAAiABGACEAEEGnknSZEACIAEYAIQASIwBIgAhABiABEACIAEYAIQAQgAhDBNb6bAJMARAAiABGACEAEIAIQAYgARAAigHCjb8EoAhABiABEACJABJYAEYAIQAQgAhABiABEACIAEYAIQAQgAhABiABEACL4hi/owCQAEYAIQAQgAhABiABEACPMuCO1CEAEIAIQAYgAEVgCRAAiABFc1n5YRspPAjGQ2bAd10cviTi4po5AFIhAECSJ4Hnyg4NtIwARgAigeAROjDEJQAQgAhABiABEACIAEYAIoGIErhZjEoAIQATw1swPXokAk8ASUH7q7LhR3kHCyyHwcghEALUjcG9TTAIxIAIxIAIxIAIxIIIPY/AUUjoCEAGIAEQAIgARgAigcAQ+fINJACIAEYAIQAQgAhABiABEADf4ZNYPV5832iknf2LQJFi08Hg5tG0IYhABYhABYhABYhABYhABYhABiABEACIAEYAIQAQgAijhZQnO8O7i3cjPS2S/cCiCi6J2KleeRVD66Dx7W3x6zjmBKP3PkwgQgwgQgwgQgwgIjuGEeERA+ckgApwYWwJEACIAEYAIQAQgAhABiABEACIAEfAhH1MUATwej3NuEiACTAJLgAhABCACEAGIAApzL1L+VOWOEyYB5f0Dp3AQUqoeiAgAAAAASUVORK5CYII=",
+                "origin": [
+                    646,
+                    3067
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 39624517,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Side facade",
+                    "id": 25646000,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Keep Shape?",
+                    "value": "Rectangular",
+                    "id": 98699855,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 53488752,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 81575360,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Coursed",
+                    "id": 45070680,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 31590945,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "4",
+                    "id": 33309650,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "id": 13085922,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 16267661,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Keep",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAIAAAAHzCAYAAADo/xUQAAAFaUlEQVR42u3d207jMBiFUbvq+79y5gYkBhWpEJ/3+q7R0IlX/vTglFIGd13XVbRMjxm/9PrI4Q8FYBoAYBoAYBoAYBoAMHoaAPZ/dfXFrbXWHr+31b9rAiw+DX66rKwwCVZ4DI+Tda867r+inP0YH6cu/DsHdvTBX3EaPRIXfvTBf+dxzULwOGnxV7tU/BbkDARHPweYhWCn9zMAmHwJmj0FAGhw8Fuf8SMRAHDj4Pcc9b0RfD72pyVf9yy9rutq+Y7lq8f8tBjZUE2A8MkEQPgEBCD80udVwLfSPiYGIDwAwqcRACaAABAAAkAA7JfPAUwAnQ7AWW4CDNlnl3i30HaXADeQtp2Kz/QD4BKg6OwHWHTajHg+UmutAIRfVlwCPAcQAAJAACjwCalXAZsg6PWyEIBwDC4B4ZcHADwJFAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABMBb+V4fE0CpAJz9JoBSATj7TQClAnD2mwBKBeDsX7fPbxkxAUwAZz8AAsDZD4AAcPYDIACc/QAIAGc/AALA2Q+AABAAAkAACAABIAC8BwCAANCOff27gwAELz4A4YsPQPjil+JvB8cuvAlg8QFIX3wAwhcfgPDFByB88QEIX3wvA4MX3gSw+ACkL/5tAPYC7L34JoAAAEAACAABIAAEgAAQAAJAAAgAAaCVavlJ4C0APgo2AQSAABAAAkAACAABIAAEgAAQAAJAAOg4AD4KNgEEgAAQAAJAAAgAASAABIAAUJda3xYGgAAAQAAIgLezF8AEEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQADoCgO1gJoAAEAAaXo/bwgAQAAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAsQDsCDYBBIAAEAACQAAIAAEgANS5XvcFAiAAABAAAkAACAABIAAEgAAQAAKglGJHsAkgAASAABAAAkAACAABIAAEgAAQAAJA7et5WxgAAgAAASAABIAAEADfsyPYBBAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAO0MwI5gE0AACABNqfeXQwAgAAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAYgDYEWwCCAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAHS/EV8RB4BeA7Aj2CVAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAC0MwA7gk0AASAABIAAEAACQAAIAAEgAASAABAAAkBdGvUVcQAIAAAEgAAQAAJAAAgAASAAlAfAbWEmgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAPp1I78iDgABAMBH7gw2AQSAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAABAAAkAAaHkAbg03AQSAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAGge43+q6EACAAABIAAUCoAdwabAAJAAAgAASAABIAAEAACQAAIAAEgAASAjuvHXai/2SfwfTfriD0GtdZ62l6GGbuCu/7Cngv06mDtDuI4AD0X5p2DtRuIYwH0WJC/HKzVQRwPoOVi3D1YK2KIAnB3IVofrBVARAL46wL0PlgzQETfGzjjP//u41r1sbXoWXQb6M4vPwFoMJW+/txuGLwVHB4AAGinJ6UACACFA0gZzwAIAE86QwCcsLvnL7uoZr/VbAJMPNtXeC4DgOcASn4FA0D4y1cAghcfgPDFL8V+gNiFNwEsPgDpiw9A+OIDEL74pSx0X8BPvXp/3cfB7foHUMP3QdyHbjIAAAAASUVORK5CYII=",
+                "origin": [
+                    660,
+                    3231
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 99424280,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Roof front",
+                    "id": 83703394,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Keep Shape?",
+                    "value": "Rectangular",
+                    "id": 81326594,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 66323997,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Coursed",
+                    "id": 79752141,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Flat",
+                    "id": 30277035,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 28798656,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Keep",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAALsAAABaCAYAAADgiCdNAAAClElEQVR42u3cy5LiMBAEQKTg/3/Zc5nTxPAw2LJalXXfXSOli5YXuN1k+mzbtlmF79MsQU3orTV7B3tOmwO/L90S1B1bjDewR83nwMMedRAFHvYI6MA7oMYgd2jV7JHQNTzsMdCBhz0KOvBm9hjkZnjNHgldw8MeBw542KOgAW9mj8OVPMNr9rAWTW542AMxpYKHPRRRInjYg/GkgXdABSbm0KrZNWNMw8MOSAx4YwwUMSONZgc95jVqdshjGl6zgx7zujU75DEtr9lBj1kPzQ55TMNrdtBj1qjZQMhTGr6DLinr1myWpDR8B11S1rLZGElp+A66pKxvswmS0vANckkB30GXlPVvFllSGr6DLil70iyopDR8T4Ze5flw5U8bzlRIDfIaP0Ja/hOHE9ywLQn6swWfqoEeXCfwAdhHjSxXY6pwjZXBt9Wh713cqzDtuU7gF8N+5QF0JKZPrtHvSy6EfXSbXwHq22sEvjj2GZCfDerIawR+X/oq0GffiPabKlDOuN6r970n3uErXNeo17wSeD+lYQx42eYjWn4EeNiBf/vvqA4eduB3/dmzW/5M8LCH3yCfwq0IHvbQdj9q9Kl0gIddm091SD6z3e+2X44EP/P3DGCXJQ7ZxhgB/RPsvu8plaG/NcZAXiflfmh08JOc/mzhRi9e4udQ5GLs2txNuGLukEsUdsglYowBXaJndpEK56C9RQ27lM4e8LBLDHjYJQY87BIDHvbA2XX1dXi0FtN9xNf/VspR6P9a0uwS8273stk1rXVYpeHvNlRSwN8Bl4QD+bZtm++gLjhmeTLzf2APOF/Mhv+qaQJ2h+uYePQosIt8+i4y6zsJ7BKDHnaJQQ+7xKCHXYajv+rf9uhRYm6oH6XH9GwxnYSWAAAAAElFTkSuQmCC",
+                "origin": [
+                    609,
+                    3123
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Flag Affiliation",
+                    "value": "Portugal",
+                    "id": 63788263,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Rectangular",
+                    "id": 38210268,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "flags",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    134,
+                    3136
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 93467200,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 75270381,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    2971,
+                    793
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "Trees",
+                    "id": 90417531,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Tree Type",
+                    "value": "Deciduous (Most common, broccoli-like)",
+                    "id": 19133913,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Complete",
+                    "id": 80860645,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Single",
+                    "id": 85473275,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
+                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
+                    "id": 54174928,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "plant",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAFEAAABUCAYAAAD6QtuFAAABy0lEQVR42u2d0ZLDIAhFi5P//+XsSzuzD2lNwg0iHl7bIXK8INqsa69A2/d9//W5mdlrQrMsAD0gj3xHTohlAng1+DN+z/r75avnwzIBvBK4emI8mWLZAPYCH+0zFKIn2G+D9fo88q/IlC0jwAifSn9tRYDq8bTKwUbZBrj7cX9q4wa44Jq4vy1bgz66NrbsQc0A00hdf79pwHtAicBzLiwAdEIEYKJt37IQUeHgbd/q7Q3prIJJKt9XIAuLCCA10QkPJdIn5lEhEFEiEIFIPQQiSgQiEKmHXyHO+opvJttQm19EpDM1EYi1ILK4oMQ8EFEjSswD0d4Glou9Zu8L1X9SVYjmloNKYIftWEh5AUTemnBCBKATIgCPbQNegBIByI4FiDP0iCgRJQIxhan+ahYlCjoQIApAdiGudNhwFyRKFIC0CLlH9XlPXD5UDqL6MjbVM20GgJ66/MR1W5chzgxQFVNvDEu+FfYfyuPN9grHYIq7FWlxBCDb7MFxAFFkwtrK9bC8Ekek8t1nks4CwA0V+p/dZl8ZM4BtkQOpOjEtOvCezxlBhx0tzQbnE6/sKEwBtnKNbSupi21fZYinakZxxUqDG/0fekbZH1pgELnkFtMwAAAAAElFTkSuQmCC",
+                "origin": [
+                    1493,
+                    4558
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "Trees",
+                    "id": 93011636,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Tree Type",
+                    "value": "Deciduous (Most common, broccoli-like)",
+                    "id": 50587778,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Single",
+                    "id": 96273530,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Complete",
+                    "id": 10248047,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "plant",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAFUAAABCCAYAAAAmJpp5AAABcklEQVR42u3cWQ7DIAxF0djK/rfc/rRS1CEC9AwGrhcQktPH1IYeR5J6vOpYoGwU4O1NmRmoQtAVcC0raAvs5/VHfSiWGbQEJ+NQMgXqPxzlxKbE91knA/VKQfoBzQTwTlPvpVdtij0aM3Oiotq0GbpmmqVSYWIdUP2zOaD6cggSo5JSMSqgdP/8qKT0u04gA9azYOo3AQ7ogKSCWZ9aA1MP64AGd38wNWl1QIMW/4CyTQUVVApUUBev62QPagAsqAGwoDKmgrrtdwDOFlULSlKD6oRAl1DG1CDQJZJ6faie88PdL6q+Ukp6HJqwV6VZUtmlopISCVv80m+vIzHKdrIfWvNR3aUVZtiBs4p2vXScyAAwy7HKsJcpSgFK26kFHXlw7ay9UMnNrpTQlrabb/YfbkSiWlGjDxjLUZV19/CqlP5qI6oHbLP37zmEOBCboc5aoK6KOvsf0ZBUUEGlQAUV1N1XACQVVFBBpTZAnXniegJHfsCvtCCw0AAAAABJRU5ErkJggg==",
+                "origin": [
+                    1380,
+                    4783
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Side facade",
+                    "id": 63796378,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 33609340,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "well (structures)",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAACgAAAAwCAYAAABjezibAAAAq0lEQVR42u3Z0QqAIAwF0G34/79cLwVRWSzddonrWxh2uNoiFRGRZWsC2HQHXjpUFQFovQ6UVLsJ3t5ckKoLWIH9DMzC2oxBItfrlAQjUw0DzsKmAEewll02vOs1PUFvqhBAqCkmkEACCSTwb0DkzxynmEACCSSQwPHWUCC9X09DxkEA37ZCGiqsNEHPBlLLfmB6mYneq2ahJpDAt5fweIF44vQ4+BlccVa3Avs5UE7v4qa3AAAAAElFTkSuQmCC",
+                "origin": [
+                    1966,
+                    3540
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 91017620,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 43299057,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "well (structures)",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAADkAAAA0CAYAAAAwhpBbAAABCUlEQVR42u3a0Q6DIAwF0Lbh/3+ZvbgEN1AQKOXaPprJOBYkBYnAIh6RXmMUWO46MzMRUUBClYJRYWk2GRFmOpOjUOaQs2DLkRowdaQ2Sg25GjYNaQmWLiEBDZWLgAprRu4Iu0Xujioi0WAnJDLuG8JHQCNPJQkoVrL1FxhWLotNEKxUVdabY6X2hztDhV4QjnSkIx2puivQjNx1zRT0LPqcdKQjbc1HSGTu7e/D1ZGOXBe5LVbITP5CfbiiZPMVmeRRk7t1sR5xBlMq+9K2H9eGPV9H9bTV2t8YY1RD3v1PTXs9xfr0OVnTudm7DdMyOXKU9D6ExzdfQa3tA3V35u8rYdQDXetH8h/p2YhkSNLJ8gAAAABJRU5ErkJggg==",
+                "origin": [
+                    1950,
+                    3566
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Side facade",
+                    "id": 30735932,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 55512859,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "well (structures)",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAqCAYAAABcOxDuAAAAkklEQVR42u2XwQ6AIAxDKdn//3I9YSAq6lYOKDtxgNcWCBlIVZFkGQNActZhYQ1uJr4QOZ14BX4q4ob2hHIaUBNDvfv5kfiRKlu3rtSCLuj/oCQ5aXzFqz/p6auiA4Cp3NVtkClhTfxo7yQ7qF7Xlz0u73pVU8KG3lNTOtydRj4M7vge0Rz93nSdnoG9YlkZu9QGCHosdSx+0HAAAAAASUVORK5CYII=",
+                "origin": [
+                    1952,
+                    3617
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Top",
+                    "id": 50668991,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 62400900,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "well (structures)",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAGoAAAAoCAYAAAAWsW/wAAABBUlEQVR42u3aWw6DQAiFYU/T/W+5fakPpjczXAacnwXoyCcBjNtGuMbjFd7XFam1w/xMsCSgCsJEgQEVBOMNBlQwjBeYgMmBsYIJnPlxBkvA9AATMD3ABEwPMAHTA0zgNMECZvwtz9y5BIytyUeeu0SP6gqT8UxTp74r7DIZz/zt/lodxhtnNB//ziCqZm5fTvvWB07h8Ryc4lAddptlF15wCkOBUxiqMs6KMG85qAoEzjHu4AAFTGcocMbiticvK4FR/2YvOZ5nToFUWLOFFzAjVDYaYA5QmWiAOUFFowH1YerzSCqJbVBREVUGfBKUFQ2oCVAjaEAF9Cj62QUr6myVgXmMJ+KErEQpsrOkAAAAAElFTkSuQmCC",
+                "origin": [
+                    1939,
+                    3540
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 15350156,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 87887978,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "well (structures)",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAAwAAAAeCAYAAAAYa/93AAAAUUlEQVR42u2UwQrAMAhDk+H//3J2ctCWbfFSBjPnFzQYBExJEgCEC6bCBVNHBV4mPIGDwQGvlSrwbYY2bDVI0hczkGQf7geGcMFsBN++3lydE60VJCzXRS/KAAAAAElFTkSuQmCC",
+                "origin": [
+                    1950,
+                    3635
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT"
+            ],
+            "classTitle": "path (will be sketchy)",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAIYAAACXCAYAAADQ8yOvAAAC40lEQVR42u3dy1KEQBBEUSH8/1/GjQuNYCJgHlBZdXKny+b2zWoeunw9yLZt29+fl2VZvmRM1iNQPPqd9M3yzMVnj0HGOGME9hgCxjMXGhwDZwyRl8DYfmMZgSHAMG8AAxyyB8a77kuAo6Ex3LSSjw6frAEMAYYAQ50IY8jlYLAGMMABDAEGawADHKJKpBYYrAEMAQZrdM1yxwXziJ8xJBWMO/SuUgLAoHUpVSWsEQDGXdYAB2NIKhisIYwh58BgDSlnDHAUB8N9DSk3Y7AGMCQRjDvrhDUYQxLBYA1glAw4CoPh6AoM1pBzYLAGMFhDso6r4CgKhjoBBmvIOTBYAxisIefAqGANcDCGJIHBGsAQYOSFNQqCUeXoCg7GkBQwWAMYAgzWEMaQT4LBGsAoH3AAQxLA8K4GMNQJMHKtAQ7GkAQwWAMYAgzWAEbDgKMQGO5rACPGGsxRBAzWAEYMHKyhSsBRHYyKlQKOIsYABzDUCjB6nFLAUcAY4ACGWgmPf3UVZLb2xqi+8OyhSsBRDYwEXU+Gw59NMnfUrJKUBZ9mD9+dMkjd4TNxkbsbZLUDweG4Co6sGaPLQneaOzzUAogqAXa4MTp1d6o9VgsKcFUCjvwq6XocTDHhaiEl0hhdzVEd+tUigj1++ASHKhlXK9XAd1wFfB8wOp9UqsCxWESboB0YAFElY6vlLvgd/2yCGWCoFlXiaAsMM8fVcLQ1BjjMGGaOD2yEMe86TPn29F2AjHoJZtyHyS9AslooG8FxFRzAkP9wnAVkJBhTXzA+A8dYY4ADGOB4Ag4zxuC5AxiscRoOxgDHBgxwHIbDd6EvHOk6bxDGEDOGSjluTGDI/gaxBOaNvXy7/LJXpYwx3BqPZipgDITjyICtSpy0DJ+TrPHqsRsYTeB49/0XVTKsIhijoTWuvCvLGIOtwBhB1qjyrAYYBeCo+OAOGDfAkfAEFxgXwZH2ON/w2XBwlELW6PY85QcLAuCg71agqgAAAABJRU5ErkJggg==",
+                "origin": [
+                    1809,
+                    3469
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT"
+            ],
+            "classTitle": "path (will be sketchy)",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAABG0AAAHNCAYAAACkSoaOAAAWr0lEQVR42u3d23bjtrJAUcjD///LzEPitO0WJV5wqQLmfD1nJ+kyKQGrQfpRAAAAALhl27atlFIej8ej1j/r01gBAAAAxvuKNaX8G39EGwAAAIDOvgea375O63wYEwAAAEAdr2LM1//93f/PFydtAAAAAG56PB6PZzHmaKB5RrQBAAAAqOhOqPnO41EAAAAAAYk2AAAAAEF8/5Xhog0AAABAQKINAAAAQECiDQAAAEAA3x+NKkW0AQAAAAhJtAEAAAAISLQBAAAACEi0AQAAALhp27btzv/+9/tsShFtAAAAAEISbQAAAAACEm0AAAAABnr2aFQpog0AAABASKINAAAAQECiDQAAAMAge49GlSLaAAAAAIQk2gAAAAAEJNoAAAAABCTaAAAAANywbdt25X/36n02pYg2AAAAACGJNgAAAAABiTYAAAAAnb17NKoU0QYAAADgsqvvszlCtAEAAAC4oGWwKUW0AQAAAOjqyKNRpYg2AAAAACGJNgAAAAABiTYAAAAAJ7V+n00pog0AAABAN0ffZ1OKaAMAAAAQkmgDAAAAcEKPR6NKEW0AAAAADrsTbM48GlWKaAMAAAAQ0qcRAAAAALzW65Go7x7GDgAAAPBcrVhz9tGoUpy0AQAAAPjLiJM1v3mnDQAAAMA3EYJNKaINAAAAwP+iBJtSvNMGAAAAWFzrUHPlfTaleKcNAAAAsKhIp2qeEW0AAACApUSPNV9EGwAAAGAJWWLNF++0AQAAAKY2MtZcfZ9NKX57FAAAAEBITtoAAAAAUxr9ONSdUzaleKcNAAAAMJls767Z4/EoAAAAYBpRgs3dUzalOGkDAAAAJDfLyZrfvNMGAAAASClqrKlxyqYUJ20AAACAZGY9WfObkzYAAABAeFlCTa1TNqU4aQMAAAAEtcqJmj2iDQAAABDK6rHmi8ejAAAAgBCyx5qaj0aV4qQNAAAAMJiTNc85aQMAAAAMMVOsqX3KphQnbQAAAIDOnKw5xkkbAAAAoItZY02LUzallPLhkgEAAACIx0kbAAAAoJnZH4VqdcqmFCdtAAAAAEJy0gYAAACoboWXDbc8ZVOKkzYAAAAAIYk2AAAAQFVO2dQh2gAAAADVrBBsehFtAAAAAAISbQAAAIAqVjll0+PRqFJEGwAAAICQRBsAAACAg3qdsilFtAEAAAAISbQBAAAAOKDnKZtSRBsAAACAkEQbAAAAgDd6n7IpRbQBAAAACEm0AQAAAHhhxCmbUkQbAAAAgJBEGwAAAOC2bds2U6hLtAEAAADYMerRqFJEGwAAAOAmp2zaEG0AAACAywSbdkQbAAAA4JLZg83IR6NKKeXhEgMAAADOmjHYjI40vzlpAwAAABCQkzYAAADAYbM+EhXtlE0pog0AAABwgMehBvz3uewAAACAV2YJNtEjzW+fLj0AAADgGb/OeyzRBgAAAJhWttM1P/7b/fgAAACA77KfsMkcar7zK78BAACA/wk2cXg8CgAAAPD+moA8HgUAAAAL85uhAv+ZXJ4AAACwphmCzYyx5v8/m0sUAAAA1uJ0TQ7eaQMAAACL8N6aXPz2KAAAAFjAbMFm9lM2pXg8CgAAAKYm1uTl8SgAAACYkEeh8hNtAAAAYCJizTw8HgUAAAATWCHWrPRoVCleRAwAAADpOV0zJydtAAAAIKmVYs1qp2xKcdIGAAAAUnK6Zn5O2gAAAEAiK8aaFU/ZlOKkDQAAAKQh2KxFtAEAAIAEBJv1iDYAAAAQnGCzJtEGAAAAAhNs1mUIAAAAENCqvx1KsPnDSRsAAAAIRrChFNEGAAAAQhFs+CLaAAAAQBCCDT/mYgQAAAAwlljDM07aAAAAwECCDXtEGwAAABhEsOEV0QYAAAAGEGx4OysjAAAAgH5WjTWlCDZnOWkDAAAAnQg2nCHaAAAAAE0JNtd8GgEAAAC0tfIJG65TugAAAKCRFWONUzUVZ2kEAAAAUNcqsUagacvjUQAAAMApYk2nORsBAAAA1DH7CRuxpvO8jQAAAADumznYiDVj+JXfAAAAcJNgQwuiDQAAAEBAXkQMAAAA/MUJmwA/AyMAAACA62Z5NEqkicdJGwAAAFiUUBObd9oAAADARbP/im/GctIGAAAAFuJ0TaKflREAAADAOZlO2Ig0efnBAQAAwAlZgo1Yk5932gAAAMBBgg1df45GAAAAAK+JNQz5eRoBAAAA7MsQbMSaOfmhAgAAwBNiDcN/vkYAAAAAP0UPNmLNGryIGAAAAL4RbAjzszYCAAAAiBlrBJq1+eEDAACwvJHBRphhj8ejAAAAAAISbQAAAGAQp2x4RbQBAACAAQQb3hFtAAAAoDPBhiNEGwAAAOhIsOEo0QYAAAAgINEGAAAAOnHKhlPXixEAAACwsm3btqYbb6GGi5y0AQAAAAhItAEAAAAISLQBAACARjwaxR2iDQAAADQg2HCXaAMAAACVCTbUINoAAACwrNa/OQru+DQCAAAAqMMJG2py0gYAAAAqEGyoTbQBAACAmwQbWhBtAAAAWJL32RCdaAMAAAA3OGVDK6INAAAAQECiDQAAAMvxaBQZiDYAAAAAAYk2AAAALMUpG7IQbQAAAAACEm0AAAAAAhJtAAAAAAISbQAAAAACEm0AAABYhpcQk4loAwAAABCQaAMAAAAQkGgDAAAAN3jkilZEGwAAAICARBsAAACAgEQbAAAAluAxJrIRbQAAAAACEm0AAAAAAhJtAAAAAAISbQAAAJie99mQkWgDAAAAEJBoAwAAABCQaAMAAAA3efyKFkQbAAAAgIBEGwAAAICARBsAAACowCNS1CbaAAAAAAQk2gAAAAAEJNoAAAAwtZ6PLXlEippEGwAAAICARBsAAACAgEQbAAAAqMgjUtQi2gAAAAAEJNoAAAAABCTaAAAAQEWPx+NhCtQg2gAAAAAEJNoAAAAABCTaAAAAAAQk2gAAAAAEJNoAAAAABCTaAAAAMK1t2zZTICvRBgAAACAg0QYAAAAgINEGAAAAICDRBgAAACAg0QYAAAAqeTweD1OgFtEGAACAKfnNUWT3aQQAAADMRKxhFk7aAAAAMA3Bhpk4aQMAAEB6Yg0z8oIkAAAA0ooUa7yEmNqctAEAACAVp2pYhWgDAABACmINq3F0CwAAgNAyxBqPRtGCkzYAAACE5GQNqxNtAAAACEWsgX85vgUAAEAIWWONR6No5cMIAAAAGM3pGvibx6MAAAAYRqyBfY5wAQAA0M1skcajUbTkpA0AAAC3OTED9SmCAAAAExJROmyonbKh9TVmBAAAAHMQajpupgUbOvB4FAAAQHJiDcxJGQQAAEhKrBm0kXbKhl7XmhEAAADkItYM3EQLNnTk8SgAAIAEhBpYj0IIAAAQjEATdAPtlA29rzkjAAAAGE+oCb55FmwYwONRAAAAA4k1wB6lEAAAYACxJtHG2SkbRl17RgAAANCPWJNs0yzYMPL6MwIAAIA+BJtEm2WxhgjXoREAAAC0J9gk2SSLNUS6Ho0AAACgDaEm0eZYrCGgDyMAAACoT7DJQ7Ah7LVpBAAAAHUJNkk2xGIN0a9RIwAAAKhHsEmwERZrSOLTCAAAAFiBWEM23mkDAABQiVM2cQk2pLxujQAAAOA1MSbxplesIfP1awQAAMDMBJdFN7tiDTNcx0YAAABEJLZwaZMr1jDT9WwEAABAbYIL3Te3Yg0zXtdGAAAAXCHMEGZjK9gw67VtBAAA0Ja4AY02tGINs1/jRgAAAPUINNBhIyvWsMq1bgQAAHCPUAOdNrBiDatd80YAAADHCTQwaPMq2LDidW8EAADwnlgDgzatYg0rX/9GAAAAPwk0EGCzKtaAaAMAAKUINRBmkyrWwJ/7wQgAAFiZWAOBNqiCDfy8J4wAAIAotm3bWm/aRBoIuDEVa+D5vWEEAABE8Cym3NnIiTOQZFMq2MD+/WEEAAC80uP0y9e/58qmTpyBpJtRsQbe3ydGAADAntqnX47884GJN6BCDZy7Z4wAAIA9Z6LKmc2YWANBN4iNTrWJNXDx3jECAABqbs6ApJvDg2Hl7OeDYAM37ksjAADITWABbm8ML4aV1o9QwvL3phEAAOQh0ADVN4UiC8S9P40AACAukQZouiEUbCC0TyMAAGhPfAEAzlJVAQAaEWqA0JtBp2wgPCdtAAAAEhNfYOL72wgAAOpywgZouokTaWCd+90IAADqEWyAZps3sQbWu++NAACgDsEGaLJpE2tg3fvfCAAA7hFrgCabNbEGfA4YAQDAdYINUH2TJtYAX58HRgAAcJ5YAzTZoAk2wDcfRgAAcI5gA7Qg2AB/fS4YAQDAcYINUHVDJtQArz4jjAAA4D2xBqi6ERNrgCOfFUYAAPCaYANU24CJNcCZzwwjAAB4TqzhyAbbdcLdawhg9zPECAAAbMTpv7l2jbl+AN5+thgBAICNtA22a5S5rxsg6eeOEQAA2AzbfLu+ca0AAT+DjAAAwIbWZhv3husGCPiZZAQAgA0pNtdkurf87IFlvuuMAACwqST0gtUGHYBVvwONAABYjViTZKEq1gCwuA8jAABWItjkINgAgJM2AMBCBJsEi1OxBgD+fC8aAQAwO7EmwaJUrAGAv3g8CgCYmmATn2ADADvfkUYAAMxKsAm+EBVrAOAlJ20AgCkJNrEJNgBw4PvSCACA2Qg2gRefYg0AHP/eNAIAYCaCTdBFp1gDAKd5PAoAmIZgE5NgAwAXv0ONAACYgWATcKEp1gDALU7aAADpCTbxCDYAcJ9oAwBAVYINANQh2gAAUI1gAwD1iDYAAFQh2ABAXaINAAC3CTYAUJ9oAwDALYINALQh2gAAcJlgAwDtiDYAAFwi2ABAW6INAACnCTYA0J5oAwDAKYINAPQh2gAAcJhgAwD9iDYAABwi2ABAX6INAABvCTYA0J9oAwCktm3bZgptCTYAMIZoAwDALsEGAAZ+DxsBAJCREzYdFoqCDQAM5aQNAJCOYNOeYAMA44k2AAD8INgAQAyiDQCQilM2bQk2ABCHaAMAQClFsAGAaEQbACANp2zaEWwAIB7RBgAAACAg0QYAYHFO2QBATJ9GAAAQk5gCAIuvBYwAAMgg+/tsBBgA4CwnbQAAGhJrAICrRBsAgAbEGgDg9nrCCACA6DI9GiXWAAC1OGkDAFCBWAMAVF9fGAEAEFn0UzZiDQDQipM2AAAXiDUAQGsfRgAAcI5gAwD04KQNAMBBYg0A0JOTNgBAWJl+axQAQG3+tggACCdirHHKBgDovv4wAgAgkmjBRqwBAIatQ4wAAIjA6RoAgJ+80wYAGM67awAA/ibaAABDRQ02TtkAAMPXI0YAAIwQ+XSNYAMAhFiTGAEA0JNYAwBwjMejAIBuvLsGAOA40QYA6CJ6sHHKBgCIRrQBAJpzwgYA4DzRBgBoKkOwccoGAIhItAEAlibYAABRiTYAQFOiCADANaINANCUX/ENAHCNaAMANCPYAABcJ9oAAE34jVEAAPeINgAAAAABiTYAQHVO2QAA3OdZbgDglOxBxrtsAIA06xYjAACOmOH0jGADAGTi8SgAAACAgEQbAOAt76gBAOjv0wgAgD1iDQDAOJ7rBgBKKfMHGu+zAQCycdIGABbj9AwAQA7eaQMACxFsAADyEG0AYBGCDQBALqINACxAsAEAyMc7bQBgYmINAEBefosCAExGqHmy4PGbowCAjGsYIwCAOYg1O4sdwQYASMo7bQBgAoINAMB8RBsASE6w2eeUDQCQmWgDAIkJNvsEGwAgO9EGAJISbPYJNgDADEQbAEhIsNkn2AAAsxBtACAZwWafYAMAzES0AYBEBBsAgHX42ygASECsObCoccoGAJiMkzYAEJxg855gAwBMucYxAgCISaw5uJgRbACAWdc5RgAA4wgzNxcygg0AMPNaxwgAoB+RpuIiRrABACb3aQQA0JZQAwDAFf6GCgAaEGoaL2CcsgEAVljzGAEA3CfSdFy8CDYAwCrrHiMAgH1iTLCFi2ADAKy09jECABBnUixaBBsAYDFeRAzAMoQZAAAy+TACAFYg2OTmlA0AsCLRBoDpCTa5CTYAwKpEGwCmJtjkJtgAACsTbQCYlmCTm2ADAKxOtAFgSoJNboINAIBoA8CEBBsAAGbgb7EASEmYmXhx4pQNAMC/6yIjAIjjaoiYaZMrxiy+MBFsAAD+rI2MAGCc2oEi84ZXrCH7NQwAUH1tZAQAY7SOFJk2v4IN2a5ZAIAu6yMjAOhvdKSIsDkWaoh4XQIAhFofGQFAHxEjxYhNslhDhOsQACDFOskIANoSKRjyBX8yhIy4TsUaAIA36yUjAKhPqGHYF/uNENLyuhVoAAAurKGMAOAegYZQX+w340iL61mwAQC4uI4yAoAYG1u49EXeKYicveaFGgCACms9IwBou3mFpl/k4ggAwLxrPSMAOEasIdyXuGADADC1TyMAeE2sAQAARvA3dAA7xBpCf4E7ZQMAMP+azwgA/hBqSPHlLdgAAKyx7jMCYHVCDam+uAUbAIBleKcNsCyxBgAAiEy0AZYj1gAAABl8GAGwEsGGzDwaBQCw2PrPCIAViDWk/8IWbAAA1lsDGgEwM7GGKb6sBRsAgDXXgUYAzEKgYcovasEGAGDdtaARABkJNEz95SzUAABQRBsgOHGGZb6QhRoAAH6vEY0AGEmUYfkvYrEGAIC9taIRAL0JNSDWAABwYM1oBEAPQg3898Ur1gAAcHTtaARAS2IN/PeFK9YAAHB2DWkEQG1CDXz7ohVrAAC4upY0AqAGoQYEGgAAKq8vjQC4Sqhh2S9PcQYAgB7rzogbP4thiE2sYZkvSd9HAACMXI9G3/xZMEMMQg1LfTn67gEAIMK6NMsG0AIa4t+nkPbL0HcMAAAR16lZN34W2JDnfoWQX4C+RwAAiL5mnWWDZvEN1wk1TPsl57sBAIDM69mZN2wW6/CaWMO0X24+/wEAmGFdu9rmzUKe1Qk1+JwHAIAka9vVN3MW96xCrMFnOAAAJFvv2tzZBDAvoSbe54Ofic9oAAA46nNvQbzyxuL3n90GgezXMAAAAPk8bPwuDk7IISD3bK773M/L5y0AALxcC9tU2FiQl/sz/73sZ+gzFQAAdtfENhU2HOThXpzvPvUOMZ+TAACwu162sbBBIQ732Zr3pN/cBwAAPF0321zYuGCj7t5zLfi8AwCAgGtoGwwbG2zQ3VOuDZ9jAAAQcF1tc2EDhE24e8Z1Zt4AABBwX2NDakPKPBtn1r5Hel+DPocAAKDxmttGFRsx17xr1/VqxgAAEHCPYxOLDbpr289/XnevYXMGAICB+x6bWyDNB5aA0OWz2ZwBACDIHijCBgHg5QeViND8c9mMAQAg4F5o1AYB4OmHknjQ1NfnszkDAECC/VHrjQHAXx88ggEAAMD7vVPLf7hwA4t8kIgwAAAA1X3YyAEAAADE0yWqOHEDE3xYiLAAAAB992E9/2XiDST5YBBoAAAAxu/Nev8LhRsI9iEg0AAAAMTcr434lwo3EODmF2sAAABi79ui/wcKPFDxhhdqAAAA8uzhMv5HCzlw4iYXagAAAFL6NAKYk1gDAACQm2gDExFqAAAAJtrjZf6P95gUCDUAAADT7vdm+YMIOCx384o1AAAAc+/7ZvsDiTdMfcMKNQAAAMvwThsITqgBAABYdD9oBG048cPtm1OsAQAAWHtfaAT9CDm8vSGFGgAAAL72iEYwN6FowE0lvAAAAFBjf2kEtBIlGIkoAAAAZPQPriIjSyFyM2gAAAAASUVORK5CYII=",
+                "origin": [
+                    1714,
+                    1915
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* River, Ocean or Pond?",
+                    "value": "River",
+                    "id": 97428559,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "bodies of water",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    3091,
+                    361
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 92753254,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 34676817,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAATUAAACxCAYAAAClSSp+AAAFPElEQVR42u3d227bOhRF0ZLQ//+y+tIUhuM4lq3L5uIYj+e0SCFSU5u2k7Q/fLOu6/rKn2utNVcLanFTbgyZsIGoRcZM2EDU4mImbiBqkTETNxC1yJiJGxX3+Wz7sM24yJdcaIHjwr0+0/5rMy6wsDHjfp9l/7UZFzdm8USSjXv+3T0z0mc3F1sC5nmAr+u6bgnPiENCm3mBTWvY73l7sllgccN+T9qPzQILG7X27rN1HGm/X7UfW+KmEDZS9u7Xeg752paoiZmwiZm9+LnFpgD7NsliQwBn3rtHT29d0MAePvt6HHlNmo2Qy2tr9vGM+3SxCYCoSAqYpyD2dtIe7RYdMKmJmGkNe73o/mwW1wbCnk/al83CInb2fNL+63svrMV1U8KlgXQzYFpzDyTtv24xsZ4k6W4ArCvTR83GB8f2mKgJmmkNKu+7vuUL2uxA9bD1V76ImNlcMMre62IGJIVt8YQGknSTGY6gxEXN5kXYqLj33tl/3aUDoiY1T2KOemLOxAdwix0/AWIeMJ7AmFT2nWpdhWv3lqgheqIWtX8cPzntZnfDc4bu2ABERc0lwPEMUQMecvK5/mHYLQQIm0kNQNRg+1ECRA2Y+mHYvQ4AmNTAEdTxWtQATo6aIyhgUgPHNEQNhI2TouYIirC99m++ZRXrWFwC+DzAwlZHszCU2YyFTwnujXH2SbdoQBJvFFBqGqr4cPXAH8ti0agYkS1H0Uf71xtek0cNqk9H95H67UH89f/FTdRgiMgdNfUxPq+pIYiIGsw06bl6Y62lqOFmIGotRQ03A46fIGxUXcdmoZnVs3dF3Q/jrqPfUYAn/d1/EzTHT4gInJhlPJyasRtIOob6IZFA/vFT2IBRj6FeUwPyJzWAuKi1f1wiIGpSEzZgJJuDdeVHPm4D66MnwMMT5rt/+aiobP03iRuwS9SOiErFyAKTRe2ToBz5ep3IgagdHpEr3nQQN5grav2sL3TVu6jevYXJwnbUVFQxJqY2yJ7Sdo/aKMQNMoM2bdTEDXLD1l0EIMn039AubCBqAOX4eWqmNTCpAVSf1kTNtAZZ97JL8PhcfkQofYQEHD/jpkETIZjUhpvWXgmXqQ1MalGTmIkNRK180M74O4CoHR6oT+IkbCBqZScvYYMC965L8NxvL+jvHSRvIIBJDeD/kCFqxY6GjqLw2b3jBhr46At8j9riUgBJpynHT0dfyLpvXALHUEh64JvUTGwQdT+IGhBF1ABRA6h49BS1sMUERA0Ie7CLmmkNTGoAogZwwilF1ACTGmM8sUDUEDYYnB89FBq8Pb4J/qd4+gZ7St8DLsG4buOyV4C2ToECR7WTiahNFr+jjrHihqhRbqoTN0QNxI1iUfPuJxATNFED4ogaZZ6wIGoAogaIGsDJ3n0JQ9QAkxqAqOH4AKIGIGrAxFO+qAEmNYCKU5qoASY1gKpTmqgxxCYFUUPYmHafiBpgUgPTGlX3h43G6fz+Ao584IkawkbU9O43tAMRMRM1ICZkjp84ghIXM5MaMEyotvCRDiAmaKIGRAVN1IA4ogaIGoCoAYgagKgxCD+5A1EDPIBEjeQbzbQnaPd8mxTD32j3N53vKZ18b7gEXG1rhF6dHMRtnunM8RM3JrFHeovOcNPa1pvOxDZX6L2mxhQ3cnrYTKWOnwx6U75783qnVNSgXNj2iJKwiRrEHaPSwibUosYAN+n9jbr774YUgtz94xIwq4Q3D8TZpAYxQRA0UQNBFjUQB//msfjwLQiZSQ0QtLLXyyWAa98JFS3HTxAYfvQXCPjZnKPKXcMAAAAASUVORK5CYII=",
+                "origin": [
+                    2893,
+                    1190
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 48640841,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 17039584,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAOIAAACiCAYAAABcSBG7AAAD0ElEQVR42u3d21LbMBRAUduT///l9AVoh+mAElvWuaz12haKq+0jOYTuG1zo+Xw+f/s9+77vrtS3a+IS9IxhaHG8EMw7n1OQfx0ugQh/+lgjH+/Kz2kiIsAVC9BUNBHBRKT1JDQVTUQQIqYhQhQhzoiIz1nRRAQhYhr6GoWIGIUIr8bYLUgPa0yJ+Iu0wUMcIQpRnLamiNB1MREtOBPSRAQ3LBPR4jIdTURAiCBEQIggREZ5UNPr2gkRhAgIEYSI86FrKEQQIiBEbE+FCHzn3Rfu4j0WevB3ZJiIuMGZiJiIpqSJiJueiYiJaEKaiCLEGRERmpAmIgzeHO+6QQoRAuxWhGhbSgBChAA3SyGahpiIInQVECIE8XAJTELW84K+ABkJZfKL+yai+DARBYipKERxESRIIYqQAGEKUYQEiFKIIiRAkF7Qh0k38Fdu4kKEADsqIUKA6ShECECIEGAyChFMxBoHbTi7roQoQgKsL+++ECABCFGACFFoUCJEgVHBIUJYv349NQUT0TQEExGECKQO0baUCv59F/8hQjARRUj7abhtCV7QFx8moghh+jRcPhGFBh9xigLWTsNt27ZdgLA2wvBnROhCiHCTn3afQoQAMe6/lQrMPzOaiOCMCLapXyHO/L/BgYFt6shB8q59svMqXc+Kj9Xh/e/XxUjrM+LsLerox7dVpvXWdNYW8d2wTEa6bE2PmVNp/3B3wJB6a3plCFdFJEbah/juVLs6HjHS9ox45uw2MxznRoQ4EMUd00uMCDEIMSJEQcKl0n/Ttwc5VFjDpRax6UjWIXJU/cIg01o9qn+BkGGNll20tqlkGhLeoQ8BdmoPlwjWH5VMRFgcYekQPbQh0/qzNYUAA0CIF15UT2qtl7f/bOULcyaMMxdVkAJ81eECzfm8zqgiNBFPTidvbObuNSLERdNTkCJsFeJvi371FlKQImwdYqQznBg9b2jzQOFzsUd9iCLGvhG2CrHSeZY6AX7yvaYQ4NmBECHA8wPf4gYLAzQRIUiEQoQtxpN0ISLCAISICIUIIhQiIhQiGRaIayxEaHOjEyIiFCKIUIiIUIhkXjiupRCh3A1NiBaR6ydEEKEQEaEQsT11vb7+/v4JY7vqB0qNLtSMP8Cqwk1LiEWjPLs4swRZZecgRNJGWWn7LkRSBlntDC1EUgVZ9SGWp6bkmRqFnyQLkRRBVH85R4gIX4iIQ4RCROxCRCgiFCImoRARjQiFiEkoRAQkQiFiEgoRMYlQiJiEQkRYIhQiJqEQEZkIhYhJKEQQoRBZHp0IYaGMPyN1lT+6G9GmJroZAwAAAABJRU5ErkJggg==",
+                "origin": [
+                    2990,
+                    1384
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 73990229,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 94744965,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    2707,
+                    1201
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 75174008,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 16741643,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1073,
+                    324
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 75941877,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 66152212,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1523,
+                    340
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 70146411,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 48574181,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1974,
+                    720
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 29692537,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 51633310,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1723,
+                    435
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 56187570,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 78624052,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1843,
+                    4231
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 91366101,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 47868509,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAOYAAAHpCAYAAACWS0DaAAAHgElEQVR42u3dzXLaShCA0QzF+7+ysomrCAVGwIzUP+css7h2hD66R+Y64w9v27Ztu/+zMcZwZZjl4hJ8H+Vvfw6f8C7/RYwPL6jJiYkZK0owMQMHaWpiYpqSCBNhI0xRIUwEjjDFBH3CjBSX0PnU6BDknh9frIzIj09oF2aGqSRM2oSZbU0UJ63PmCBM07L094wwgexnzIrTxxkUYQoVYYpSoDhjgjBNS39nTMymxClMNycIE29MCBOEaVq4DpiY4kSYbkQwMfFmJUw3IAgTb1oIE4RpIrhGfOR6xs3jf2WCk8N8FeujSE0CrLInr1oitM6S4IzpRoOFYb4TmBi9mfG/4UYp8kJ6oGZiihIShSlKCH7GxDmTAGG6MWCe697I7h8uCBHW8ambSi+mJ7NWWeCgME1LCBamKMEqywLeXIWJOBEm4mwYphdSnJiYiBNhQtIwfWLE1MTERJwIE3EmDtM6K05MTGBvmKYmmJhYZxEmJA7TOgsmJtZZ9oZpaoKJCQgThAkIE4RJYp7MChMQJggTECYIk+I8ABImIEwQJiBMECYgTI7myawwAWGCMAFhgjApzgMgYQLCBGECwgRhAgd6+k8heFLX8Ga4+acxnr3+/vmMY1xdArwZW2URL8JEnMIEhImpKUxAmCBMQJg4ZyJMECYgTOgWpg8rg4lJUh4ACROECQgTECYIExAmCBMQJggTECYgTKbxsTxhgjABYQLCBGECwgRhAsIEYQLCBIQJwgT2uroEHO3+Q+9+ubiJSbAoESZiFSbiEqAwSR6uaIUJwgRnTWGSPDhxChNTUJiIUszCxKRMzUfyEKOJCfsj7xy6MEGYgDBxbhUmIExMTWECwoTmU1OYIEwwNb8K08erEKeJCQgThAkIE4QJCBOECQgTECYIExAmCBMQJggTECbs0OF//RImCBMQJlQK068VwTnTxASECcIEhIlzpjCBRa4uAVWn5xhjmJgQbKXNvOoKE+dMYQLCBGGCVVeYYGICwgRhgnOmMAFhgjDBOitMaDMx/b4fMDHBOitMECYgTBAmOGcKE0xMQJhgnRUmmJiAMKHIOitMECYgTBAmOGcKE0xMQJjQfJ29ZNm5wcQEhAnWWWGCiQmmpjDBxASECW3WWWGCiQmmpjAhaZzCBKssIExIus4KEwLGKUywyoKpKUxIGqcwIfIq69eKQJypaWJC5IkJxJmawgQTExAmCBMQJpzgqAdAwgQTExAmCBMQJggT+HHEk1lhgokJCBOECQgThAncWv1k9nLEFwFMTBAmIEwQJiBMSGXlQ1NhgokJCBOECc6ZwgQTExAmNF9nhQkmJiBMSLrOChNMTECYkDVMv1YE4p0zTUywygLCBGECwoSAZj0AEiaYmIAwQZiAMKGwcf8HPqIHE8IaY0wNU6RwfpiXlf9xwBkT+oRpaoKJCSV8+3xmrPpCv01aD5Xo4Jttc8x6F3j3mxAnwpwUZrRxD1XDvGT9xiHjufNH6DCheojPtsNXcV5dPoh3XDt9YlpnwSoLwgQ+W3OFCSamcyZYZUGYQLkwrbN09OwBkIkJJqapCc6YIMxjp+b4x0tIRek+xC5GTMxg8YkSYYoVDvHoRyaX6CE6S2JiJj1PChdhAsIEYSZmnUWYwFT3T2ZLhWlqYmICwjQ1ESYgTKBBmNZZhAkI09REmIAwgQZhWmcRJiBMU5Nqbj/IbmKCiQkI0zqLMIFZ58w2YZqamJiAMEGY1lkQJgjT1ARhAsIEYVpnQZggTFMThAnCBIRpnQVhQnzbtm3twzQ1MTEBYYIwAWE6ZyJM4NBBIUwwMQFhgjABYS44cLsKCBMQJggTECYIszAPgBAm8HQ4CBNMTECYIExAmIsP3yBMQJggTECYIExgmtsHj8J8cYHAxASECcIEhAnCLMgDIIQJCBOECQgThAlMcf+wUZhvXCwwMUGYgDABYYIwi/EACGGCN39hgokJ7D4qCRNMTECYi9cNWHVfCRNMTECYkPR4JEwwMYE9DxOFOfFigokJwgSECcIEhJmYB0AIE4QJRNq6hAkmJiBMSLjGCnPxxYVP75urSwbx3shNTAi4XZmYEPCYI0w4MUBhQtAInTEhQZTCTPiC0eM1FiYEJEwQJiBMECYgTBAm9BHhx2HCBBMTEGbxdYe6r6swwcQE01KYYGICwoSia6wwwcQEhAlJ11hhFnxBMTEBYUKfrUeYiDIgv/AZQQoThChMhJeUMyaiFCYgTBCmVQrXXphgYgLChOZHCGGCMAFhYo0VJiBMECbdVyvXWphgYroEmJbCBIQJwgRrrDARpTABYYIwsW4hTPCG94rfK5v8Rt22bXNVCr7OLsE8KyLZMzGqxtn5eGCVLXBjOt8KE9PC31+YbsqON7INQJimDCF5Kiuuw/4eex5SeXMxMYV98PcwbojyxTV0Ceb65kcXM2/Ms36EIi4TE9NamLipRSlMEoUiSmESLBhRClNACBPRe0MRpnCSfQ1RChOESc2z5ayv9dsnd5jHZ2UbRGldFSbBQ3v1UT0xBnmtXIK5Mtz4j75HQTpjtl1Ro978ooQgU91v14vtL9fnz+NI5O2eAAAAAElFTkSuQmCC",
+                "origin": [
+                    1591,
+                    4107
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "Reeds",
+                    "id": 16428979,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Complete",
+                    "id": 20512549,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 66664012,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
+                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
+                    "id": 56544899,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "plant",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAFQAAACZCAYAAACxHR2rAAADjUlEQVR42u2dzXbsIAyDB5+8/yvTzXTR+UlJsEGyxfKe2wl8SGATAu3hVHrv/fXfWmvtUazYQwUP6Cd1CqgKBlCp8285hOBdGDOTqUmd7+2YaZdJmZ/h3YV6nP3ImfRHHth779Vi0XYnOJ+1OgrkkXZcratdeWh/lsxWnxVP2zHB7FbonbaO1tlYGoSg6JF6l5vlv0FpzzILVqnni51Hrf0NqlVPHz8BnIEqhToPIYcU6VukUGeVmpbfEig0Y37/K0wTTI2hAlppcrKK786lUDagUmmAQgX1PEe/ZXlBdQgLvXuIPQ49a/tI3Vuk/BmD+rMF6JG/P+5AUP7vHDZlHWtn1TkVh2oC2xzYs3aA+0YHxZ6ACq00PFg0qAqh0jKF6isQlWkxWOSDGRIA7zpKobI85mTkCpTd9lIocGRisjuhQlls7xE3G1Jl2NWpMZQZKLrtvRxmiJVi7lhZ3lkIAoquUOSsacXzTXb3HffLAF3lDsvasF1RibFUVIF9QbtvA4pg+ygXGVuF0TuvZNgU2dlWRTkpFMp4togsD9bJVk1BUqhjZ60YgozdYlJo8qFEC8yMQLWDWUVAywH9ZvtssagUKqACKqAKn4oqFHFCM8EUUFl+tTp3jtX0hwmiWZ/u+h/0zMrlthqW9JFqO6NOypkE6gkwU2cYm6XSAkVajrv7zIi6GlIDy1v+7gcKCIskURGKIVqRWfmhZ45kSWWXK5TtRAf6r5ErnY6z7Hv5aKhRl/ZtVehuqOkyJRT7p9osNjrrv/6/LOrVNZQMQEevcxRQ8IAfoZP01pMJqA5kFdTpYcSYK182bFqp0oh3XVd+09gthvZsyJsWPjWM5Ygi7Q91Vqtla1C5wH7W+uidCX83cn8WKVSpJ65KmcZuKTST5TMunmxXaDaosrzz+AoBNJNKYRSaBaos72x783qIRzaTQaWu3ylpj32A5Wehst/WYBE/rD32gDkxamnPEgK00vbF/0AuC5vYoY6CXBqHskLdcjfy6EOZoF5V5bZMiQEqxDWUDC/eIlUZolDWtNEL5BbLj6p0VefA31bDYn1vVYYqFB0q5Tn2iFAjVblkDEWBugrk1klpFdQdkQfURwteUFercqlCV0PdHQ83ZksjJhZLK5FlnISZlLwbj5juHqz5N2rd6M4PRV+E2Va5q+Mpy2oWxQ5mpqVB+A23bOussJMS64K1djBnLWzfI30rP9OxXSOJwGmgAAAAAElFTkSuQmCC",
+                "origin": [
+                    3222,
+                    350
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "Reeds",
+                    "id": 44511271,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 47118402,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 68205606,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
+                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
+                    "id": 97350087,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "plant",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAJEAAADmCAYAAADV/2daAAAFX0lEQVR42u3d2XLjMAxE0ZHK///LmqfUTKWyWAtJLKefY0ckLhuARFN//tByHcdxZL7+XQjjgJQVJhBxJRARiDhP8noIRAQiAhGBiAhEBCKdGYiIExGBiEBEICIQEYFIew8iAhGBiAhE6iEQEYi4EIiIQMSFQEQg4kIgIgIRgYhApB4CERGICEQEIgIREYh0ZiAiEBGIiEBEIFJUg4jKwgciAhGBiEBEBCLFMYgIRAQiIhBRL4g6FaogAhKIgEQtaiIggaiFtm3bQMSNqIMTAQlEQAIRkEhhTSDiRiAa0DJHA6lLmy+dJV0wIJLWOJEVSo9CZOUDf38CoGggATtpOhM4EJGUFgMibtQTJE4EJBBVVPujZaS0fm60gwVI0hnlhIgLESeitRC940IjnapKPfHTOGwFIU5EBCLFfx2IIgQRSJyIQLSmsyEQUQeIuABNdSKFLYiIQEQgUptVhuhMANVFIEovEBeBaFQgpbTkEAkg6c4oBkTciEo4EZBBRCDiBDTRidyvAVFoN/rt/wM4iRNJayBKLxAXgUggQUQUH6LRBW4VJ2x/Uhr1A+9l+sHDiQC0HChOVMh9VtWEe5QJoPfmLuL8lUtnVe9V/QbPynGriSwcEOnApDMqkL53qxlA4SDyELafpLOkDhppsYKIQCSlgogKNAMgopgQSScgIjVffIg8ya81R5yIQMQBQdSmboi6oewJ2R472fmO4zi80pwIROvrr2ppbRhEbjj2aSI4UWGAZoEEogUucMelz352BkilIeqYUq9Acxc0TlQcoHcX0h2QQNS8kP7/c1e/YzfZebuiKNe/Vw1mpzpt9VxKZ4WdddbRzHu2Vdc5VUYVJ+JCPSE6MwFdj5rhRAlTxozrirogpLOEndndxyp3gP/qs6kgsr015hxwokSBXQ3Qd7sDdoHqlTJHzOPecfUDsiFEd4Meoav5fA0jQJ5dUH/odeXDZ4KybdtWeeVXG9uZrSMff7tfnbguxSQ9kM5+IvNugAGSP5WFr4miQ9Z9EXyMfzeRceqM0t2Z35Bxm+HprKIb/TamTGMefa17lgudmVLswx4EUZeUljXAI6773e/cZ/zTUQA+3ba++302xQ1u8ausZK9HHwSRraa6silOpHPpp91qA910iGYcEEBrXfbM547jOPaIgxil2TXdV/+v4uLaVwcj4qR+N77qD4SvxnWPPjCKD+I+68KuUO7Bb47FexmijAG2uT95iz8qCFGD22mRtblPxEmCOpGaxYJp40R3n7o/FRRvGQrYvdEaUD/Han/6CxXeNdP89p9COtHngEcC0ym3SdLZiPSmG5vnnq+nLuDpoKmT8qTc0K/vnO0mM07uqABNKoiuupZUNre4fz150YK3bhvJytTvbdQJC/NotSKIpKZYEElpfcAp7UQRIa7+i9nXb51Ox5V/FcSztwiqzPPrqwHfAal7Sntn7NUW6eu7Qbtj/BxArU9Ky+YoER+4tjgVZMQgOdi/rRMdxvrWYegZJiOCC3VdPNvIYjBLOrzTDHDdEzsb3UQE0G2IKoN0dlyd6p2309nZiYx0EivnSVBYZy62gTMZIg9PgXM7nY1Ma5m6NEg8UFird2hod1YRJJ3WIIjOTmrWLQ/gGexET4PEfaQznRfNgegnN1odPO6zCKIKD13BkzSdRQEJPJPmeSQUq06UB0+hwtoBUyB6JDCzQFL7JHCiyAECT6J0djVYo9yI+zSoiUaCBJ5k3VmkFh48RZxoVSABVMiJVnReQqUmAhAnWtN5CU8TJ/Jbfgr1QmDw5FSI4/bAo7C+BQKApLPLaQ08nOgWHABSE6l9aKwTfQcLgGhZ20/x9RdPydk3RGmwiAAAAABJRU5ErkJggg==",
+                "origin": [
+                    3043,
+                    588
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Singular or sample from a group?",
+                    "value": "Sample from a group",
+                    "id": 11703958,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 98352819,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "rock",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAATAAAADJCAYAAACkEW6WAAAFb0lEQVR42u3dy3LaQBRFUaTi/39ZmaRSrpSNBVI/zu21RpkE26K1uS2EvT0Y7jiO49P/u23b5giyKos/MFpCBgJWJl6ChoBRJl7ChoBRJloCR1VPh0C4PEfibQKjRLxWOYlfPT9ClmN3CO4/MZInL1OjYyBgFj7hLzCeS1tI8UpeGIW2UW4UNoGx2Kt1lZ/p6s9hEjOBiZdJLP55MYnNyW0UnApByglsYjKB4USJm0h8PGtNroGJV9djcPdtJum3rWACE6/JJ7EWN42OeB5MYPNxDYy44I96ETmO4/guYt99P2JnAjN5hU9hZ4/Z1Slu5M/qI0kCJl4FI/bJMfv6GBWOuYAJmHghYAiYcCFi9biNQrxAwMQLsIUULmwjETDhQsSqW/ZGVuGCfEteAxMvrDkTmEUEA9ar7eiXYyFc0Pmku/jRKxFbIGCixYoRXE3Ja2DiBSYw4QJTmAlMvMCab+HpCQRMYOIFzgMBA0SscMBMX8DjEfgupHjBDyfzG+9KVvlDJLaQYMsZOxxsFQ488PsUdedfiRIw8YLmIbv616EETLyg1CQ3k+mvgYkXOO8iAyZeQNwWUrjAVjIuYMIFIha5hRQvIDJg4gVEBky8YG4zn6ObgwKcisWE18J8FhKwhQRsJQUMQMCA6lOYgAGxERMwIDZiAgbERkzAgEsRGxkyAQNiQ+ZOfKBNXDrcuW8CA2KnMgEDYgkY0HwSEzAAAQMEDEDAAAQMWEz3G1ndwAqLxqbBja1P4QJsIcULqBYw8QJaabaFFC4gLmDCBURuIcULiAyYeAGRARMvIDJg4gXEbyEBeg87+2zfEIAJDBAw0xdgAgOYIWCmL2AGH/1+HgEDbovQhd8TJmBAbMze3kKKF9DKu31xER+IJWDAGgGzfQRMYAA3DEoCBpjAAAQMQMAAAQMQMAABA4o7eyuFgAEmMIDeU9h+54MB9IyYCQywhQRoNYX9NIntZx/AYQRm206awABbSAABAzi5jdzf/Q8AJjCAlgEzfQEmMICeATN9AZEBEy9gVl/7ZAsJ1JnATF9AyhS2ixdQZgIDSJnCBAwwgQEMC5jrX4AJDKBnwExfgAkMQMAATgTM9hEwgQEIGICAAQIGMJ9t27anwwCkhevfvx8PN7ICOdGyhQRK2F/VDWD6gAFEB8wUBszoVZteRsvFfSA2YKIGlAqYmAGzBMxFfCAyXgIGRLsUMO9cAqOmLxMYsO4EBiBgAG9uHwUMWHsCcyEfsIUEeHMoEjDABAbQc/oSMMAEBtB7+hIwIDZetwXMrRTAiH7sM3wTgHh99P9bfFN+0SHQY+jZZ/3GAIZMYCYyoMeQ411IIDJeAgZEezoEQNrkJWBAbLgEDIgN17+v0euH8U4kCJcJDFg2WAIGxIXqJ26jACLj1TVgPl4E4hU9gYkYYAsJGDpGBMwUBkRPYCIGpq/oLeT2l2XiOMLH63/kF3d3/v2vjo4pK+2Shn2TTrQ+C8txpmq8ugdstZPp/4Vw5ee/uqiEjGrx6hqwFU6gu6ajVotIxKgUr24Bq37ipDzxAkaleD0eHd6FdNJYpBAZMPESMayJ6AkMEC8BswAsWqwDAQOq8BtZvfq6Vmnyyv1ZWj2w+77qEDhr1haS6EXvupl42ULCixOrxaS3+la5+guPLaSFMex57fEbNb77Gi5v2EJiG9Lsce7Ysr56jPJTyUIvrj40bIF0f65b/EqgT5+TKmt11TUpYBZKl+d95uOWsl6tvZsCturb6haQSdKaEzDxIjpkv62FO84P603ARIspY2hdDQ5Y5YhZXLBAwKpFTLhgsYClR060INtyHyUSLRAw4QIETLiAcgETHuDXTvT4Imcv5IsW8I4/nC8FJR+5NpQAAAAASUVORK5CYII=",
+                "origin": [
+                    1936,
+                    1940
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "Length in meters",
+                    "value": "3.08",
+                    "id": 73589043,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "scale bar",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAF4AAAAYCAYAAABz00ofAAAAhElEQVR42u3XwREAIQgEQck/aO5zDzUAd4EhA6ctSyIzc/0TEbGYJ3OE3hGAeBj+HiBE4YEwCQ+ESXggTMIDYRIeCJPwQJiEnwxhfbDOEKUO0gmi9A2qDNHqDa0E0foX4Qwx6h/tBDF6k1RCsMKLIAgvgiC8CILwIgjCiyAIL4IgvAjiA+rmYBWQZ4mnAAAAAElFTkSuQmCC",
+                "origin": [
+                    753,
+                    3246
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "Latitude and Longitude",
+                    "value": "42.022583, -8.158028",
+                    "id": 19787083,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "latitude and longitude of known points",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP4////fwAJ+wP99djxmgAAAABJRU5ErkJggg==",
+                "origin": [
+                    2957,
+                    1464
+                ]
+            }
+        }
+    ]
+}

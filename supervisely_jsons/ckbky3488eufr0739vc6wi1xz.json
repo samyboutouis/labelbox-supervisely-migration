@@ -1,0 +1,674 @@
+{
+    "description": "",
+    "tags": "",
+    "size": {
+        "height": 10,
+        "width": 10
+    },
+    "objects": [
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Ruined",
+                    "id": 18097065,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 11637428,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Castle wall or city wall?",
+                    "value": "City wall",
+                    "id": 87743700,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Curved wall or straight?",
+                    "value": "Curved (Vertical - following terrain - only)",
+                    "id": 41205453,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Outer-most (low) wall, Outer ward wall or Inner was wall?",
+                    "value": "Outermost (low) wall",
+                    "id": 89477367,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 26039520,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Blank",
+                    "id": 60623110,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Flat",
+                    "id": 69562463,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 84965792,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Wall",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAV8AAADjCAYAAAAiyhc7AAAFeElEQVR42u3d227bMBBFUTPI//+y+lAEFdxLbNfiGXLWei7amIq3xpQrjdvJcRzH7c4YY9wAeKvxr/AKMcA1Ph4N7zN/DoAHJt9Xo2oSBngxvu+YZkUY4Dkf7/hLbEcABCZfkzBAYPL90yRsGgaYHN9zhC0xwOT4moIBQvEVYYBgfEUYIBjfc4QtPyC+oQCLMCC+pmCAPvE1BQPiawoG6BdfAQZaxLfqfRgEGDD5AtAnvqZfQHyDARZhQHxFGKBPfEUYEF8RBugZ33OEHUZAfAUYoEd8BRgQXwDEF0B8ARBfAPEFEF8AxBdAfOvyXV9gFWPXaN0/oeNvr7HqkzwA8d1/EQQYmMyeL4D4Zrg9JSC+4QhbBUB8BRgQXwDE9+Lp1wQMiG8wwlYBuCy+vucqwIDJV4AB8eVXgEUYEF9TMCC+AIiv6RcQXwDE1/QLiC+A+GL6BcQXQHwBEN86bD0ArxgicsGiulERYPI1DQPiK8AA4nt9gEUYEF9TMCC+AgyILwDia/oFxBcA8QUQXwDEF0B8ARBfAPEFEN/bzW0QAUy+G/MfLQDxFWAgZIhCcPFt9Tz0O2edMPliAg68fkMBO/q0BKxwwjmO4zABY/IFkz6IL/Wj+47wijfiC6FgCjDii5hMmHYFGPGFQnEUYMQXQlEUYMQXQjEUYMQX4W34b4P4Clfrn//KC3wgvpSLbrXgCTDii2hYSxBf0TCVg/iyfIBX+jlFGPFli7CtGDMBRnxZOhYiBuIrwID4sn+AnQxAfBFeJw/EF+EFxFf8sJaIL2LlNcE38fV0WMHoEikBxuQLwQCLMOKLKJmCaeTTEiBAP1+/bTfEF9ENroUIM4Nth6ahtN/phIT4Ii7WCPFl7yiIik8HiC8Car1pa/hFW/jgPXlhyLHNrj+Ib8MAOK5CTC22HXxsxhojvogCiC/gRIf48uwbXgxAfMH0Cye+7bDLgby72u44rnOs6MmNdUxfBI+PEPdl2wGcKBFfvJl7HjPHTXwBmMAFN6j0hrQHbPIFQHyhBZ88xRcQYMQXBBjxBQSY/zQcdFjoDevbECZfIDMNG47EFwhG2CqILyDAiC/0CrAIr8kFN9jxje3CnPgCoszvbDtAI7YpxBcQYfEF+kbYKogvIMDiCwgw4gtMCLAIiy/A1r79zp8zITQMg+8D5+MrxiDCFIivGIP4UiC+YgwCTIH4ijEIMAXiK8ggvhSJrxiDCItvQWIMAiy+YgwIcM/4ijEIsviKMSDG4ivIIMDiK8aAAIuvGIP4iq8YgwAjvmIMAiy+ggxCLL6IMQiw+IoxCLD4IsYgvuIrxiDA4osYg/iKrxiD+IovQgwCLb5CDEIsvggx9Aux+AoxiK/4IsTQI8DiK8QgvuKLEIP4IsQgwOKLEMM+ARZfhBjxFV/EGHoEWHwRYgRYfBFi6BFg8UWIEWDxRYihR4DFFzFGoMUXIYYeERZfhBjEFyGGHgEWX8QYAgEWX4QYAgEWX4QYAgEWX4QYAgEWX4QYAgEWX8QYAhEWX4QYAhEWX4QYAhEWX4QYAgEWX8QYAgEWXxBiAhEWXxBiAlEWXxBiAhEWXxBiAhEWXxBjAgEWXxBiEgG2BCDEzJ16xReEmMnRNfmCEBOIrviCGBOIrviCEBOIrviCEBOIrviCEDM5uOILYkwouuILQkwguuILQkwguuILQkwguuILQszk4IoviDGh6IovCLEQB6IrvkDrEKdvqSu+QKsIV7mPufgCLUJc7eER4gtsG+HKT+sRX2C7EK/wiDTxBbaJ8ErPpRRfYPkIr/gwYPEFlg3wyk9gF19gqQCvHFzxBZYL8C7RFV9giQDvFl3xBUqHeNfoii9QMsa7R1d8gVIx7hLdLz8AWr1PHSwk9ZcAAAAASUVORK5CYII=",
+                "origin": [
+                    2169,
+                    953
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 18049471,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Curved wall or straight?",
+                    "value": "Curved (Vertical - following terrain - only)",
+                    "id": 59697460,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Castle wall or city wall?",
+                    "value": "City wall",
+                    "id": 25555660,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Outer-most (low) wall, Outer ward wall or Inner was wall?",
+                    "value": "Outer ward wall",
+                    "id": 80293548,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 22062984,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 23462854,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Both",
+                    "id": 46802270,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 26335779,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "5",
+                    "id": 77178541,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "Flat",
+                    "id": 22921569,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 45861749,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Wall",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1848,
+                    1001
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 70622876,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Side facade",
+                    "id": 15833341,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 82694960,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Coursed",
+                    "id": 32477978,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 22231975,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "2",
+                    "id": 72175179,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "Flat",
+                    "id": 39738888,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 20789329,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "Fortification) Tower",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAADgAAAF7CAYAAACHPUhoAAAChklEQVR42u3d3WoCMRAG0G7Z93/l7Y2ClFbqmp2/nrkVhMM3JhON+vHRvI7jOJ49vk+F3etzMq5dgq/A2iV4BtciwbOwFgm+iysNXIEr2aKrYCUTXI0rk+AVsDIJXolLTfBqWGqCUbi2s2gZ4HGrTODevQVDgZVgy4AVUUuA1WGngV1gLwO7weyDgICAdYBdV9C0BLdt26JGRC3afQiXICAgICDgO8DOY5oEARuMbvtUWHiCWYuV1yAgIGAesPuYJkFAQEBAQEDAocAJY5oWBQQEBAQEBBwInDKmaVFAwPzaJy0oWhQQEDAfuN2qG+S33WB/hI3cB6fCLDKAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgGvrp5v3EgQEBAQEBPyPwCnfStOigICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKvr+817CQICAgICAgICAgICAgICAgICAgICAgL2AU74Lr0WBQQEBAQEBAQEBAS8CNj9yCRBQEBAQEBAQMBS9XjzXoKAE4Cdj0wSBAQEBAQEBAQEBMwGdj1RSBAQEBAQEBAQEBAQMADY8cgkQUBAQEBAQEBAQEDAIGC3I5MEAQEBAc/U/ea9BAEBAQEBAQcfmSQICAgICAgICAgICBgM7HJkkiAgICAgICAgICBgRWCHE4UEAQEBAQEBAQEBAQFPnnhWPMnjT69LEBAQEBAQEBCw1KhWeYQLees9ExrSopmfYYS9BrOQoYtMBjJ8FY1G2ia6r66pCUa0a3qLXo0s9xn76rYtt8isTrTkKroSWf4ayLstW34ffDfN1v81/5d0WwOfQe/JfwF12bq5HHof7AAAAABJRU5ErkJggg==",
+                "origin": [
+                    1987,
+                    1250
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 59646061,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 69668776,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 17268949,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Blank",
+                    "id": 82021729,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 90281210,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "3",
+                    "id": 31466370,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "Flat",
+                    "id": 92359975,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 16514872,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "Fortification) Tower",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAGoAAAF+CAYAAABqEY+uAAADUElEQVR42u3d204CMRiFUWrm/V+5XpEYgoA4h72Z9d1qIunir/VAGRe93ZxzPvucMcZY42sNy70t1FpwoHaGehdu7Dm+oN5f52XNB5QI+uixNz0BlzM/w+99firekrK4f12gtbed9AlbEqfhdsG2QGkrcus7Aib9+9WXs1tHoEpOf6BMlECBEigHCVBn+FkPlK1PoEB17dugnLpACRQogdKLhzFQJiq/phOniQIlUCdsGWMMv/r5/6lscyjLnwEBqhTmUChbbBAUDKc+UAIlUKAESqBACZRAgRIogQIlUAIFSqBACZRAgRIogQIlUAIFSqAECpRACVRwv70QEJSJEihQAiVQoARKoEAJlECBEiiBAqXNobyHk4kSKFACJVCgBEqgQAmUQIESKIECJVCgBEqgQAmUQIESKIECpe27d80OKBMlUKAESqBACZRAgRIogQIlUAIFSqAECpRAgRIogQIlUAIFSglQbmo2UQIFSqAECpRACRQogRIoUAIlUNnd3t4CykQJFCiBEihQAiVQoARKoEAJlECBEiiBAiVQoARKoEAJlECBEiiBAiVQAgVKoAQKlECBEiitCeWmZhMlUKB0cD+v2QFlogQKlEAJFCiBEihQAiVQoARKoEAJlECBEihQAiVQoARKoEAJlECBEiiBAiVQAgVKoEAJlECBEiiBAiVQAgVKoATqc6BcAJzV9RZME2XrEyhQAiVQoARKoEAJlECBEiiBAiVQAgVKoEAJlECBEiiBAiVQAgVKoAQKlEAJFCiBAiVQAgVKoAQKlEAJFCiBEihQAiVQoLQHlJuaTZRAfW5zzgnKRAkUKIESKFACJVCgBEqgQAmUQIESKIECJVCgBEqgQAmUQIESKD1rsQTZXV8CBSocyEQV4IAqAgJVgAOqCAhUCRCoAhxQRUCgCnBAFQGBKgECVQIEqgQIVAkQqBIgUCVA1/yFtwDJRBUAgbp03fS5AAIFaM3H/uiDc84JyKkPkq3v864EXwCBAgTqPED1UGd7W4ovSCYK0NmgvPtOOBSgcChA4VCACk59kMInClA4FKCCrQ9S+EQBKpgoSOETBSgcClDB1gcpfKIAhUMBKtj6IIVPFKCQiXr0X7KQ9m+8igOoYOsDdHzfFXKD/7OQFnsAAAAASUVORK5CYII=",
+                "origin": [
+                    1985,
+                    1298
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 81846051,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Both",
+                    "id": 85356255,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 79181560,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "4",
+                    "id": 39886873,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "Flat",
+                    "id": 11384260,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 65758719,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 57849914,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Castle wall or city wall?",
+                    "value": "City wall",
+                    "id": 34924003,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Curved wall or straight?",
+                    "value": "Curved (Vertical - following terrain - only)",
+                    "id": 29438010,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 49448275,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Outer-most (low) wall, Outer ward wall or Inner was wall?",
+                    "value": "Outer ward wall",
+                    "id": 71179617,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Wall",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1894,
+                    1391
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 53360284,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Castle wall or city wall?",
+                    "value": "City wall",
+                    "id": 48393215,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Curved wall or straight?",
+                    "value": "Curved (Vertical - following terrain - only)",
+                    "id": 33430550,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Outer-most (low) wall, Outer ward wall or Inner was wall?",
+                    "value": "Outermost (low) wall",
+                    "id": 77507128,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 94478129,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Ruined",
+                    "id": 89575523,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Blank",
+                    "id": 83655051,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 29932288,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "6",
+                    "id": 55932875,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "Flat",
+                    "id": 11878175,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 34664094,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Wall",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    2090,
+                    1667
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Ruined",
+                    "id": 27356940,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 53839175,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Castle wall or city wall?",
+                    "value": "City wall",
+                    "id": 22313325,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Curved wall or straight?",
+                    "value": "Curved (Vertical - following terrain - only)",
+                    "id": 58308100,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Outer-most (low) wall, Outer ward wall or Inner was wall?",
+                    "value": "Outer ward wall",
+                    "id": 65356230,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 69075573,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Both",
+                    "id": 39965327,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 40561951,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "12",
+                    "id": 64079864,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "Flat",
+                    "id": 81549824,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Complete",
+                    "id": 24920182,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Wall",
+            "bitmap": {
+                "data": "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",
+                "origin": [
+                    1834,
+                    1626
+                ]
+            }
+        }
+    ]
+}
