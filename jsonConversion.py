@@ -1,6 +1,7 @@
 from idConverter import labelbox_to_supervisely
 from nameConverter import convert_name
 import json
+import csv
 
 if __name__ == "__main__":
 
@@ -21,6 +22,11 @@ if __name__ == "__main__":
     # Loop through each object
     object_list = labelbox_bof["Label"]["objects"]
     used_ids = set()
+
+    reader = ""
+    # Open CSV file with all the conversion labels
+    with open('Labelbox to Supervisely Connections-Grid view.csv') as csvfile:
+        reader = csv.DictReader(csvfile)
 
     for i in range(len(object_list)):
         # Create a new object

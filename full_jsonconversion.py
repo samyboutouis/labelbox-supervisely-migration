@@ -66,13 +66,13 @@ something = 0
 noclass = []
 
 for index, entry in enumerate(labelbox):
-    # Initialize Supervisely version of Book of Fortresses
+    # Initialize Supervisely version of JSON object with miscellaneous fields
     supervisely_bof = {}
     supervisely_bof["description"] = ""
     supervisely_bof["tags"] = ""
     supervisely_bof["size"] = {}
-    supervisely_bof["size"]["height"] = 10  # where is this
-    supervisely_bof["size"]["width"] = 10  # where is this
+    supervisely_bof["size"]["height"] = 10  # Arbitrary value
+    supervisely_bof["size"]["width"] = 10  # Arbitrary value
     supervisely_bof["objects"] = []
     used_ids = set()
     for object_ind, obj in enumerate(entry['Label']['objects']):
@@ -252,7 +252,7 @@ for index, entry in enumerate(labelbox):
 
     # Not sure how to get a better name for these? The ID isn't very informative, the image name would be better
     # (i.e. moura2.jpg.json) but the image name is embedded in the middle of a large URL, not sure how to extract it
-    output_file = entry["ID"] + ".json"
+    output_file = entry["External ID"] + ".json"
 
     if not os.path.exists(newdirectory):
         os.mkdir(newdirectory)

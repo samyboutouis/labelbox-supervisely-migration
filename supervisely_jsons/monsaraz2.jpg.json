@@ -1,0 +1,154 @@
+{
+    "description": "",
+    "tags": "",
+    "size": {
+        "height": 10,
+        "width": 10
+    },
+    "objects": [
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 51075260,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Complete",
+                    "id": 74798262,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 42297705,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "house part",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAOUAAACiCAYAAAC+lArCAAABq0lEQVR42u3cMQrDMBBE0Uzw/a88qWzSpDECB+17lSoViz9bGJQXcEvbrrorSc7zYbRMC+DfiZLRAYgSASBKASBKAcC6KIUEz3sbAYgSECWIEhAliBIQJYgSECWIEhAlIEoQJSBKECUgShAlIEoQJSBK4PL9PpYowaYERAmiBEQJu0XpdXSwKQFRgigBUYIoAVGCKAFRgigBUQKiBFECogRRAqIEUQKiBFECogRECaIERAmiBEQJogRECaIERAmIEkQJiBJECYgSRAmIEkQJiBIQJYgSECWIEhAliBIQJeyvbUUJNiUgShAlIEoQJSBKmBTl+X8EsCkBUYIoAVGCKAFRgigBUYIoAVECogRRAqIEUQKiBFECogRRAqIERAmiBEQJogRECaIERAmiBEQJiBJECYgSRAmIEkQJiBJECYgSECWIEhAliBIQJeyhbUUJNiUgShAlIEoQJSBKECUgSpgeZdsaA9iUgChBlIAoQZSAKEGUgChBlIAoAVGCKAFRgiiBlQ4jYLIkESU+dESJ2ESJ0BAlYhMlQkOUQkOUiA1RCg1RIjZEKQT47QNwWjVikg9FLQAAAABJRU5ErkJggg==",
+                "origin": [
+                    2488,
+                    1119
+                ]
+            }
+        },
+        {
+            "geometryType": "bitmap",
+            "lablerLogin": "edtriplett",
+            "createdAt": "2020-06-02T17:02:42.352Z",
+            "updatedAt": "2020-06-14T23:20:32.100Z",
+            "tags": [
+                {
+                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "id": 26417381,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Curved wall or straight?",
+                    "value": "Curved (Horizontal only)",
+                    "id": 83811090,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Castle wall or city wall?",
+                    "value": "City wall",
+                    "id": 37728130,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Outer-most (low) wall, Outer ward wall or Inner was wall?",
+                    "value": "Outermost (low) wall",
+                    "id": 28266764,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
+                    "value": "Front facade",
+                    "id": 91170717,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Ruined or intact?",
+                    "value": "Intact",
+                    "id": 96019957,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Coursed, blank or both?",
+                    "value": "Both",
+                    "id": 49728126,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Crenellated, flat or both?",
+                    "value": "Crenellated",
+                    "id": 11320876,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "Number of merlons (numbers only)",
+                    "value": "10",
+                    "id": 57451054,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "value": "Flat",
+                    "id": 27620708,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                },
+                {
+                    "name": "* Partially occluded or Complete?",
+                    "value": "Partially Occluded",
+                    "id": 24743797,
+                    "lablerLogin": "edtriplett",
+                    "createdAt": "2020-06-02T17:02:42.352Z",
+                    "updatedAt": "2020-06-14T23:20:32.100Z"
+                }
+            ],
+            "classTitle": "(Fortification) Wall",
+            "bitmap": {
+                "data": "iVBORw0KGgoAAAANSUhEUgAAAUwAAADwCAYAAABrEV3lAAAEd0lEQVR42u3dy1LjMBBAUdql//9lsYGiwgJsR7Zb6nPWM0X8umklThIfLK/33s/8v4iIFbfrXVn2y9Htz348Z9DsglwneaaTetXQVo3/999wfARz+akGRp7DoimYggimzUttdsHPCSSWGBAQTCcNGBYEEzA4CCYgmoIJWKILpmdHMG0urjmwwH/XltuPFpgwLR3AUGLCdPAAwRRKwJJcLAETplACJA+mUAKCKZQwHbcVJQumUMK6Vrmfs2XamUCNcM46uTYHUKwhw/U3Qzx94zognoIJWLqP5evdgCkCmuHls6WC6dYHQDABEhjyGqbfOeauZZm9wLTBdAILiG1BMJ3gwmGbnPtfrB7fCKZQ4hyhqu3IReBCACo/iW93/jGAp14aGDH0NaEEKk6bZwK8iSVQNZxHO9cqh9KTArjOjkycrVo8RBI4G85WJSJCCbwbzlZhwwFGhLOtupEAo8O5rbhhwBg+FvnaF1/vBrCTYAIIJoBgAggmkIs3Ul/5mV3gUDRne+d8ZPQFEygVUMEEUgT0qnhmibJgAqbPGYLpBWWoFVDBtBOBIm4NplACM7vtPkyxBEyYQgkIplACXLokH/HbvwAZB7AwDQKzOXJ/p49GAibOkwEVTEBAb4inYALiuZPvwwTKLN0FE+AGy/3MLsCVBBNAMAEEE0AwAQQTQDABBBMAwQQQTADBBBBMAMEEEEwAwQRAMAEEE0AwAQQTQDABBBMAwQQQTADBBBBMAMEEEEwAwQRAMAEEE0AwAQQTQDABBBNAMAEQTADBBBBMAMEEEEwAwQRAMAEEE2C8iAjBBDBhAggmgGACCCaAYAIIJgCCCSCYAIIJIJgAggkgmACCCcCOYPbeu90AYMIEEEwAwQQQTADBBBBMAAQTQDABBBNAMAEEE0AwAQQTAMEEEEwAwQQQTADBBBBMAAQTQDABBBNAMAEEE0AwAQQTAMEEEEwAwQR4TESEYAKYMAEEE0AwAQQTQDABBBMAwQQQTADBBBBMAMEEEEwAwbQLAAQTQDABBBNAMAEEE0AwARBMAMEEEEwAwQQQTADBBBBMAAQTQDABBBNAMAEEE0AwARBMAMEEEEwAwQQQTADBBBBMAAQTQDABBBPgMRERgglgwgQQTADBBBBMAMEEEEwABBNAMAEEEyCbl4/99N67XQLwFchfH42Mv/6xgAKCuTOYAgoI5slgiiggmAMJKCCYIgoI5v0EFBBMAQUEU0ABwYzsD1g8gSzB3GZ4wL8fNMAjPZrxQZs6AROmqRNIbOpvKxJOwJLcUh1IthxfLpjiCQimeAIJgrlV2XCvdQJvt6Tqhps6gT1TpWCKJgijCVM0gTFxFMyJwrn3IAs+XBNHwUwanzvekBJWhFEwpwtLtnfrhRRxFMzHI7LCbUxiSuU4CuZFwah2j6eQUnWgEMyDYXADvKBSb7UlmAcufpF8/olIhMVRMMFkK4yCCWIqjoIJIiqOggnUiagwCiaIpzgKJoinOAomiKgwCiYIqDgKJnBhPMVRMEE8hXEJn14GTTsGce/uAAAAAElFTkSuQmCC",
+                "origin": [
+                    1969,
+                    3989
+                ]
+            }
+        }
+    ]
+}
