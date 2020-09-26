@@ -37,7 +37,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAOUAAACiCAYAAAC+lArCAAABq0lEQVR42u3cMQrDMBBE0Uzw/a88qWzSpDECB+17lSoViz9bGJQXcEvbrrorSc7zYbRMC+DfiZLRAYgSASBKASBKAcC6KIUEz3sbAYgSECWIEhAliBIQJYgSECWIEhAlIEoQJSBKECUgShAlIEoQJSBK4PL9PpYowaYERAmiBEQJu0XpdXSwKQFRgigBUYIoAVGCKAFRgigBUQKiBFECogRRAqIEUQKiBFECogRECaIERAmiBEQJogRECaIERAmIEkQJiBJECYgSRAmIEkQJiBIQJYgSECWIEhAliBIQJeyvbUUJNiUgShAlIEoQJSBKmBTl+X8EsCkBUYIoAVGCKAFRgigBUYIoAVECogRRAqIEUQKiBFECogRRAqIERAmiBEQJogRECaIERAmiBEQJiBJECYgSRAmIEkQJiBJECYgSECWIEhAliBIQJeyhbUUJNiUgShAlIEoQJSBKECUgSpgeZdsaA9iUgChBlIAoQZSAKEGUgChBlIAoAVGCKAFRgiiBlQ4jYLIkESU+dESJ2ESJ0BAlYhMlQkOUQkOUiA1RCg1RIjZEKQT47QNwWjVikg9FLQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -53,8 +52,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 26417381,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -117,7 +116,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "10",
                     "id": 57451054,
                     "lablerLogin": "edtriplett",
@@ -125,7 +124,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 27620708,
                     "lablerLogin": "edtriplett",

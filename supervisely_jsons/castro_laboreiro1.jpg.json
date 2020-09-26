@@ -37,7 +37,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAANcAAABSCAYAAADHAEHeAAABLUlEQVR42u3bwQqDMBRFwUT8/1++XUkpFayQVxKcWYq4CDk8kdgbcClJfr23995ba223bDw5hEriQgjiQgTiQgiISwiISwiISwgwSVwiQFxCgHtxCQZqbJYAxAXiAsQF4oJVHB8JxQUmFywW1/HXJGBygbhAXIC4QFwgLkBcIC5AXCAuEBcgLhAXrBmXk/FgcoG4QFyAuEBcgLhAXCAuQFwgLhAXIC6okyTigurJ5WQ8eC0EcYG4AHGBuEBcgLhAXIC4QFwgLkBcUGe3BPA28gD714OSxBKz2kY2ubDRvRYiIMQlBsSFcMSFaBCXmBCXaBCXoEBcgkFcYkJcwoHnxCUoxCUg+NzXZxf/dTJeVJhcQoK54hIU4hITDLcJCyadXKKCwXGJCgbEJSS47wUNhD0OOUpWQwAAAABJRU5ErkJggg==",
                 "origin": [
@@ -53,8 +52,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 98065075,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -117,7 +116,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "4",
                     "id": 36161406,
                     "lablerLogin": "edtriplett",
@@ -125,7 +124,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 20883080,
                     "lablerLogin": "edtriplett",
@@ -157,8 +156,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 31246430,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -221,7 +220,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "10",
                     "id": 54758924,
                     "lablerLogin": "edtriplett",
@@ -229,7 +228,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 10695092,
                     "lablerLogin": "edtriplett",
@@ -261,8 +260,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 35581943,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -317,8 +316,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 72845901,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -373,8 +372,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 40711222,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -397,8 +396,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Keep features (embrasures are pear-shaped, machicolations are projected walls at the top of the keep with crenelations above and corbels below, and arched buttresses are large, blind arches pressed against the wall)",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Keep features (embrasures are pear-shaped, machicolations are projected walls at the top of the keep with crenelations above and corbels below, and arched buttresses are large, blind arches pressed against the wall)",
                     "id": 45285731,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -429,7 +428,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "4",
                     "id": 80825673,
                     "lablerLogin": "edtriplett",
@@ -437,8 +436,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 38187265,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -469,8 +468,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 50747358,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -493,8 +492,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Keep features (embrasures are pear-shaped, machicolations are projected walls at the top of the keep with crenelations above and corbels below, and arched buttresses are large, blind arches pressed against the wall)",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Keep features (embrasures are pear-shaped, machicolations are projected walls at the top of the keep with crenelations above and corbels below, and arched buttresses are large, blind arches pressed against the wall)",
                     "id": 93681294,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -525,7 +524,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "5",
                     "id": 60502593,
                     "lablerLogin": "edtriplett",
@@ -533,8 +532,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 97455897,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -565,8 +564,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 61105492,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -645,7 +644,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "flags",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -677,7 +675,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "rock",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAScAAAEICAYAAAAdoDKiAAAFzUlEQVR42u3d0ZKiOhSGUejy/V85c9NWWVQ7CgTyJ1nr7szFOI3wuTdH7XXhkFJKef3vdV1XRwXq+XEIzofp3Z8B4tQ0TIA4CROIE8IE4gQgTldNTaYrqOfhENwfHG9DgM9cFGHTkFCBtS5yTbMagskpPhCmKExORE4upihMTnQRBJMU4iRM/TyBgoW1Tpj8u0GcECisdYx0cVvzECdhEimw1gmTnw1xEibAWidI1jv42/DfSmBCAmudMDkGIE4IFGNbXZQTPunuQ2FyEibHBsQJgUKcECgQJwQKcUKgQJwQKJgrTi40xw1xcoE5fiBOgDh51Tc9gTi5oICt7r8yRZRAnJpFZvtBVUGC8TX/dLrQBJ8cvr2AhprecxImYYK4OAlTNs8PrT2c9MCwcfp0M1uQgNvXuk/hESbg9jgJDxAXJ2ECotc6xuStBLR26Ia4qYlRvTu3xbqTOME3F/VVF/TrY515jD0vsrUekx3Tu6mJvavdkXPgyAW993G+eYya569IhcRJlLjzou7lfBOoxnESJu64sGc6z0StQpyECYSqeZyECEQqLk7CBCIVFydhApFK4x3iEGr2oUGcQKDECTgWqBkj9eN+E5iiTE6AQIkTIE6A6UmcAHECECcAcQLECUCcAHECECdgtjj5YivozwxvxDQ5AeIEsCtOVjvA5AQgTkD3cbLaQT9muF5NToA4AaamQ3Gy2gEmJ8DUJE5A93Gy2gEmJwBxArqPk9UOiJ+c1l8OFXCnU9GZ6fe2Q8QFO9GgUO0HFSoQp1vXuj0HzfoHxMUJuN5MG8rqAIIVb5rJyXoHpihrHSBOpifA5ARMvdpdGifTExA7OQkUmJ4OtcNBhEEu5sEGgSY/jEiBSEXGSaxAnLqIk1CBOG39JB5YN9GB2Pc5CRSIE4A4mZ4AkxNMaJT/qSROgDgBiBMgTldyUxzECRjECDfFxQkEKnNrcpBhTum3TLq5nyNQMFekrHVg/Yt84RcnIJI4AZHTkzgBJicAcQLECaA273MC9kXjpvdFmZwAax3Qv7u2GHECIgPlg7/AuYicuAf1em1v/55uv8hNsCA3UGeuz+ffNcS3TAoVjBe6ob4CV6RgnEC5IQ5EEicgc3oa7Qey2oHJCUCcvh4F/Z47sNZZ/QBxEiqw1k1VZ2sgiJNAAeIEiJPpCah9PYrT5oCIFJicTFGAOAHiBHB6cxEnqx2YnADECRAngFqen3cVJ8DkBCBOgDgBiBMgTgDiBPCrlFLECTA5AYhThbHSUQBxAhAnQJwAxKkW95ugLb99BTA5mZoAcRImECeAmvz2FVMTxIZJnIQJIsMkTkCs6eNkaoK8qUmcgMgwiRMQGaZlWZbVSgckxGjr4XABLeLzybRrnakJcsM0dZyAbNPGqXblwdQkTgIFJieBAsRJoABx+itQIgXiBCBOwLVbhzh1fKABcQLECbBpiBMwSZjECYgM07L4yhSgUXxMTkCXxAkQJ8BKJ06AyckrBzj3xUmgwOQkUL5GBcTJFAXOc3EyRYHJyasLOK/FCTA5AaYmcQJmCpM4DfiEwijnsa9MAVESJ0CQxAnEqGviBEIkToAIiROIUte8lQCESZwAxMkrGs4xcQIQJ69sIE58FyiRAnEyReF8EicAcQIQJ7DS5fPxFbggJqWUIkwnj6tDUM/RE5JxJ5w954QwiZM40Wztep4jQiRO4kRMmNjHDXFhQpjECYQJcQJhEicQJsQJhGkK3oQJomRyAhAnoO8J1iG4lvc/WekQJ7FCmKx1uAA8L4iTCwHPhzgBiBOYmnj/3DgE7bg5LiC85x3iCBHiBKKEOCFKdM0NcYQJcQJhwlqHKGFyAhAnTE2IE4A4AYgTIE6wuN+EOAHihGkCLrw+HII8I36VihBjcnIhgzghUCBOCCHixDzReD6GQBF3/jsE+WrfIP8UoituyIsf4jRxpP4XgFJK2RuImpESJ8SJqMlNlBAn4qc3gPiJCj75B1WATqP/aLPkAAAAAElFTkSuQmCC",
                 "origin": [
@@ -709,7 +706,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "rock",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAQYAAADYCAYAAAAJdk3XAAAEuElEQVR42u3dQZKbMBBA0ZGL+1/ZWUy8wWMMSKCW+r1lKklVQHxamHjKDxzwfD6fR35/KaU4auNx0qi++KsWoHCE9HAI6BUFTAyIgAlCGBAAcbCVANsZYQCEARAGQBgAhCEXD/IQBkAYgGt4kcRWYoyF6qUnYUAYRMJWAg7HzkNVYQCBEAZAGLAfRxgAYQCEARAGQBgAYWASs38y4V2GC9aMQ5BHhgvIx7MmBkAYAFsJbCFsJ0wMIITCAAgD3D81mByEAWjIQxr77RwL3QNJEwMgDGByEgYQh8u3Xg6BiwHPIEwMgDDA3snKdCUMYOslDCAOwgAIA5gahAHEQRhAHIQBEAYwNQgDIAyAMADCAFlk+78UwgAIA9RODsIAmBgAhAEQBmghw3MGYZicLzlFGMDUIAyAMODO5tgKAyAMYGoQBkAYwNQgDFiwjvXIvPxisdLygqp8oezbObvrhTVhEAQ6h+Ho+bojDsIgDHQKRM152vr713/vmZB4xiAKdDgPtefp01fNtTr/JgZhwARjYhAFrA0Tg5MOJyYHE4MogDCIAtbMd0u2f/TI32gkBNy25XDnfA9GtMAIAs0v/C/r11ZidfHtvQjvulhFARPD4BdOqylCDOi9XosQxIqDKBBhvS4OzbXhOhIKUSCKZeSLbtaYgDAkmSBek4MIIAyYChiSjyuBccPgjgvCAAiDaQGEARAGQBgAYQCEAZjGpwf7wgAIAyAMwI7txHpLIQzAWyCEAbCVAIQBOLGlEAbAxAAIAyAMgDAAwgAIAyAMn935I+eBgSYGcQBhAIQBEAZAGABhAAY3xJN+P6IOTAyAMADCAAgDIAyAMACzKaUUYQBMDIAwAMIApAiD16FBGABhAITBNgJCe323qokBsJUAdkwOthDA+sczhAuDKEC/IITcSogC9I9CqIlBFKB/EEJODED/KISZGEwL0D8GoSYGUYBYUegeBlGAoEERBDAprC2CAHSZGAQBxpkWLp8YBAFMDIIAE0wLzcMgCDBeBC4LgyBAvIu7RvV7DKIA8zn98FEQYOJJRhDA9uH0xCAIYGIQBEg6LWyGQRAgVww2wyAIuJDHu5AvC4MggCi8PEQBeAukKIBJ4c+JAUQBYQBREAZAGMC0UBsGBwdRwMSAKIiCMADHLQ4Bve7WPd6hMS0IA8FH979+3Qt3gbYSKkqGO7R1fjAMDhqzX7zW98HjZYwj6kXYaj2KQmUYxIHoF+DR9SkKwoB9O434VAJB4M3DCUcU+BoGEAU2T7LnDQiCiQHgexjcJbAOhMGiwPnn97wf+c2eOcxzkW+dSzHAM4akd/7ynyND9cRgarAVIAdvPooB1G8lLDoQBiDj1Fnzhz1vsI3AxGARgjAAwgAgDMBlYfCcAYSBwEQaYQCEAdMCwgAIAyAM2EYwfxh86QcIAzC54b6opWYy8b9BwcRgywMzTwytL+a935YMWTW/e7a60Hre2UeLhSmIFFuJ3gvdlgNhwJ0Yrg5D7cXkYoQAN8UIe/VRYhD12YOY0tpy14J9XVQWMSTcSrirga1EStG2FKLLsBPDVDX1cSbCgDs1woA4YF07BO3d/QxCnBAGAREGhEEkBAFhEIjJ3hZlTP8APCU1h3OhseIAAAAASUVORK5CYII=",
                 "origin": [
@@ -741,7 +737,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "rock",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAH4AAAE/CAYAAACAUHf1AAAEFElEQVR42u3d23baSBRFUVSD//9l+cVkEAw2F9V1z/XcbQtNTqmkQHI6LdT+3Ul/VlZCxxkGf4vuTRAADzkQHnogPPTPOkOvc0zbtm0j/KxHbSvD1zhhrxzLq7//yJ+13FI/0rQfeSx//ayjX3eBXu9Ynj3eHq+rQK97LK0neSn4WifnnZ/bcnmv+btLIvr1M/0jp9d9/CDo9/7/HngjvmGW+UOa2fB6vxlKyon2eoIn/tHJb43yye876ljPJzU72SNNfVn5RMtSP+yDFPAD7p5X/gxfMe0//7uED226j59wyT/iGIuTbnMn8AJvmQcv8KYdvGYcFvAm3jIPXuC15nV+a31g118Fsswf0ztfr9pGeheqHbyl3jVeSdd68CZe4LX8cl96/nKZeDUevGLaMzu/A3v7wAD6fG0meUHUJ57kFeg2d9CTr/HAAyceetjEAw+ceOih8C3+ol9NtKvXvD2zioNPnnjLvaVe4AVe4AVe4AVe4AVe4AVe4AVe4AVe4PV7L32TZvvOaQudeG+A8KUefvA1Hr7NndLgTX3wxMMPXurhu8YLvCLgLfcmXuAFXuAFXuA1LbxbOhMv8AIv8AIv8JoW3i2diRd4gRd4gRd4gRd4TQDvIY6JF3iBV7f882MCL/ACD77KBkImXuAFXuAFXuBV664LvIkXeIEXeIEXeGXB+5Tt3PfyJt7EC7zAC7zA29mbeE15SwfexAu8wAu8nT14gRd4gRd4LQtvZ2/iNWD3nteDN/ECL/ACb2cPXuAFXuAFXsvD29mbeIEXeIEXeK0Ab2dv4jVQt5/CAW/iBV7gBd7OHrzAC7zmqcu12L9L2wn7au9Veh+ALPUCr9qX2G7wlnsTL/ACr3XhXedNvMALvMBrMXgbPBMv8AKvdeFd5028wAu8wOuzLp/CAW/i7ezBC7zAC7zrPHiBF3iBF3gbPPACL/ACL/ACrwPa930Hb+Ldy4MXeIG33IMXeIEXeNd58AIv8AIv8AIv8AIv8AIv8AIv8AIv8OAFXuAFXuAFvkU+cGniBV7gBV7gBV7g9e8WGbyJF3iBF3iBF3iBF3gN2uXzDeBNvMALvMALvMALvMALvMCre/u+7+BNvMALvMALfPv85QgmXgfd0oE38QKvpfNt2VB0Ex+KDj64s1OQMeHgQ6Ht6gUevMALvBbd2IE38QIv8AKvxVruke3t7vbyzREtCu8DmZZ6bwjwGb3z5i6m2sQr6E0/1aQ82qE/8+Jn291fv6Z7x/7pKucTOKGXMku9a7ypGmWT2OI4CvD/wVPuEEoSsHXNxMe/GQrozGM8m3ITr6A35fRP7mqdrNpP+nqvPJ7chV4+wIfuF1zj30SdfZNYTFzmnYGlPvRWcLoXcr3bdk8euNRDD8vn5I/pC3TWslLA4Bp9AAAAAElFTkSuQmCC",
                 "origin": [
@@ -773,7 +768,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "rock",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEoAAABGCAYAAABrEgIKAAABnklEQVR42u2byQrDMAxEqyH//8vppYES2uBN1ja+FWrHfppRYpDklXSc53l+/xYRmVkPryLjDo6glEYpUDOqAoFQUQRFUARFUATFNx4VNTQOi0j33LtG54VU1Co7aNmqnPU0QSLagaxUhYhRtoCFalYaXRNRc8Z9bW2VhU7mF5wdVoRXNbXO35WvEM1yVvuD1Sae/ucRtFir534t2QWp9zp0eLKVZ8vC+iA731wzZ5Hokd5lv6ManKXWqwKp55wH1dOoKEJqBCWfQRSNOYrABj8PKlmyRSB4mkyFdXyZE9jgpbjqVzpGFqyoMMxEoBKwZQfNYMmnwGPlQzIrTO1gURX2L9jQfGAmhWFHhDIA236ACJb8FVhYbCKiwuApagSVQF2uNukpf90D6KqaxbPCXJb9eITlPj9Y2vE7YO4LybzYMUzFnTWwcKWJVrBC1nBaqCvF7V4z4V8BSdHisUNhqXphNGGl69fTUlfaxsbVwNJ3gK4CVqZVdhZWyZqC7opgESnZfD1ix9Jd6j3A2M7fmL9YKNaYvwiqERhBNQJ7A3vg3KYebjimAAAAAElFTkSuQmCC",
                 "origin": [
@@ -813,7 +807,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAGAAAACTCAYAAABxnhyPAAACB0lEQVR42u3cwU7DMBAE0GbV//9luLQSEggkknhs75sjl6bzOm4rII9H03y8kr6Oo2v534o4jkgXpfzffw5gQPnJlPKzQKV8C2hbfss34dnASpkW0Lb8bQHOlj8Sr5RvAW3L3wrg6vJHYZbyLaBt+csD3F3+CNxSfjZPxTuCpi7/7scs5VvA9OXf+filfAtoW/7UALOVf9f1lPItoG350wHMXv4d1/dUfPMFdC4/DrBi+Vdfcym/4QKUHwTYofwrn0Mpv8kClB8E2LH8q55TKX/jBSj/7xyKP1ngyf+uLOVvdAQpPwjQtfyzz7uUv/gClB8EUP75Hkr5Cy5A+UEA5V/by1PxCyxA+UEA5d97DJXyJ12A8oMAyh93DLlf0IpfxATANscQAAvovQIAFgBAgscQAAsAIMFjCIAFAJDgMQTAAgBI8BgCYAEAJHgMAbAAAAIAgAAAIAAACIBe34YBWAAAAQBAAAAQAAAEAAABAEAAABAAAATAfvn6W7EfAc7eE18sYG0AtyyzAAACAIAAACAAAMhAAF/CLACAAOgJ4Py3AAAyJu/TBsAsC3D+O4L6Anj1W0BfAK9+C+gN4I+wJljA8Yo6xudfpXvfuKj8K1/1UMIAEDcA6Ia05RvvSkDtP/mksXz0DIMACKMAmAAEQBgCQBgCQBgDQBgCQBgCQBgDQBgCQBjiE6jip7fn2vs8AAAAAElFTkSuQmCC",
                 "origin": [
@@ -853,7 +846,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEUAAABDCAYAAADK1Mg0AAABeElEQVR42u3byQ7DIAwEUOP//2d6StWIZmGxGQ9wrHrhaeyYiCQhXTnn/PSflFL6+/uqIHc4aWWMKxzdIITlMxLjSItuEJKkWGEcSzdI4KR4YFD0FAuQMOXjUjI/A5xukHKi1Q1Snn90gwR4+ng+ZULMKQggUCgoIDDlM7N/QCYFDWRqUpDKBSIpyCDuSfHC6AFxQ/HE6AVxKZ9oIOYoEUFMUaKCmKFEBjFBiQ4C/epgFshwlChziBsKC8gwFCaQIShsIN0ojCBdZx/0k657UphBmlDYQWCHt5kg1SiI71Ppk4IAAoWCAlKFYlk6SCAQSUEDeY1idgsREGRqUlBBHsf81RIyLSnoILcoFimJAHKJsjJI0VNW7SHuPSUayCkpFp+ISNClOx0XKEO/qgoOMjwpDCAiIjoqJSwgw5LCBCIior0bYgP5JqX5FiEhSFf5sIKcUGo2yQxSJIV9s83l8wSzApzWbHyVJL1utCuVlm6EhuV9BRRhfQC/hbjKTkjc/gAAAABJRU5ErkJggg==",
                 "origin": [
@@ -877,8 +869,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 41685350,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -901,7 +893,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAQ8AAABdCAYAAAC7HuN2AAACS0lEQVR42u3dwU7DMBAE0Drq//8yXKgEVaHO4sTe7Htn1AaDh5leuN0O8vHlBlxSGx0YL9+ktTbidSKvBSwcHj0N492ln9VShBFMCI8qs+TsgHk+19/e/9X5936t0GRKeFT9LGPkhVvlDP/7PY2aqlw0PHzwOeZSZDjHPS3HLBQeQuPgS+EchUmZ8PDLPvevtXN8f5aREOr9eYx87SuHZfPLzpWbTOapmCY8BAcImD3uQgPQPED7OM32/cF8Eg7sbh7PNBHQPkLhIURAgHTNlr8e1JwBdjcPTQS0jyHhIURAgHTNFnMGGNo8NBGo3T42xw95zfyjPSw8TBioRfMA7UN4gABJGh6mC5gtgPYhPECAJAgP0wXMFkD7EB4gQBKEh+kCZgugfQgPECAJwsN0AbMF0D6EBwiQBOFhuoDZAmgf54aH9gGaB6B9CA8QIAnCw3QBswXQPoQHCJAE4WG6gNkCaB/CAwRILEBODQ/TBcwWoHj7EB5AKEBODw/TBcwWoHD7EB5AKECmhIfpAmYLULR9CA8gFCDTwsN0AbMFKNg+hAcQCpCp4WG6gNkCFGsfwgMIBcj08DBdwGwBCrUP4QGEAmSJ8DBdwGwBirQP4QHkbh6mCwgPQHgAJAgP0wWEB3BhrbUmPIDQQthWfTDAbAGEh/YBaB6A8ACEh+kCwgMQHgA/18HqD9j7H7uB/bM/cr8er313zJDjoq/2jJoHXOyimy0CBJd8aWYLLjrCAxcds8V0cdHRPHDRER645JBttkSmi4sOhMIDOM4nSiIcvgUaThgAAAAASUVORK5CYII=",
                 "origin": [
@@ -941,7 +932,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAGMAAACbCAYAAAB2+iXhAAAB+klEQVR42u3bwW7CMBQEwHjV///l9FSpB1RaQZO1PXtD4uBkvM8BwXEsmvM8z9nWPFZHGGNMc405BMZVo2mmcZWVIWYDyeoQxlQhxAxg0QgYt0C042W3RjSDZCcIY6oQohU0uzaiEcTXITA6dnFbO7IrhGYUQjRhRyN6QLI7hDFVCNGwAQJCM6QZo6EVd6/hA4JmgGjCAOEAr94k0YqNmzEDxF1rDIieDBBPbtCFP5wOiJ61e5oqAhla0TO2AqLnmgJi8aepXSDePbIc4EWbLlrRk4DoueaA6Ln2gFhoTIF4333wNFUEEq3oAQmIyc8MEP9zfwJi0Q998tqmjVb0gATEZGMKxDXtCAgHuHb8FUMrSpoB4vp2BERxM0Dc146A8DQlP2Foxf2jKiCMKe2AoRkCA4a8cG7AKAKBYUzJo3bA0Ax51A4YRSAwjCmBAUNgwBAYMAQGDIEBQ2AIDBgCA4bAgCEwYMhbM8YYMDRDYMCQX2P4c6VmCAwYAgOGwIAhMGAIDBgCQ2DAEBgwBAYMgQFDYMAQGDAEhsCAITBgCAwYAgOGwIAhMHbJGGPAaEP5/sI/X+9txnj2RkBFGIDKMQCVYwAqxwBUjgGoHGN3oHqMnYCmxFgVaSmM2YGWx5gJaEuMViAYRUAwioBgFAHBKAKCUQQEowjoC+MTrAiz379anUYAAAAASUVORK5CYII=",
                 "origin": [
@@ -981,7 +971,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEMAAABICAYAAACtDUiwAAABeUlEQVR42u3b2wrCQAxF0c7g//9yfVJKr9M2l5OT+CaI4GInHam2KcFjnud5+by11vZe17IAbD74DsgnG8IpUGaAdR09cwkUZYgCLOpoWRH2QHp2iHA7Qxvi9/69igiyQC0hoDGsIJZXk14QRIcuKQhIDIsqjr619oIAxPCGgMFAgEizQEcg3M8ZKEWkKOMOhCuG9VEbFgNtPKjH5AmEC4Z2FU8hTK8mqKNhXkYECJqdIQFhgoG8I0wxIkGoYkSDUMOICKGCERVCHCMyhOihSxNCG0G0DAYI+EOXJcTrMWEpAroMD4hXGNo/HAmDwQjxCIMVguYrvAsGcxW3MNgh3McECWIYA/GGjwtGhvFwHRNEiEsMjSpQIeqcMYqRrQrTMtAhDjGkq4gAUTvjCiNrFeplRILYYGj996vKiLwzslehUkZUiD+GVBWRIWpnrDGqCuEyGCBEMFggpunkxvPo+KTAGEFhghjCOEJhg3i8Mxgh6pzx5sF+M+kLCqHQlxLDwGsAAAAASUVORK5CYII=",
                 "origin": [
@@ -1005,8 +994,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 37656000,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1029,7 +1018,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAPIAAABzCAYAAACihF/ZAAACpUlEQVR42u3dW07jUBREUWx5/lOGHz5AClLIwz5Vd60BdIskmzppGvj4gIV9fkv/ODZPJasGfDOIbduEDKEBp8d8eGpZPdwGFhnRFqyykBkV262Apq/qhOiFjDO3IGghI96CqIXMn/H998W4arQTghayaMVXELQvP4mWhk8UHgLBkr/KFlm8FNg9BCIm/3lyWg97Mu85v4TrxBayxaQwZu+RBUsBIQuVhoX3EAiX/PP6ECk4rcfE9/Ozm0hxWltNiDuvD+GC01qwsNJpLV5433nt/1qDRbbEMGGVNwFDfsy+0wYKYj4EC/l2EUNByCKGOR7t0ZefoOW0BrJXeU/9xc6ARYa+kK0yZJ/XFhmaTmurDLmr/GuRxQzhiwwUhWyVIe+8tsjQelpbZchaZYsMrYtslaEkZDFDznnttIb2RbbKkLHKFhlWWGSrDCUhixlmn9dOa1hpka0yzF1liwyrLbJVhpKQgXnn9UMhW2UoWWQxw5xVdlrD6u+RrTIUhAzMOK+fDtkqw/VeFqHfswxOa2BCyE5ssMjAEyO6v/oP9LBCwSKLGc5dY6c1WGSrDBPW2CKDRbbKMGGNLTJYZKsMS4QsZjinKac1WGSrDFevsUUGi2yVYcIan77IYoY3tXXFX+qnicBrB/CyhRQzogxfZDGTFtO9r9Wr3j4KmYjAHn2trPLvMpd/kGIWr0ehIGQxi5aSkMUsXp5zeAgQrUW2yuIVr0VGwNQtslUWMCUhi1nAOK0RsEW2ygjYIiNgLLJVFi8WGeFaZKssUoQsZqHitEawLLDI7assWpYJuSlm4eK0FjBkL3LSKouWM8X9ypiEQESM09rZDP2n9aQTW7wIOTRm8SLk4JgFjPfI3veCRT5rlYWLkENjFi9Oaycy8I5V9i2PrOgLb5o1KnFMsMQAAAAASUVORK5CYII=",
                 "origin": [
@@ -1069,7 +1057,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAL4AAAB4CAYAAABMxUg0AAABtUlEQVR42u3dUQqDMBBF0Rnp/rc8/Sr4U6GClvjOXUI8jIIk6ZKCmpmpqtoshRIDX3HTvqqqLYdWR3wm8HU7vu7uq2GDD+PP6P4B8e7A9+qPDHzIwRfs4Aty8AX6s/IDC3oTX8CDL+DBF+y+8QW9iS/gwYcddvBBF/hQC3ywBT7gAh9ygQ+5LmuDXiY+5AIfeIEPvMAHXeADL/CBF/igKws+7FoG/szM2XMVYdfS8KuODxWFW4+Fv8cPuqLgS0/PKQsCX4r4zOlu8GXiS+BL4EvgS+BL4EvgS+BL4EvgS+BL4EvgS+BL4Esn4dt2KBNfAl8CXwJfAl8CXwJfAl8CXwJfAl8CXwJfAl8CXwJfAl8CXwJf4EtZvSyBVu1zEfm3jg5RcIO5lgNt4gtw8AU4+AIcfMEOvqKAg69Y5OArEjn4kLdVAB9y8AU6+AIdfIEOvkAHX5CDL8DBBxxw8GEX+JALfNgFPuy69dnaaA68iQ+7wIdd4MMu8GEX+MALfNgFPuwCH3SBD7zAB13gw64M+KArBj7sioEPuyLgg64Y+LArBj7sioAPumLgw64Y+LArAj7oSuoNkeu1N3qVwL0AAAAASUVORK5CYII=",
                 "origin": [
@@ -1109,7 +1096,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAE4AAACKCAYAAAAE03y/AAACB0lEQVR42u3cMXKDMBBA0Ujj+19ZqTKTyaSwBay0q6fKHfD8F0FD+0q2xhjj53drra06j1dGsB1Wz4y2EvOlsmLFvYu2CrcrrfA9bkfoDqEA3BW0aPCutMRw2dDKbA4r/oCuNsWF/hFdbYoL/UO62hRXHy6itqePobgscJH3tiePpbgMcCt20qeO2Suj2Rw2/NO62hRXC26X2u4+D8XtCLfbve3O81HcbnC77qR3nZfidoLb/bntjvNT3C5wFd8SHoc7Bc2o7gB3Um2KWw2Xsbar56y4VXCn3dsUtxIue21Xzl9x0XBV7m2z19FPRrM5ZICrWNvMNSkuojj3NsX9G8UnYXS1KS50o+hqm7texU3idbXNXbviJnfbrra51YB9gPXrW04N2BxeAzaH16B5cwAHrjLcys8lKg6cBQ4cuFLr8a+y/t21q7yptDsv6JNHm+yAl+CuPgNmxnsb7skH5b/HfudYq9H/hcv0NrEKsMzr1rFfZY3cmMAtxPMADC62upLFReAZVXCx1SkOHLgU46o4cOBSjOsRxT2BZ1TBxVZ3VHF34hlVcLHVHVncHXhGFVxsdYoDF1vd8cXN4hlVxcVWB05xsdWBUxw4cOBsEOAUBy7nuIJTHLgU4wpOcbHVgVMcuBTjCk5x4FKMKzjFxVYHTnHgUowrOMWBSzGu4Ky4NcYYiptc3+VyPHbr3MedAAAAAElFTkSuQmCC",
                 "origin": [
@@ -1149,7 +1135,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAC8AAABICAYAAABm1qxOAAABRUlEQVR42u2awQ7DIAxDjbX//+XutIlNUztKIHYpt93entwQIIDR2rZtq3/TDbz+Aw832/UqjtAAUEopxQ1aNvMt4DLmW6Bf4FbVRu6DbTVeW0813wueBh8BngIfBT4dPhJcvtoclXKqWv9nD6JqXCTag+icS2e+pWWhY1wkzbc2inS1LmX+THtOV+tD4EeWRqv2YCr8TOvp5nvP0HT7SMPhM8CBpOu+qCsXulrvhp9dXVKrTfQN3Zqb1Igz6RR4BfC7t8myfgo+s65PNT/68WKdzCtF5q42WXlfx3zrG+md+Qh4RevXN69q/RBebVMaFpuMIQy6Wg8znzX6QlfrIeYzB47oar3bfPaYF13Br9Ue/Jt3lanAtY6BSlOw65hXmz2mK/gH/O6cuiA4cPAaqAq9C68O/eb8josLOADQCdb2sP1rPQG6t6CYVMmTtQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1173,8 +1158,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 72675299,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1197,7 +1182,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAANEAAABxCAYAAABLJkYBAAACoUlEQVR42u3d0U7jMBRFUWz5/3+5vFBRqS0ktR1f22u9jTRUNGT3pGEG0hcEcrvdbo9/Timl6J9z8mUjYjxPJ2rgmERE+ICixyQipognckwiYqp4IsYkIoYF0PREHhiTiJgymkgxiYipo4kQk4hYJpxRMWWnEKu/QPR+kbBE1mcbvVapOJ2EgyUSxR+vtsLpv0YisiJCcjknHFzOIZyp10hE4qEyKhGJh8qQRCQeKkNyY6FxBP99EcSzYHgOgROcujXyb+cERCURCYjK8yE7YALCEomCoedRXvGJH/0/JIKjhbRKONAlkAN36pJ4oC6kIhpY6HJOKMy4RkUwMNkSiYfV1iiJBupCKuKBQJdzwmHHNSpigQuXSDzwvEZFPFCniAc6RCQeOBHRPZiUUhIPnJetD1RGFOlXmcPUSwRURGSNwBLB+IisEVgiGB+RNYJjHr8lZImg9eWcNQLviWB8RNYILBF0d7+58DYiawSWCC5Zoz8jskZgiaCZ9ON0RNYILBF0XaR89IMcOnjTx9G/6GcwsPv6VF/OWSME5D0RdJFbFgm7rZAlgquXyBqxy/qcOc8/CsKdOna8bGsakZAQz6/iMCKcyser+WBrxK7hWCLEE2WJrBG7hmOJEI6IYHw8IkI4IkI4QT63Fg/i5gI7xmOJEI6IEI2IEM0SRIRgRIRoBj/nVg/kDp1gdmWJEI2IEIyIEIyIEI2IEAyfH+OWD+YOnWgsEYJBRKJBRIhm5/dE3hcJxxIhHMYvkTUSjyVCOIhIOEx/ObfKJd3jyX9/Pq+CePVchSOi7WMSAWEimi0k8RAyolliEhDhI4oakniokXc/YQXEdEsUZZXEwxIRXR2ScOhh6W+2igYRCQcRiYb15ZkjEBCWSDyISDxQRAJ1vgFawyV/0O+7VgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1237,7 +1221,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAKwAAACACAYAAACWX4KVAAAB20lEQVR42u3dQQrCQBBE0W7J/a88rlwIukzomnn/CMmjkggyXVJAa61VVfVyKZQUsIpZV2BlYaW71hVYWVjprnWtqmqXRQlQgVUMUmAVBxVYxSAFVlFIgVUcVGAVgxRYRSEFVnFQgVUMUmAVhRRYxUEFVjFIgVUMUGAVBfQLa3dfbh+cSQELKLCCE1gdCRRYOIEVnMACKmDhBFaAAgungAUUWEAFLKQCFlJgQRWwkOp4sJAC+ziy7u5/8Lq7IT2jTsAqfYbpAlVJOeNA3mEtq7ZdWFgVsbCgajxYSDUaLKAaDxZSjQYLqGJ+JYBVEQsLqiLAgqoxYGFUzDssrDrio0sCVgJWwErASsAKWOnZPv+MBlYWVgJWAlbASsBKwApYCVgJWAErASsBK2AlYCVgBawErASsgJWey/HzGtWvY1iB1XiYwGokQGC1HVJgFYETWMVCBVYRQIFVBExgFYsUWEiBFZzA6kiUwIIKrAAFFlABCymwAhRYQAUsoMAKTmABFbCQAguqgAVVwEIKLKACFlIBCymwkApYQLU5WEiBhVTAgqojwEKq8WAh1XiwkGo8WEgVARZUjQcLqcaDhVS3P63XWgtSbb2wkGo8WEgVARZUjQcLqcaDhVQJvQElNNl18iC/CgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1277,7 +1260,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAANAAAABcCAYAAAAf1jvXAAABj0lEQVR42u3aQW6DMBRFUb+q+9+yM2kaFCWRRTDYcM6skyi2uf0tkHKAWmtd/pwkBSaU3hf682e8/SIi8suo8ZoZaY3Z4uLf7MuIqPQ6j0972/K5vc5m72ts63VmtMX1jOjVeo6OdrQLaI/zOtOaM+pCWw9m5Ck5+4Wy95Sbca1xAcD6gH5sBawnIBAQDBaQ/3/ABAIBgYBAQEApj3sEAgITCAQEAgIBAQICAYGAQEBAS0DexAYTCAQEAgIBAQICAcHxaq1VQGACgYBAQCAgQEAgIJgpIG9igwkEAgIBgYAAAcGGkkRAYAKBgEBAICBAQCAgEBBcICBvYkObJDGBwJ9wICAQEAgIEBAICAQEAgL+3B+iCghMIBAQCAguG5A3scEEAgGBgEBAwNLyIaqAwAQCAYGAQECAgEBAICAQEFze80PU/4C8iQ0mEAgIBAQCAgQEAoIx/V7lFvare/i9eTyw/9nuvec522EfEcqsYc2wV6Ps9bu9Ov0GOmy22GMBwRdBCQi+CMpUh5VBfZpSN2mCmJfyt9X4AAAAAElFTkSuQmCC",
                 "origin": [
@@ -1301,8 +1283,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 65107354,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1325,7 +1307,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAARAAAABICAYAAAA+oKo7AAACaElEQVR42u3b20oDMRRA0aT0/3+5PgmlFDqX3M7JWm+CVjvJbE8GrSW51+v1ev+41lrPfP6Zr4Xd1OhBWOpi3ojTyq9Nm32b8TrXSAtgG86P4J21OfPa314z4g14dgIWEPGgU0Ci3IC/9mumiNSoi0DuiPR4FtXzxr6yXz+/X49JbsuAiIeQHNkDR26ku3vp6k0+8zr2+hm/fa8qHqwYkTP74P117J9NJxALLyT2Q7x1WyIgNgvEjP70gIgHxJ0WH+IBXD1qPlwW4Eo8pgbE9AGx41HKpGcg4gGxwzFtAhEPyBGP4QERD8gTj6EBEQ/IFY9SBj0DEQ/IFY5hE4h4QM54dJ1AhANyx6PbBCIekD8eXSYQ8YD84WgeEOGAveLR7AgjHrBfPJoFBNgvHk2OMKYP2C8cTSYQ8YB94+EIA+IxJyCmD8AEAqaPsQExfQAmEDB9jA2I6QPEwwQC4iEgwMRwOb6AyaP7BCIegCMMICDg+DL3+HI4II4vIB4mEBAPAQGCBMTxBTCBgOPL2ICYPkA8TCDA2ICYPsD0YQIB8RgbENMHYAIB08fYgJg+gEsBEQ/AEQYcX8YGxPQBmECAsQExfQAmEEgiwvOPUkp5mD4AEwggIICAABdFef4hIKS8+SLdgOEnEBebjL+57esxni4BRn7vxREG8UBA4Gg4fsVDXAQEboVBRDqvRSnz/hfm1+L6K1laxmD1/RQxds+VL9D/5wuJcLgKC08gZ27Sz8X89nWtF1xA1r7ZeqzPiPcxe19lCOPtgETdoMKwxnqt/r5a7L3ME1Q9erEibuBeP3PU37hZ14N5/gARPjTXg3R4RQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1365,7 +1346,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAFkAAACQCAYAAABj7MfTAAAB60lEQVR42u3cUW6DMBAFQLzy/a9MvypVldI0CSxmd94FsIcXB6PE21Ys+77vq40pKgKvBj0qt3eMMTS56PJQCvkZ8Co3YGqvJn8MvMINCQ2GfAjw1Ten1HOyJl+8TFzZ5ugArMmJwFfdsOjW4Cugo+MSkQ0d3YCvgI6OwNnXi67AmdeNzsBZ14/uwBnjCMDnj8e7iwTo0OLzxxaAG2+rV2jzUWUILT5/vJqcAB1afP7YNbnSF1+3J4p05M7AKciVgN+dizXZZgSytViTGyBXbfE789Jky0WNNkPWZMitH91emaMmWy5qtDmu/Bh1gdbkBGjI1uQabY7Mj01XaE1OgIZ8pzXZC/rHFpqcAD2099yMMcaEmQAN02YEskCGDFkgQ5a/kVc5QFSTBTJkyAIZskCGDFkgr58xxoCsyZAFMuTeyN4pazJkgQwZskCGLJAhQxbIkJsj+3OOJkMWyJAhC2TIAhlyRWS7PU2GLJAhQxbIK+f7x5uQNRmyQF4Q2ZZakyELZMiQBTJkgQwZsryFbEt9biaCz/LzVIVHZR2a/D9ATV4IFHICaEvkFU6imUAh3w701sh3PoBqgk2Yx2rPyBWPTJtQCyN3OuRvwi2C3P1oygn1JshQn/hs2+uvOqGe0GSoBzT5d5uhHpsv0YM4dbRu53UAAAAASUVORK5CYII=",
                 "origin": [
@@ -1405,7 +1385,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAADIAAABCCAYAAAAVHYVwAAABRklEQVR42u2a2w6DMAxDibX//+XsZUgTEhuXJHZK8wYSoqd22oRiy4lwd9/eMzNbBOJ1FUAtLAqCrQyilGCrZtGDYimD6JllKWOZg6hUx7JnsQoGHZbW26tWRPgn0kGqpM+GgVKZIW2tKlVQPXNZMGCs+RkwWAYJY5cYUU6AaqPUzlpRDoBik/ToZIdq6xqqSCeY8a3VTZVTg1TuJFH5MqkcUYUBwwYZtgXL09EwYCZoJMztfUQFJmRDVIAJ29nZMKElChMmvNaSOVZQjCOqpIAwVGlTxv9T5Tn9SJcVrJ0iezDTWmqqTEXY+8lWlamImipTEbUVrASkoogcwlru7mUg2aqUKpIJU26tLJghcsTMDKwXX31u++x6Tf2yfuWL4t4kgG2Jx+aIbIeY9i9KVxgZa5UehkrvJZ0S+pdqssfN3zBHbPcGBhCgkTJnDDoAAAAASUVORK5CYII=",
                 "origin": [
@@ -1445,7 +1424,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAL0AAABkCAYAAADT5jHXAAAB/ElEQVR42u3cy27DIBBA0UzU//9ld1NLXjj1I2AGOGfVVlUV4wsmROrrBQUtfzK/xrfbRMng977OJtwqSsb+MbSIED1TRZ9pMtje0Cz4VtugqHnhmR5p5Iy+RSvx9AX3PhGWZVlM5jxvVu/ci8g2u6/+7bMXXeMGjRD/3ricua7sx5L/XUf0OLt7G+QrY1p7It19Ovd+37fjGmJ/dhLUepK5d+fHMgzYuE8R9+7Gnt6gMSLn9IgeRA+zRG8/j5UeRA+iB9GD6EH0IHpoE70zeqz0IHroU0SE6LHSg+hB9CB66Dt6Z/RY6UH0IHoQPYgeRA9JondciZUeRA+iB9GD6EH0IHpoE70zeqz0IHoQPYgeRA+iB9FDm+id0WOlhwFFRIgeKz2IHkQPogfRQ/roZzqjX4+smNvP1Vh6mSSfAl9/7gM50V+OKWs0Z1fzo98zKUS/G82dMM5EefXv1ti2lHqdJlfChfFo0EvcfHvpskyU7xayw62KYE2K0aJ/r9+Ie7yby4fxMQRW/SlXeqz6MxG98EWP8EWP8EWP8EWP8EVPH+HPGr/oET22OqJH+KIH0eONregRv+hB9HhzK3p4bBKLHtsbED2IHkQPogfRg+hB9CQ06qeyome+yWwIOHLlXwOWeDrU+FeE29cleoacfKJn+skgeqabDNvofwG5PNjpQO+4ewAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1485,7 +1463,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAHAAAACSCAYAAACdbE7CAAAB/UlEQVR42u3dMVLDMBRAQUuT+185VBQUJkUI9pP2VTTMYK+/bOGBjGOTns/n8/vrMcZY5bjGbninJyKKOuC1IQe8NuSE95nvB3iDk19AnPDaTXjtC2KAaz/ULPsQs8skTie2jTjhtREHuPY9ccJr/xweYuKIAOOIAOOIAP8Q8QrI4UpvP7EOeG1MS2j8Qhymrz2NE167Ca99fANceyl9gIvjg2tPoW1EfPUBGEcEaBuhK6cQYBwRYBxxlq42mcDlpnCavjaiCbSE6sopBBhHBBhHnHdcFuQeuM0UDhPX7Pv94YTXnsQJLz6J8No9nILu/e+jE2j6PgtnG2EfaPps5HU/QNMXBoRnCdVVgKbvoq0FuO4e8DhOfhMDxT1QAAUQoAAKoAACVATQJt4ECqAAAhRAARRAgLq23/4VJUATKIACCFAABVDvAHoXaAIFUAABCqAACiBAARTAfXv1wZAATaAACiBAtQG9CzSBAiiAAAVQAAUQoAAKoAAC1BW9ehsP0AQKoN4H9C7QBAqgAAIUQP3bJv44Tj5+TvdCArgIFsAFwADGwQBGoQDGoQAugAVwEbTtAFfB2gpwZbQfx7nKu8BdwJaawF3R8oDgYoDAooDggoDQooDgooDgooDggoDQYoDAgoDQgoDQYoDAgoDQ7tk4jvM/L4MWm0Bgvb4AcL0NB8EpG88AAAAASUVORK5CYII=",
                 "origin": [
@@ -1509,8 +1486,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 22994914,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1533,7 +1510,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAQoAAABTCAYAAABnPUlCAAAC0klEQVR42u3c247aMBRA0Rjx/7/MPDFCCEji+Hq81lsvosRxNsczbdMGPzwej8enn08pJauzjrTqprfR8yMhGEJhs3NozUqs4d6f0+q+vL8P+2GRUORs9PdNMtrmafV+rqzd3vs6+9ot1rx2FEe85qVDcXWDX72Rpc/yrSehGuuXUkolXvfIdeaEtNWeqXndQjFgJEo/AL031OgPyt515n5az3bdI0QjCUSgc+TOZrJe8e+xUNjsWZvJelEiPtOEwoaHfuGYIhQiAX2jMXQoBALGcBMJYNpQAEJhmgChEAkQCkAoTBPAU0opDRMKkQAThUjApNPEtg3wF65EAsYNxP+PRQL4FojuoRAJGD8QT749CiIx5j8zN03AHIEwUYBIHP/9pgkQCBMFcCkSzScK0wTMFYjmE4VIwJyRaBYKkYB5I9EkFCIBc0ei6dEDmDMS21bxi5kmCYgRCRMFiES/icI0ATECUW2iEAkIGCORAJNE84kCiBWJoqEwTUBcJgowTbQJhWkC4kbCRAG0CYVpAmJPEyYKoH4oTBMQf5q4FAqRABMFYJoQCuBErBw7wCRhogDaTxSmCVhnksgKhUjAWoFw9ACRKB8K0wSsy0QBCAVQ4Gjk2AEdH8DBvzZxeKIQCeBuCcAkcXmiALg5dgDZoRAJcOz4GQqRAA4fPQA+hsI0AY4dP0MhEoCjB5gmroXCNAGYKMA0kf/+TRMgELvXIRIgEI4eIBJCwVwPUMSHKHokhIIuD1D0WAgFFPqUjThdRA6g/7iGrg/Pt1/3RXYTBRwKzEyf0NGPU/deC+gTwzRx9DXslQHuZa2HNmeT2BAiUUrrvRT+uzmlF7XUgn16T2de+8w11bjJEaL3aV2OXNcMD03p+7NEKEosnm951dmUr+taOz5n7+Hr+5n5/j+v43kNZ9d5hb2frm5ygegzMZUKh/uXf/9WWrslP0FMLO4f5/wB51h80RzQvEUAAAAASUVORK5CYII=",
                 "origin": [
@@ -1573,7 +1549,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAD0AAAA9CAYAAAAeYmHpAAABN0lEQVR42u2awRZCIQhEZf7/n2vTslM+1GFAWHfKywyI5hgL8frESBZYAR5JAzu+JJviGBdGQzd04bDdXdvMrBT0kw6tDG+7YTPAG2sAUYIHa+JSGl6MvTAFxelblsLIapHWi1IdkVmP+m1kGCZoWxZLhYikm4IN2eBQWBS7tqGiBhMcSjZkgUOt/hjgroksO7h7DM0MLn1ddAp8CZqxv54Atyx1uDPBUFzU6aRCVY3w2bua1aFef6m2rJPgq06Csg1T1TSr5r1JlVCC/Q+KxBgqeXOiDO5xidSBgwUud8piWL3MS4QnaktCn7Z5P7S5pballfaAz1i8pL3/gctDn2hqVknB2aSV797fEpUKepfV0ym9A7yHk1vU7qfPlU9WZbYsr827kd2idqnXgn2J8MMZqAY087k3Ltm8Uvyy+yIAAAAASUVORK5CYII=",
                 "origin": [
@@ -1605,8 +1580,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 94615012,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1669,8 +1644,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 47783953,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1853,7 +1828,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAJQAAABrCAYAAACR+KsYAAABdElEQVR42u3bwQrCMBBF0Yz0/385rgQFhdqJZpqeu3Uj7eFRamxNGlTvvYfLoCNwPn0GlHZj2RNQSiMCSsMhAQXSTwIKHKBUAw9QwAAFzrkCChygwCmKKSI2txyckQEFDVDgAAUPUAAJKICAggYocHRWUBABBQ9QEOnkoEACCiDNBQURUNDov6AAUgoUQEqDgkhHu7kEAkpACShpdxERQMlCCShdGZR3ULJQAkpASUAJKAElASWgBJSAkoASUAJKAkpAaQVQzkLJQgkordXjHy9AyUIJKAElASWgBJQElIASUBJQAkp1ev4d7wWUoyuyUCq1TkDJQqnuOgElCyWgdKE2l0DZ5yagNAwQUBqGBygNBwQUQB7KVRMPUAABpbp43n6/1hxdAchCAQSUVsMDFEBAwQMUQBcOKICAggcogICCR0ABBBRAQMGjFUEBBBQ8QAGkL+5blbNQAFkoeDQHFEBAwaM5oABSChRAOgwKHqVAAaRsd/MUjTS7B6oTAAAAAElFTkSuQmCC",
                 "origin": [
@@ -1877,8 +1851,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 68793793,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1901,7 +1875,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAALcAAABvCAYAAACuA1HdAAACh0lEQVR42u3cW2rjQBRF0ZTx/Kdc+Q6ERLZVj3tq7Qk0jRanr2Tory8dUe+9n/Z3bh77Wahba8c886fHb6ktt2JQn7LelttSW25loT5hveE+eKnTgTtLnB2WW5mQk9fbcltky61cyKnrDbdFjgXuLHFeOEuUDzltveG2yLHAnSVOC2cJyNbbcoMsyw2y9YYbZMCzzxKQFbHcIFvviOUGWTHLDbP1jsANMuARZwnIilhukK13xHKDrIjlBllJ692AVirwh0el1B4n/a+fuqcq/9pbbsUCf1R7SZAst45f70e1N2DJcuv49f6B23orCbjl1jlnifVWynr/utyAK/qFEnBVX283t2KB/4nbeqsy8H+XG3BVBe4sUSzwS7ittyoCv7zcgKsa8JfOEsBVCbibW7HAX8ZtvVUF+FvLDbgqAHeWKBb427itt3YH/tFyA66dgX98lgCuXYG7uRUL/Bbc1ls7Ar9tuQHXbsBvPUsA107A3dyKBX47buutXYAPWW7AtQPwYWcJ4FoNfOjNDbhWAh/+Qgm4VgH3tUSxwKfgtt5aAXzacgOu2cCnniWAaybw6Tc34JoFfMkLJeCaAXzZ1xLANRr40k+BgGsk8OXfuQHXKOBb/IgDuEYA3+YXSsB1d1v9/A64bvVU5c1XKr3cUvxyW2/dcdpufeMCrk/e0bZ/gQNcVyCXxA04yHE3N+AgH4MbcJCjcQMOcjRuwGGOxg04yFd6elRKgOwsUTTmkrhhBjkKN9Agx+GGGuI43FCDHIO7995baw1qkKNwAw1x/HIDrJH5EQdkuAUz3DALboAFN8R673mu+EN3+lICtOW2zIIbaMENtOAGWYfghlkxuGFWWdzwalTfM0Ns4yTgE38AAAAASUVORK5CYII=",
                 "origin": [
@@ -1941,7 +1914,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAANwAAABBCAYAAAC6osocAAABm0lEQVR42u3d23KDIBRAUU6n///L9qWdSTKxCsoRzFqvvUSQLUnHJlEopZSyLMuy9T0REaMcW+ux7BnniHNwF3Hmyeh5cs4+tksme2M+ZhxjVoC95ib7AhLZJ7tmgHeIjJvuVI2hhsUNeWEKDhJ9mQIQHAgOEBwIDngWESE4sMOB4ADBwWTBucsE7HAgOEBwIDhAcJDu7//iBAd2OBAcIDgQHCA4EBwIDhAcCA5Y9/juy4IDOxwIDhAcCA4QHFwcnHfsAjscCA4QHAzr9TO+BQd2OBAcIDgQHCA4uNa3Kaj3+qfeUnzGHjvXjsVyLDThUbNmYs8PWUT7YjtjztYeJ/scPB6H858cXMZCOzqQXo9bG1rtfNT8/oy57X1hGW282XMZIxzYnonNfjp3NLT/jq93xK0XpB5jnvFifvvgRjopoy+6rXG27CCzjHm2+D4iuNqTNONiY47wPj44yIxYcJAYn+AgMcB3wbm1Cw7uWjUEBw3RtYYnOEgMT3CQ+NRTcFBh+eU1HExAcHDS00XBQUJsbg+Ei1/nrX3tB15SsJGITlGOAAAAAElFTkSuQmCC",
                 "origin": [
@@ -1965,8 +1937,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 62170942,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1989,7 +1961,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAARoAAABYCAYAAAAqVDhpAAACbklEQVR42u3bYW6rMBCFUVNl/1umCyiixHjMjDnnb9WnhJCv14ne1ui27/t+9vNt2zZXCVrzRggIzKULL0IIzToRGPmGHhGYIS/ayXO68hhFDqFJeITJEpiZwQKh+fLN3/OGWjUuM2JjVVE+ND0B+OamfktgMkf57tHw7N+6+/vZ1rbQJInMlRfz7XGh7x6Kvm9WilCJJ3L3BX3iJgERKhSakV8liwtiJDSONbBoiFKHRmRgjeikDY3IwDrRSRkakYG1QpUuNCID6/kRGSB64aQJjciARSMyQNeaSREakQGLRmSAW2umtdY+AgMst2hEBt61ZqYuGoEBi0ZkgJA188jRCbBorBlg6JoJD43IAI5OQPiaaS3wf29bMyAwoaERGRCY0NCIDAhMaGhEBgTmyLAPg0UGRCZ00YgMCMuURQMgNMAja0ZogPDICA0QHpkhofFBMGDRAEIDrH1suh0axybAogFqh8aaAccmiwZIEZnu0FgzgEUDpFkzXaGxZgCLBki1Zr4OjTUDImPRAOkiIzRArtA4NoE1Y9EAtReNNQPWjEUD1F401gxg0QCpj03/hsaaAUJDIzJgzTg6AbUXjTUD1oxFA9ReNNYMWDMWDVAqMn9CY80AFg0gNIBjk9AAQgOst2aEBpgbGt84ARYNUPLYJDSA0AD114zQAPNC44NgsGYsGqD+ogEQGqDssUloAKEBFgmNb5wAiwYo7+MSnLvygdtTq/DosfU+lrsfLFrG+e7LVI/3yg0y+kmNvCmrXfCe61HtOc6MztPXJtMfGaEZ/GKtEBfe581/YA9D440MuQNULjReZqgVnIpD4BfM3DC3YVH6xgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2029,7 +2000,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAFoAAACUCAYAAAATSj7GAAACJklEQVR42u3cwW7CMBBF0XqU//9lummlClWlQDyOZ85bsSLOzc2LJ0iMj8K53W63789jjLFyLfHRJD+hA10I7H1GN8CrKmR0tHcF7EM96OhpkFdcoOhqcjbsoxtg1bEAcuaFi+4mZ8FuMxmqjgsYl3GM6A6Z0cUuarA555iM7lwdK7t51rEZnQQ72GzXUeqCB5tz1hMgq45SAgSbc9bH6C7VsUs3v7tORnsY1rI6dr4dGc1qoNsZvXNtvLL2AFlHl7I62MzoUlYHmxldyupgM6NLWR1sLmJ0F8iPzlN1VDC6W2X8db6MtuuoZXWsuI0YDfK081cduxqtMn7nwGi7jlpWx8zbRRidbjXQjK5lNdCMBtqOg9FAt8/xqAZW/0ttlQydqzqAFqCBBtqDkNFAC9BAAy1AAy1AAw20qZDRQAvQQAMtQAMtQF8ftGGF0UAL0EADLUADLQ8zxhhAM7ooaFMho4EWoIEGWoAGWoC+JGjDCqOBFqCBBlqABlqABrozaFMho4EWoIFuD9pfYjK6HmhWJxoNdmJ1jK/AktTRYCc+DMFO3HWAnbi9AztxHw124sACduJkCLYR/PJ5yVC/yjx/179cBd1hP1ujb3VuddhnPpPe/qJqsGc98E/50l1hZ+6iDv164V3HTlZfZe9/6iJWw77yQHX6wjJh7zSpTlnobNg7vgqYtuAZsHd+13LJXUfFl1dTT+g/Vnd5Izj9JO9hd33V+glL+kxiyr1guAAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2069,7 +2039,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAC4AAABJCAYAAABCSBTVAAABRklEQVR42u2ZwQ4CIQxEYeL//zKeTIxxtUA7HbScl+XlMYVlae2ijTFGE274BK0Mj28PqMLDAqoID+uDavCYgVOCx2wHFXisACnAY7VjNjx2IDLhsfuCLHh4DJwB3z0H7733Y6KSZR7etljwiJhqBjyiXhwNj8gCi4TvrEG9Vxy0QxtYhrxnEMzp9YSnR8ULHuyiOro4PaybwBWtm42rFervrePq1qeNq+Q9PSqr1pfAFawvG8+Gl1hVVuKyBZ5pfdt41jlVagOagXcBz4iM3JZvte4GzrYu+ZFlse4KfuxPT6Z1d3DWnzD5g8QVfAg4I+v/cXRTsn6E8Xc5DwWPtF4ZZ1sv49HWXwuUZrzugDLAd60/x4Vu3CsyFRW29eOMP3KeBr5rvTLOtl7G2QWaDr4al4pKgRvbTR3wqgZwIrTkMme9kbgDesW8W0SFoa8AAAAASUVORK5CYII=",
                 "origin": [
@@ -2109,7 +2078,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAMIAAABPCAYAAAC5zxo3AAABeklEQVR42u3d0W6CQBBAUcf4/788fdGUEDErCLsD5zw2bYFlbgA1bdw6ycycfy0i4jaQd/vYoudxfLvPo615r7mKswzX2t97pD2G7tfHXTWM1nVYOr6oEMGZrRm8I9axWhAlQhAAewe2NYT7nkOdT04/o8/EpsvyvC5DT88rRcv8LW3n4ZaHs1xptvz83RLCyodlVwJGuDX65UvxQmDoIPactem2hID4IsIzAh60MzO++WZLxmUflgXAZUMw/FwuBEMP3lADIYAQ4PV84H0EcEUAIYAQQAggBBACCAGEAEIAIYAQQAggBGjy+pMuQgAhgBBACCAEEAIIAYQAQgAhgBBACCAE+GD6P9SEAEIAIYAQQAggBBACCAGEAEIAIYAQQAiwYPqBOyGAEEAIIAQQAggBhABCACGAEEAIIAQQAggBls0/eSoEEAL8e7RcNlpkZlpOyt4u9dioaI6573Ve29cqRtk5cdQa+srneOgQzmDria464NWiebfOf0NeoHiV8bBGAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2133,8 +2101,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 46484661,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2157,7 +2125,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAARIAAABbCAYAAAC/FwozAAAC3klEQVR42u3dy3LiMBBAUezi/3/ZWZECKvGrJbslnbOaqTCJI+xLiwRmegxkWZbl9edpmqYHUMSU9UJfPegTEVj73K/P97qNyECDIdkbkMsXR1Agf0iyBqTVyGytpzDSVUhaDkjJi3PPdqvWmooKTYakp3icvTBrXOzRdRUUmglJ7xHZc1HWuOBLrqugkDoko0Rk9G0aQiIiCAo5QyIi4vJ9PgiUkIgIm2E5c7/XjkvJn4xxYUhEhBaDVjssR46pxcBNdy0W9Lh9y3Q8QgLJg3L1uZ49KsUOTkRg3LCED0ZAoN+47H5FvoDAeFEp/VvRp0IiIiBU73+fRQSITjtVX6oOjLFd2hUSAQERWfv45tZGREBEtm4zWyYgajaNAJFpZDUkIgIiEppIRAQIbW1EBAiHBODob73PphEgEpGPkIgIcPb1d7Y2QCgivyExjQARJhIg/KZIQgIiEn5ntadlBAEJb208PwIiYiIBbomHkICAFDX7/09BRMIhufKLAf1F5PH4es9WT7yCgJyeSO48AKB9c4aaAe1OI3+GBOBwwNY+6DkTMI2YSEBE7g+J50tAREwkQI6QmErANGIiARHJERJTCWAiAdNIjpCYSgATCZhGhAToZCKxvQHTiIkERCRHSEwlICImEiBHSEwlwEcTIv/Y+5XA2FsaWxsgR0hscYAiE4mYwNjbGlsbEJE8ITGVgK0NYBrJERJTCZhIANOIkICICAlga9N+UcE0YiIBhARMI0ICDP10wGxhABMJmEaEBBAS2xtwjZhIgLhnq/XO9n6xZx9h7vw+jh5zb+/Re9d51ePEXu0bKnWH1DrZs9+ZtU7oUt9361HZWofs6z9MSKJ3hudZyqxn7XVsNShCMkBIRIQrIrV2ntX42j2f1/Ndd9R/txcRnA8mkt2PLk4Q7pxSTCONhgRa2T6XDskID5p+j4Qht0y2VCYSODw9RMLgp49CAmm3UEICoiIib34ACjExf1ZUJLEAAAAASUVORK5CYII=",
                 "origin": [
@@ -2197,7 +2164,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAGQAAAB+CAYAAADSr7SpAAAByElEQVR42u3cwW6DMBAEUHvF//9ye2mltlIQSRU8sG+uOQT7MUvCwWM0ycdX0q9zdoB4uPg549ZfXTGOfK4hJyCkt2XCyIIpGFljbMLIakvByGrLhJHVloKR9X0Fw/+Qy2O8c3wVjKzrKBhZKRhZ11RDNOQuo+od11Ywsq7RyApDKe3wDNGSq4F0bYeGBN5IpR0aAsPIus5NVdqhIbfH+M96jCwN6TGqXl2XhoShlHYYWa0wnl2nkRWGUtphZGlJEkjndhxZe8HIQjGywlBKOzzUZecGLe1o1hAYz+2NkdWpIdrhoX75sVXaoSFyNoh2vL5fBcPIkp0bubRDQ2QnUztu2BAYRhYQ7Tgn26PNTTzTtu1D3V3vGSJAgAgQIALk5iB+8mqIAAEiQIAIECACBIgAESCBmXNOIBoih0G86dUQAQJEgAARIEAECBABIkCAyNMgXixqiAABIkCACBAgAqRXvo8yARKEASQMA0gYxhh/jmeSNQi/Ph/Di8WVABoSBgAkDABI0OYDCQQAEgYAJGjzW4Nc5djbDQAQAHcDufOp2xsAIADSQRz8/2Mvzn7Ta/MXNwTAYhAAC0Fs/mIQAItBACwGAbA+nwqNKIpaDN0hAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2237,7 +2203,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEEAAABICAYAAACp+JiNAAABkUlEQVR42u2cyxICIQwEScr//2W8eNjyUSokzAyEmx4UOh2SZVetDYzee7++NjNrwsNnAXx6T2nYzOJfPkzUCG81YiGopsVt14WFQDhh8Wl7giI8z1iIGoiqDpkQ+mOUCSIwbHU+M3aVy/cERisMPUEGM+DVgcEMZ5gMGoSzRAM5B6pmCQXCT7pQkmmbIRWKtYavLJ3+/MXqJ8chbTOTGasC4szd3KogGNuEEMFwNjXpSyQKRLaFPqLmblbInDFm2jAMAWFDFogpE3ZJi+l0WA0iw4aQPUEdRN18iYSgvD+EmrASRGRKSKdDFIhwCIppkWKCWlpsUR1mQWxTImdApEFQurbYrlkaAZEKQeUQptrm9sdBK+M5QJSNzjIRZACOSIdvIJxJSxQIZ8tPBIjjqsM7ENQb1iorj+0TrkFwhkigQVTHiNwTWPYGChPqsV6SQQEBbUOZwAQBaUOZUBAIIaBSokxoP/xgfOt2+WEe5c3TzFb6XcrdTos65QVUtg2/bLbUzxKMgvi3ykg9UJH15zZ3zOXgSx0vQV0AAAAASUVORK5CYII=",
                 "origin": [
@@ -2277,7 +2242,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAGIAAABYCAYAAAAORCLFAAABv0lEQVR42u3dy27DMAxE0XKg//9lddVN0IfryNKQvFoWRSPNydA2AjTxkXTNOefrzyIisp4nKgBUwFAlhKu/A8TDCJkxohJA5jGlqgjZmqGqCNkwVBkhE4aqI2TBUAeEDBjqgsBoMkNwBRdNAAKELA90nd4A6hqGG4Y6h+CE0XI0cY3gAu0B4YjgsifRhEaNAMEAIgOCwx5FE4o3AgQDiIwIp/fMA13VRjCSDCBAMIAAwQCiCsLJcwiEAo2oiHDqTAIhcSNA4IGu7HgSbUjYiE4Iu8/KaMrWCEYSjQCiext2nlsgJGgECFwjgGCdmQpiLNEIFhB+4wkIGkEr/oTgQk0jgGCdHU9iLNEIFhB+4wkIGsECwnA8AfHP9dT/kh3cuu4L+9fXBOJe8HPOuRJs8K5/71qxCkMdAVaE9/U3Vk0RAeBxFyUA1oy3dzFipWrXO5/X7O68djmIU98Z8VN+V/czCH8/0Hf7TdeIbKFfPUs4I2T8Bq07WUZEDAL3wNvaiC6B38lzEL7JGF7ZBkK/34pB6MkaQfDPtmIQukkjiMCjFXxmbXLXCITJAsKkFUCYYADBaKIVQJhh8Nxm9IzxCbQDa/RULpzpAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2301,8 +2265,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 93243445,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2325,7 +2289,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAOoAAABxCAYAAADbNT/OAAACo0lEQVR42u3dwU7rMBCG0YyV939ls4IFgqq20mTGPmd7hYCSj9+hhRsHLKL33mffNiIi8+cWvrzsHGiVcIVKyfAiIj4RaNZghcqSi7harEJFmAWCPV02CLLANwkPAULMv6pCRZQFYhUq4iwQq1AF93PhCTNvrEK1iBQI1U99BUqFbwoegloBfn8XF+NeqypU60iBWB19xYmjLwK1qhZVoFhUhEmWVbWoIsSiChOralEFiUVFoGRZVosqUAoQqkBx9BUnjr9CFSWbxHoKDvJrIoX812oIFPIfg5tIwdFXpHDBdRwChfxH4HM0nNF38m5s/hYQXLCovwN6FazY4NpVjZlI/3pn4oSkoQL3xNpECvmdAoX8mkjhGSOdNZFC/libSKHQ0VekkHdVT4FCgUW9+784B8aFe1RIEuOL0YzZMzNwX6xttGzgc/59Xf3sGwL3LWt75w0sLDyrzRYOJAxVrPDcvWrzkMBii2pV4ZlVnVpUsULyRQUKhWpVociiihUcfWF73z9QEirssKiOv1Dk6CtWcI8K27t0Cf1KHFhUEKp7VdhoUcUKjr4gVGCjUB1/waKCUK0qWFQgW6hWFSwqCBUQKiBUEOoQP1ACiwpCBZ4XEdHuekcebphvx6JC8kiFCgUiFSoUiPQ4juP0sEDeQH/+7c4PxJ8ThbFALSokj1OokDRIoSKUwoSKMAvw9AwitagwH9fIswSrv0z19k/OUzSMxPXqetnpNeRCpczxtPfed/0FD6HivtE9KuJDqIhvE56eQaTuUd2nChRHX8QpVLJG9c6JRJCOvo6/Fg6LKlBIs6i7rqpAmdFctD5fhIpIWSHUHS5gkbLEoq58IYuUpY6+K17QIuUqnp4RJhWurYwfVManbUSIUG+OVXQINWG4wqS6LwkTNUHU+FBJAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2365,7 +2328,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAGkAAABsCAYAAABpT5yJAAAB/0lEQVR42u3dwa7CMAxEUdvq//9y2FAkFlQFoXbGvl6xTHI6idOnBxmUZK211v45WY77Fv9sgXTDon8FlJkgCePsn4vl1gZiuxOC+QTUFunTgp7Z3q/C+GZ8yZOtUUcPUIKjDRQRsYFjgAiQboJsWvDJCbJI0vQEyScJIOEkdd7efn0Nl8BoA12CNP3g/8dL7GTBtYEOkQDRAHpDAkUTyOIyOx0IJJMCSTxFIBkAgWQA9EKis9MFIkkmtbEEugkiSbTgFEggUSDRNIBEkiiQ2OpAsgSKiCje27HdUSD13+pAIkmkCCSSRKmkKCKi+MINbaBXkoAy2e6AMjmTgNJci1IeHEAH3R1QJi34VCjFeXNPcr/MTkuT6nzLdeBTgE5vdzQSJmdSZyj1uVWnyYxPUlcoh/lU14mNThJQZpdZoAyQgDJBcoZyGXdNm/DYJAFlhESZIJEmkyQ5QDk9TMUiDD+TgDJpHIAy6e6AMmnBgTK5JwFlcplVgHJ7WIpFAgkoZySgTJCAMkECygRJpdaz1MYl823GmZlXL5DL9yrxm34G26/cdsf5ZHIm3QnFf/qRqH7dHVBi3Z1r5zUOCRhhJHCEkcARRgKnUXdHNwkSSaJAonHgLAIJGJB6wLyNu/MdqcsL2o20gATMZKRJf2vagAEJmI5IoIgiASOKBMz5egAuWond9GpwdwAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2405,7 +2367,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAGsAAACYCAYAAADjuRe7AAACO0lEQVR42u3cwU7kMBQEQNzK//9yuIAEuwjBapO47erTHO2U+yUzEby8bJbzLY1rz25QX32GNTFUa7IzVBtgNApWDVQTZjSqByy7QxmDhVANwAGlWZVQs2MHVA/YVj83GYML3qdmbVdAaVY91IwHIaB6wALKGFwGaqbDEVCatRTULAcloHrWEVDG4JJQT68poDRrWagn1xcXomedAWUMLg/1xJoDSrO2gLp7/QHVs4+AMga3grprTwGlWdvljoMYrerZY0AZg9tCXbnfgNKsraGu2ntA9YAF1KZjENS11yOgNmsWqHuuTUD1gAWU71lywcGOVi3eLFDPHHBjsAgsWuUBQy448NGqBZsF6vl2GYNFYNGqhcYgqHnaZQyu0iytmqtdAdUDZgwWgUWriu9ZoOZtlzFYBBat6gHTrMZ7llbN366A6gEzBpvGoFYVf88SWAILlsASWLAElsCCJbAEFiyBJbBgCSyBtWje3+bD0iyBBUtgCSxYAktgwRJYAguWwBJYsASWwIIlsAQWLIElsGAJLIEFS2DJP+dwCf7OGGO8f57p/zHC+gNHs4phxhhjlnYdcHrADjg9YAcYT4NL4jzdrgNMD9gBpwfsANOR8zzPW07Iqjh3t+u/Y+3WmjvBDjhFT8O/PRlwnmvXt1hg5gL7hAVnbjA4RVjeFBc9CcMqAoNVBAarKLCK2gWrCAyWMShXtAtWERisIjBY7llyRbtglYANr0Sey09/of9o5K9IihqoWZO167tp9wrAcPviR9XMuQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2445,7 +2406,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEsAAABaCAYAAADwxKvUAAABTklEQVR42u3cQQ6DMAxEUTvK/a+crrqCVjGE4GS+VywqhJ7GJkQUN8rMzFpr7Xvs7n72G1dG+VdnYFUdJVIOTH+6HJR+sArKQm2YFeYsXQ5KP1gFZVIb7gxzGUsN5VcbOiiBAQ9Q/zqrwNG/ggcrUGAFdh3A6oQCKwAFVgAKrAAUWAEosAJQ8lgRKGmsKBRtCNYzqZLEugolh3UHSgrrLpQM1ggoCaxRUNtjjYTaGms0lJlZeeKkLErFU7Ul1pOdUoASxJoxe9l1AAusV1uQZIEFFlgrzavlsWY/19KGClhv7JYUoGhDsMBapAVJFlhggbXSvCJZYIEF1krzimSBBVYerOxv0mS5PpIFFlhggbXhcCdZYIEF1krzimSBBRZYYIFFpcbKuMdGsq5g8b9DkjW0Un21O3u6KzgJsXaYiRWYiVhKd9EKzAAs1l3H+gCb3TVfxr8hOgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2485,7 +2445,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAE8AAABYCAYAAAC056qlAAAB0ElEQVR42u3c246DMAxF0djq//8yfapUZkobDEl82XlGQlo6jkkItMbYjW3btt5rBa7PaCIi4F1I2i/AB2j2IaD9APqSPgHNDiig2QEfoDHnTUH7mz4BzQ6owNnvpcDZhwJnv2+Ksl0FqKTuXLN4NQzp2TkA7vghmbK9sDxTUmffGFDgbHCU7QW4UHgzU9fbSBU4G1wIPK9wzHkX4NzjrdhmSoG3crekG51nOfsSVYGzDwUucNl62SEJl7zIcEvxosMtKdtVjyAjNn4VuAB42eCm4WWEm4KXFW5ow1i5Np31VjDVEbPZr1I1S+pWvIPWTOUaHq9CuQ7Bq1Kut+NVgwtdth4OKWnE1Hk53aXAFSlbb+cJFbgFa1vPxyBInnM4M573YxDlkxfhsLl6TF2UU/pK4ibhVdpuuhWPcnVcthG/RlIPqYv6GZeSuIF4M7/ZT4VHd3VattFT9xWPcnWYvCxwh3jMdQ6Tlyl1U/GywU3Dywj3EY/5zlHysqbOxdoWvIKp+4fHfOckedlTNwyvAhwNwxteldTt8GgWi5NXKXWttSYj/2BN8hjHgbljzquYul3y3n8myjCW7VnAyuB6BEIKLzYMEDsbxpnx3lwq4z4BrFzs6XDVCx8AAAAASUVORK5CYII=",
                 "origin": [
@@ -2509,8 +2468,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 94444839,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2533,7 +2492,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAANIAAAB1CAYAAAA7gL8UAAAC/ElEQVR42u3dzW7bMBCFUVPQ+78yuzKQn8ZRrBE1HJ5v1UVRtLJOLuUkTXtIgfXe+/PXrbW2yr+7eekVDejTDbYIJpB0CaDVMG1uBV2J6C+/zyIJnKM3XNF1AknDl6QiJpB0y/GrGiaQ4Ljv5iuECSRQIAMJlurNAgokQGACKReK1loDZE1MIFkUmALavTwAySLBY5VAgkZVMPmiVYi8ThYJHsuUox0aySKBY5UaSNCoCKYGjmBa5BkJGnlGAkcLrFKDRjBNBgkaVcW0HwXwzl8OHHlG+g+EV5ig0cqrtL+LAhzph0WCQ1bpxCIBJJ1rg0hVG3lv+34kwRQBaaUfBiVZJCnxKm2Px1o/olAwXbpIMElBRzuYZJU8I0m3YfoGySpJQYsEk6xS0NEOJsHkGUkaiuklJKskmIIWCSbBFADJV4cLJoskDcHkzQYpANMhSFZJMFkk6XJMhyFZJckiSZeukv89VQo4kW3Rf6DkaCdpHCSrJM9LFknKc7SzSrJKQYsEk2BytJPuP9pZJckiSfkgWSWt/pwUtkgwySJJOrVKoZCsklbFZJGkjEc7qySQYJLyQJJAskrS4Z5vOFgkKfvRzioJJJikPJAkkKySZJGkEfXe+zBIVkkWSVIeSFZJIMEkOdpJ5SBZJYEkKQ8kqySQYJI+tbsE0vkxSLEIfpymZgVkkaTAR5E0zyhWSTMCSgcJJs2Gx9FOCsCTdpGsku7EcCZf2SCIKkLySVrNeN+kvWkd8TTTB15HO0FUeZGskmY6/nv7W6lBPD+YZn92Tv9gb5XmAfHba1X5jaQp/mEwzbUqH1+vVd6FBUmlnlXuavOCyWuyCCRBBJIXDyLPSJ6XZr7RI68VQMUgwXT8xo66ThCBtPxR6uy1gqgwpKqYrrppz1wrkIpDmhnT6Jvzr9fp1SdZwSoIKTumTDfdkev029+3995BAmkZNO9cK0AWhzQa08w33E/XCSKQLsNU9eb6ep0gisn3Iy10M0EEEjCBiAACCZgTiFyX6/oHxkCREsIf+osAAAAASUVORK5CYII=",
                 "origin": [
@@ -2573,7 +2531,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAGAAAACdCAYAAABLlH3/AAACIklEQVR42u3cwU5DQQgF0ML///Nz1aQxutHXwsC5O1fOcIBpY2I8Bua6ruv154iIrmeNacX+9aJNEXJD8TsnH0vSFSs3FbQjQupmAB8tfje8NW9AV4RUOAAlxe+CmTofwGrY3F6kaoTUoSagvPiV0KvfgA4IqRhWUJviV/xuK6gYIXW/FdSu+J88Syp+7Zm8AdtXUOe9/4mzpeLXnjEV36eg1d8NUvcvm4BTi/+uc6fi157fG7BlBU3Z+3ffIxW/9j5W0PQVNPUj5133SsUfOgEbin/HHb0BEydg0+r5711T8QdNgOJ7A45bQ6n7B0yA4v+9Bqn43gAAur9uDaXiW0GrpyB1vwkAoPvr1pAJOGkCdP/9tTIBp0yA7n/PFJiAEyZA9/seMHYNpe43AaunIHW/CQCg++vWkAnoOAG6/3NTYAK6TYDu9ylo1RoCYAJ2TwEAEwBAAAAQAAAEAAABAEAAABAAAAQAAAEAQAAAkJvz/MM8ABMAQAAAEAAABAAAAQBAAAAQAAAEAAABAEAAABAAAAQAAAEAQAAAEAAABAAAuRPAf801AXsBdH8hgOJbQXsBdH9twhvQBOB7gBQDwGgEAKQZAIxGAECaAcBoBACkGQCMRgBAmgFsxYgTDjkZJE478DSMOP0Cp4PEpG46EWMUwIkgowFOwFgD0BVkLUAXDADFIAAKMSIiABSCACjEeNYeQAHIa+MDKMCweYpAfkL5AvR/x4FViMk4AAAAAElFTkSuQmCC",
                 "origin": [
@@ -2613,7 +2570,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAHEAAAByCAYAAABk6j5+AAABqUlEQVR42u3dwYrCMBiF0UR8/1eOqw7CgMOA1t6b8626Uuzhj0FbnUNxrbXWcTznnHenJBPvOYihcBCDwSCW4UEMh4NYAAexAA5iOBrEEjiIoVgQC/GOboiyASEWAEYvp3+d4Dnn3AFwjDHmDhPyH9AkvOO1bbGxWWutV5BpcBWT2HDi3zmJNjYFQWyYRkupSZRJNH21iMBCEcGFvycCDEcEGLycwgtGhBeICC0UEVz4xgZg6CSCuxjiK5DnL1bBXRARSjAiPBsbQRREQazY1LjaLR/QJBYAQiwAhFgAOIabTKPxTGIJIMQCQIgFgBALACEWAEIsAIRYAAixABBiAeAYPrGJxvuZxHc9kL4DaDktAIRYAAixABDiyX3qGl+IBZAQCyAhFgQRoiAKoiBCFERBFESIgiiIgniJXJ4hiBAFURAFEaIgCqIgQhREQRTEPXLP/ol96v5EiKFwEMPRfj3nceCfarLgTGI4GsRwMIgFYBALwLZHbP0JtDs0iNAgAtsSEV4oIrhARGiBiNACEaEFIkILRQQXigguFBFcKCK4QERooYjgcnoAjYmlURilYzUAAAAASUVORK5CYII=",
                 "origin": [
@@ -2637,8 +2593,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 86684292,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2661,7 +2617,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAJ8AAABzCAYAAACGndAZAAACdElEQVR42u3dzW7CMBAAYWzl/V/ZPVWCQ38CiXft/eZWVVVbMsx6ERHtgaUYY4yfvtdaayv9L83lzC/VqQu6kIDkW1SyHQQk30bSrSbgQYu9pHPmQwrpstePfJtXLbOA5CswJrMKSL4i57KMAjaSFTrgJxPwIBiUj3Dl6tdIR0Dyka2cgI1wBCQf4coJeJANpcpHNvWbLh/pCPhMJx6irk8nHqKuUyMYokZwIxqiBDwIhzDByYao+jXCIUrA7uFF1HGLfAgTsBu5iBJQ+RAG+RBWP/IhTMDuvIcoAZUPznwgHzBt9JIPYQJ2ywaMXZAPmDV6+2qf3QDlA17q904B++Ox3ifXYLPyERCzz3/GLsIEfJFP/RC6cBAQs+pn7CJP+dQPs+qnfAijXbk6A2cmaX/nh4DbznxACvnUD3ctH/8qHwFh7KKmfOqHq0fvqfIREFcKaOxinTOf+uGq+r1VPgLCtoua8qkfQstHQHxy7jN2se6ZT/1g4UBN+dQPoeUjIIxdLMPltXLfB8LKZ/zC2EVN+dQPyodaC4flA79NwjHG+P5a+RAm4u1nM/WrK9dfHB4uRC2Z5MM02aYuHEYv2ZQPaYSbXj71I53yIVw48iFMuJCxa/SSTflIl+fvmv0L1a+WYMpHupR4YwHqjF2jV/GM3UA5Pnny7fQu8bB/ZPf6/VeSM4/DbrcnKJ/RWq98u9fPTVS2XZDPuEQy+Vwk8sETqt7CsdPiQbrzeKmFZOQjnDOfi0s8CwfxLBwlFw/SKR/xLBxEQ4GxO2v0kk75lE758nFl/QinfLfX61lYwinfZeUjE6YL6C63vfE6H3D34oF8fAHwiikONDz+NwAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2701,7 +2656,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEAAAABWCAYAAAB/5pBYAAABrUlEQVR42u2ayxKDMAwDnfz/P9MTzLSF4RE7lmQ4cd2V7ACtWeFrWZalVQVf71tV8FIC9sDXq1eGl27AGbisgKvgcgLugkvtgKfw9A0YAacW4AFOKcATnG4HRMDTCIiCpxAQCQ+/AyLgW2uNQoDLEfcDSzMC0bWHFuAFfyV9OAGz4SW/B9yBhxIwc+7hBGRUH0ZAJny6gGz4VAFZMw8hwPV9fiD9FAFI8NMFoMFLPgjBCkBMf5oAVPgpAlCOuxQB3vDe6VMtwQj4UAHIcx8uAH3uQwUwzD3NDoiGdxfAMvchApjm3l0A29y7CmCGh1uCs+GHBbDOvYsA9uoPCVCBp3oZghGglH56A7LhbwtgfNR9d4CXAMX0UxqABH9ZAMKvuO8OyBKgnP60BqDCnwqY9W/NdwcgCqiQfmgDGOAPBSh86UltAEv6uwIqpR/SAKb0/wRUS9+9AWzpfwmomL5rAxjT3wRUTd+tAazpm5n1yum7NIA5fTOzzg7g0oCnEhTkdSWY4R1wR4KKsK4KFnoKKEnq6oCPG3AkQU1Or1L1xztAXcKlJVj9aXG7FF+cPseB4Jq70rcbAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2741,7 +2695,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAGgAAAClCAYAAACwarjLAAACPElEQVR42u3cy2rDMBAFUHv+/5/VVSAUCiWK7Xmcu+tO1vEdK07JcRTMWmsdQxJVcaYgxSGArhptE1oUVXGmILUYcZ2RAgCgW3C6IrY6xXVEim4b3g0ptAHQ7TidcNu+SeiCFJ03tgNSuOsBQe8AdOVGVkaKKXd5VSTfBwHKc2dXbFFMwamKNHLEVUIKmwQoJU6VG2T0Ka4CUkzflOxIYTM0yKirAJS9PVnXF3Byr9OIm/4MqnYwyLbegJN73QEn9/o9gyY+g7p8IM1wHQHHmwQtygKkPYmBOuM8eW1G3IQGTRhtT11jwHGK06KngCa25+5rDjhGnBbdDaQ9iRsE5959MOI6NUh77t+PgOMUp0VXA2lP4gbBefYGDjieQVp0BZD25EAKOEacFn0TSHsSNwhOvhYZcVUapD05W6RBTnFaBEiD5KkWAUqOBMiIk50WAdIg2WkRIA2SnRYB0iDZaREgDZKdFgHSINlpEaDkSICMONlpUXzy6VY0SIsAaZB8oUWANEh2WgRIg2SnRYA0SAABEkACCJAAAiSABBAgASSAAMmHeX3lAEiDBBAgASSAAAkgQAJIAAESQAIIkAACJIAEUFUgvzKiQQIIkAASQIAEECABJP/KWmsB0iABBEgACSBAAgiQABJAgOSenO9/+A+f5EB/BVxyIHBFgcAVBQL3JZzzPM8MCwGXHAhaQaDpcC+bs8sFdYNrB9QNbgxQVbjxQJnR3s8GgBLCAUoOByg5HKDkcIASw/1+efAD2Ujjl4H9PyYAAAAASUVORK5CYII=",
                 "origin": [
@@ -2765,8 +2718,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 88264538,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2789,7 +2742,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAOUAAACXCAYAAADqI5zcAAADUUlEQVR42u3dwWrjShRFUV2j///lZJIMAoZYdkk6VXft0Rs0vBC8+txKN/S2SSF9/dT9+1A+Crob4tMPZlVBKd0MEUwoFQgRTigVCrEzTCgVibAzTCgVDbEjTCgVD7EbTCg1BcROMKHUNBC7wIRSU0HsgBNKbSv81baVYEIJ4joLswhMKEEEE0qBCCaUIG5gQikIwYQSRK2BE0oQwYRSIIIJJYiaCCaUIIIJpUAEE0oQNRFMKEGEMwwnlCAqDCaUICoMJpQQKgwmlCAqDCaUICoMJpQgKgwmlCAqDGeBCKKyYBaIUhbMAlHKglkgSlkwC0QpC2ZBKGXBLBClLJwFopQFs0CUsmAWiFIWzAJRyoK5gyhltYMohS0tiFLWCbuDKC16voIo3Xy+Qiidc8YWiFIWzh1EaYI3JYhSAEoQpRCUMEpZPXwLpDCUs/w78JKllHQfSmspnduRn91YSin1fLWWUsZaWkopDOYflNZSuh+mpZRS35TWUgpFKene6pMHqaQPAT65TB9HfrGksT0bP+erNNOb0lpK16+lpZTCYP6L0lpKQecrmNL1vYzNH5FIQUtpLaWLVvIdaBZTOgfj73/vvh1SBsbDb0prKZ2L8fCb0vtSOh/k20tpMaXzxsybUgrB+NH56oyVzjMyBJUzVho3WMOWDkxpzPXoTSmFYBzypvS+lMZ/9odDcsYKxjCUYApGb0ppCYzD35TelwIy+Hx1xgrGUJRgCsaQ81UCMngpraVgDEQJpmAMRAmmYHwtf04pGNO+vqv/h9ZSIIahBFMgBqIEUyB6UwpES2ktBaKlFIiW0loKREspEC2ltRSIllIg9v6+pHwh1hJEWUpBaCmtJYiylALRUlpLEGUpBaKltJYgqhlKMEF0vkogWkprCaIspUC0lNYSRFlKgWgprSWMspSC0VJaSxhlKQWjpbSWMCoj/2gskLKU1hJGLYWyG0wY++UHPTDKm9IHFkgtd76uesbCKOcrjLKU1hJGWUoYNVkPH3Bfr5yvLc9YGOV8hVGW0lrCKG/KUAhAyvnqNwU5X52xMArKQJgwyvnqTFWDHuAAKefrlGcsjHK+OlVlKa0ljPKmtI5Sz6V8dS1hFJQhMGFUUq1/0AOjNMkZK93ZN59+pbUybOq6AAAAAElFTkSuQmCC",
                 "origin": [
@@ -2829,7 +2781,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAJwAAACFCAYAAACuYZEeAAACnUlEQVR42u3bwW6rQBBFQQb5/3+ZLBIky1Ji2YHLuLvO6ilvB5U7YMXLIp3ctm3b/u+by6EENOAUhba3ujxKYbNwikEDTlFojlTFsVk4xaBZOMWxWTjFoAGnKDRHquLYLJxi0PaGy6sEtGVZljHGsHA6HZojVVFkwEF2WcBBBpxqIQMOMuBUFxlwkAGnusiAgww41UUGHGTAAQacIAMOMuAEGXCQAQeZgIMMOMiAg0zAQQYcZAIOMuBA69oATcCBBhxoAg404EDTX62wycKBBhxoagEONOBAUx1woHlLhU21Fg404EDTe6DGGPt9HWOMKcCBVgvYtAsHWl9oUXCg9UYWAwcaYDFwsIEWAQcaZBFwoMEVAQcaYBFwoMEVAQcaYDFwsMEVAQcaYBFwoMEVAQcaXBFwoD2H8s416gzssRtox4KB68n1ge11PPfXDDDgPGPNfqQKtFSrSwAacEFoO7Z330DlSLVoFm6+Rfvt/63cyffg8TXfon1fDyto4Q5fNEvnGc4zmoWrv2hWDrjLoEEHXBwadMB5TgOuDzYrZ+FibT9Bd0wf97FIct3uPwD2YXDDhbsK2/3PkHGkRrBZt2bgUjf82dFp5SxcDJuVawIucaNfeSmwcv8EN/Nv7mzYrFzhhZsNm5UrDG5mbFbOS0MMm5UrCO7sBTkCm5UrAi6B7ZOOfeAKYAMFONiadKsODTYLBxtwsKnokZr8qw/Ymi8cbFphUzlwsCnyDJf+DgJsjRcONsXAwabYkXr1V/nUaOFgUwzcFceoPMN5ZtP5z3CzfElZFu5jX0g0KTgIFAMHm2LgYFOLt1QVAWexNO3CwakYONgUAwebvDSoJjjrJgunmuCsmyycaoKzboqBg02OVNUEZ910er6corP7AhYX6Vn9cVGcAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2869,7 +2820,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAADwAAABUCAYAAADeW1RFAAABi0lEQVR42u3a2w6DIBAEUCH+/y/TJ42x2KrsbWbxtTbxdAYE7bIQHq21dvXZmgW6HYUZWkopVAnfSfR8VGZs75yaJVlY8FPs+fw1Q6pwCY9ij9+vWZINfx+Whm73ZdjbEk3CGsmGBWtit2VmzZJsqFlavcaHTUTNhHVdaVlVOESlrbC9/XDNhDUHe9XYBWyJvUrXDBwFawKOhFUHRxizZmBr7J10IR4ASGLVwBGrrAaOWmWKSj/FioMjVxk+4TfpioKjLTBUwQhVhq30SLoiYJQqU620zMBo6Q6BEbGvwUizMtwYlkz3FRi1yq/AyFV+DI6+7YMew1rY22D0cfsIzDBuw1ZaO92/YKYqz80De5X/gr3f485KM4Ct03UFe2AvwWyLDfeEvdJ1AXtiu2DmOpsn7J3uF9ji77tzaekFzpDuDs6CzVnpTOmqJhwRqwaOip37YfZ0xcHRsTkrLZUKQrpiCaNg5yzNnu4ORrvoWWkrMGIzKvLFDyecAV0Zajo8hpnRP2G9pyHoP8YH9H/MshpEKPcAAAAASUVORK5CYII=",
                 "origin": [
@@ -2909,7 +2859,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAANcAAABOCAYAAACzFIM+AAAByklEQVR42u3dwW7CMBBFUU/E//9yWBQkFiGFJGMx9jm7bhqa9vJchNpoD+u6ru2AiIj2445+bSPeC/qJ3j+AU9xUkSGu8YN79331BCAu0XU6DotNXDjWlrG4BWwtnidby8UAy9b7leqt62WstbjoFlnGz9jeYzh7vbPBiQuSIvM7F2QdWy0X5Cya5YITi7Y3SpYLktbMckGSxWpBYlyAuEBcMKPXX7HEBZYLxAWIC8QF4oLZPV8xFBdYLhAXIC4QF4gL+HvFUFxguUBcgLggR0SEuMByQZ3VEhdYLqi1WuICywW1VktcYLmg1mq11tri78RDjptbwIyr0tp1/4Dk3ecXF6WCyLhG1uktHAuZKahPfNPE3mO2XAjrg8dyZIQsF6JKYrkQlbgQlbhg6qievEMDYYkLYYkLpg9LXCAurFbBuNwEhJV0H14/8G4NhJUU11FbUX5zk89G/d+1PGkIq2xcVzkb6VXXRFjDxfVrhCcqcQlQWOISn6jEhdCEJS6hCUtcFI5TWOKaNrSISPuTDcI6xnsLB1qwjAiEZblIODIKS1wkhCYsx0JEYrmos2KCtFxYMXFRJzABiouEwIQlLhwRxYXAxIXAuNwd2rjM1DKrpQoAAAAASUVORK5CYII=",
                 "origin": [
@@ -2933,8 +2882,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 22123227,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2957,7 +2906,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAR0AAABRCAYAAADvh3LYAAACQUlEQVR42u3cS07DUBBFwWfE/rdsZgxAjlCM+/WnasoABTlHtxOJYw11nud59bPjOI4FPGLkm+tVcEQIRGdbbDKG6D9fQ5mHVPRFZ3pwnniDTIyJCImO2CBMCZ6v7lFt/eIEBwEVHbGB4XESHSA0YG2iIzRQI0otoiM4UCdEZaMjNFAzRiWjIzhQNz5loiM00CM8H4IDhIZHbIDx0REbcF4JDnA7OGutlSo6ggO9g5MuOkDv4KSKjpUD/YOzVpIPkgUH+sfGeQWEBydFdKwcmBOc7dERHJgVnK3RERyYF5wU5xUwJzjbomPlwOBICQ4QsXC2LB3BAXymA4StnNDoWDlAWHQEB6wc5xXQc+lYOWDlhEVHcADnFbB3LVk4QNRpZekA9c8rKwesnLDoCA4QFh3BAbacV4DT6vHoWDlAWHQEB6ycsOgIDrDlvAKsnL/6tHCA1EtHcMDKCYuO4ABh0REcsHLCoiM4QFh0BAesnC3nFSA4j0fHygEsHaDsylnrxb8rtXJAbCwdoOd5ZeWAlRMWHcEBnFdAi5XzKzpWDgiOpQP0PK+sHMDSAVqdVt/RsXIASwfoGR0rBwg98a5+cBWjd2/CCnGLuneFns7P99vRQXwQHdERovAHUhgFR3TEaOsDKUKiIzo4DykVHV+Zc+tBzvQwU+S58SegyhLa8c3pz99Zdd05rxCfIm+QDmdmtr+n6EBwfCK/KcwYcNGBxsspY3R8kAzOIdEB4bkfnqzxcl5Bw5Mr81oSHWgUoAqn2Re37SSKlFXxDwAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2997,7 +2945,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAFMAAABeCAYAAABfLCjeAAABnElEQVR42u2cQRaDMAgFhef9r5yuumxr7E9AGA4QZTKYYGqPo2CMMUbEdb0qyAigfhSO3UBLw9wN1DuA2wXUuxi4A2j5Mt8JtBXM1UDbwVwJ1LvCWQG0pZmrgHp3IEqgrc1UA3Ug6MbCTCFQx0rduJjJag7Mx/TYmAnMOlZiZmeYma18FMydIO9eizLvZmZEed+5JmYKwzDyByAzw8yACXWsZNOecmIdK3X3hJlCoMAUAnVKnAUo5YQ7VmJmyokHZkUzn17imAlMYJYvccwUS+BYiZkp7XSs1MV5NcGZs5CuYbN2qKBWsvLNxLuXZvgClOlzkVSGKhKcLf1qMN/5mzrRT2CrPx7MzE62O2zagVm9EzLKFTOB2RYmvThmAhOYBDDDYLIIYSYwgUlch0l/jpn5YGIlvTlm8swkgAlMYPYL+Y8QMJPQw8RKzMwHEysxE5jAJIAZtmnPsgj9ev2XdbGUwPyW/OpPYzKBvd1OziR9Zcx/X0an+BO+2RtbkbTyrX4k1LCjiTHGWHU0EgW07DlPBNB2h2a0zQ+ZpBcRKku/R8pGxgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -3037,7 +2984,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAADIAAABRCAYAAACQX/VFAAABZElEQVR42u2bSxKDMAxDsYb7X5muumFaShJ/ZKrsO+RFsuXQYdsm1nEcx0a2bBXCzIwBBKtKsKgDDzsxwMCrJqph4LnBShh4b6wKBp1a7DDIKkTFISBqE9kwFv3grMDE9pBlWTaIVgbdutNXkCwPRx8YMgsyEgZs47hL18qAiVIFFX0/AgaVIZYSiN1gUBVi3vb6OaJ0gbk1a3Ww2e2hkR1maPqNgPGy1/AYz6rM1H2EEWb6YuUJ42Gvx9wQBSKQoDqRImyq0CkyC7MEEhWMMzCqEbZxhVaRUXtRW2sExqqL1Mu+LYr9zgEh++TaFHtVtqDK094wCkS2epEibKqEK6L/2QUiEIG4pnsKiHfn+gQja7HliRQRiECu602K/DVIZAtOf33j/RLvfTjtrfU+GKt8uIr9qSBmZnt3gPaKnFu5RhQmiDKQ2YS/+t3eWYXSEWUkGEeU27sqQKXIWZXWn354zV0veFy4kean6OkAAAAASUVORK5CYII=",
                 "origin": [
@@ -3077,7 +3023,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAFEAAACbCAYAAAAa/HfkAAAB8klEQVR42u3bUW7CMBBAQbzi/ldOf4pEpSIBju31ZvYAqTx5dgKot1uBOX5n1d+PW6FZBXkH1j+tIlprrSkxWWlbnom9gLNvwF15G5+JM9BmnY13xXlPTHHD2hXqG72tw/ZNXGI2vJE1hvo8WFLc2FBhojNxF7wRZ2NcrZoRNztsYSWmuOmhQiWmuPmhQiWmqDFUqMQUNYYK+9cTNuOC7Vz1LOxZlxJnl1j9ifzt+pQ4s8SrvBd+s84A6GU7RY2hwv51K3H0dr76Wfju+pU4skRP5PcdlDiqRBV+5qHEEyBDhT6xpKgxVKjEFDWGCpWYokaISsxRI0QlQoRoIEKECNFAhAgRooEIESJEA3E2oh+plAgRooEIESJEA/G8ebxfQ1QiRIgGIkSIEA1EiBAhGogQIUI0ECFChGggQoQI0UCECNFAhAgRovmL6H9YlAgRooEIESJEAxEiRIgGIkSIEA1EiBAhmo/mOI4D4gnTnkVPvXBrbcR1UyP+l2kP3lnX2xpxxNnhwWLWI77a5hANxC0Rq27p6SVWhFyynatBLl9MhffH5Q+WClWmW8COZaatYCfMLbZSdtDtzqOMoNse6pkwS7yvrQYt9+lhBWjZr6dmgpZGnIV5CcTRoJdDHAF6acSzQCF2YD6+PIH4Aeirb5x+AK3dODUCaOX2AAAAAElFTkSuQmCC",
                 "origin": [
@@ -3117,7 +3062,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAALwAAAB3CAYAAAC5ZircAAAB+klEQVR42u3bwW7CMBBF0U7k///l6YoFFbRFhCh5c+6qW5tjZxpBfUk/6u5OWk9V1e3v5eMFtKoqDfnTteLiVo1H7oYH/BmI9IMHvBt6FH4jDeh3yFPXeVujG96s/RKYq68feNh3eRpcZW82jP8HHfb3xyI3vNs8Dv3Z9w140EfN+gX4bOCfHkXOsr9j3tK4sRU70sB93SfIUZ/dAltTRteqqgW4Jv2zu0CXGR50AQ+6gIddu8/yv1l49NbnFTsFOmApa/nLUlXVBrsmHd4Ndk1CX5ADkriuZ9Z8H16xB/nRYd6OOm1ud53hCVZ7w7bFRpozjzgFOPBT1trdXTADP2m9C25NylsaAS/jDPAS8BLwEvAS8BLwEvAS8BLwEvAS8AJeAl4CXgJeAl4CXgJeAl4CXu828feswAt4CXgJeAl4CXgJeAl4CXgJeAl4CXgJeAEvAS8BLwEvAS8BLwGv45r6e1bgBbwUDb672zbIDS8BLwEvAS8BLwEvAS99pGUL5jT5KwXAAw68IAdekAMvwIEX5MALcuAFOPCQC3jIBTzgAh5yAQ+5gAcceEEOvCAHHnABD7mAh1zAAy7gIRfwgAt4yDUUPOSKBg+44sFDrnjwkCsaPOCKBw+54sFDrmjwgCsePOSKBw+5osEDrnjwkCsePOSKBg+4JvQNYMLJoCruHJkAAAAASUVORK5CYII=",
                 "origin": [
@@ -3157,7 +3101,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAADkAAABCCAYAAADt/X6HAAABLklEQVR42u3YwRKDMAgEUGD6/7/cXmyn06oxGgi7krOX55I1UQR8PZe194wiYVrPqOqqx1iAsEmewa2laXKDpZTj+ZOmsQFTJzka952msaaXJkl33JImdbu+X6Kypji9XSOBU5DRQFVVYwaGJzkDGNquM4Eh7RoJ3LpPPqBvFxuosBOPy0H7ICqkeGa1aFiSnreJFMgRwBEoF2RWXNo/A+n25Oh/MV4r/DsZBbuc5Kj/oWkP6GjAbiQisAuJCnT9hGQBHkb2ppgJ2GxX5BF1G9eMwF0k+og2kdnug3VAP1M8TGN6qyQvIRFS/EOyFc7lJFFSrD1JiWTdjx8k47ex9mQhAUdVRMSYC6fGtZDsSMTSqSRZUqwkWVKsJFlSFBExBkSNawvJkrIxYZpJMkNfZuCUfAj97eUAAAAASUVORK5CYII=",
                 "origin": [
@@ -3181,8 +3124,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 56504743,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3205,7 +3148,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAOcAAABiCAYAAACricRLAAACTElEQVR42u3dwU7jMBiF0fwR7//KYcWqoiU4ia/tc7ajmaLiT9cBxNQGCzqO43j351VVvT/G8mli5QiTAxUn00fWFEjHQMWJKEMDFSfLRDZaoOJElKGBinOxMD4dsJliGj1QcVoYQgMVpxgJDXT3NguTzM9hrfTm9fyelSAt6HJxnj30/3kzf16j5e8izuHjfOow+6ol6YHuK4b56bWEScK59QwGoQtaIoTMQEuQkBloCRIyAy2RQWagJUbIDHRP+F0pMKuW8fOztRAa6H7VwytwbaCWE0LtVzy4Atevp+WE9OW0nhAcJ5BztX2J03qC5QTOxmk9of/V1nLCaNda6wmeOcHV9myc1hMsJ3A2TusJfa62lhNGvtZaT/DMCa62Z+O0nmA5gbNxWk947mprOWGWa631BM+csPTV9l9xWk+wnCBO6wlZV1vLCTNea60neOaE5a62zXFaT7CcIE7rCf2vtpYTZr/WWk/wzAlLXG0vjdN6guWEqVVV7Xf8o95aaG/oy1sBWVHeeq21ntDejGdOCAxz27bt1oX76//gC6J8ZTkhMMzbl9N68ulgzn4+Wr7+Ik7iDuVVZ2z0L0xWzzcPQfI73+dEXCsvp/UUI5YTAU5jd0iEieVEjCQup8PjvcVyChHL6WAJE8spPiynAyhMLCeC5N3Z6PniK//UkCiJjnOlQMWIa60QESciRJxiRJyIEnGKEsQpSkbkV2MKE8spSrCcwkScwgTXWlFiOYUJEec04YN46offRYlrrWWEOZazdT3FiOW0gPCYbxBw3VjTYKyrAAAAAElFTkSuQmCC",
                 "origin": [
@@ -3245,7 +3187,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEIAAABWCAYAAAB7E0BlAAABlUlEQVR42u2b2w7CMAxDSZT//+XxgIYA7dbRNhd7TyAhmpzZTjuBPByvZVmW9bWIiGctGgHC1nsIEN5Nh1JENEASsVGPvNBHwMtDGSFBlM6I1rs8WxUaWeozYdAaWUDMUoVkaWL0SE1jjdHK0OyShgzLkXA1W8GjvpvjMzOIEarQTLYYuY5mhBDaGh4Qeq6p2ZXQa22tYIceNShqJnQDEQ3Cv/VoJSX8U5ehWuG2IrJAuFunVlTCnXq1qh1a6+bp8wqI7OHYUj8VcQaiyqi82oei7RdoDYIgiCarG3o20Bp7IJDV8AaBAOGsR1qDIIBBHNlD0UOS1iAIgjjMCfX+w0goRRDGhzXQYUCG5VZOfIFAVgXH5x4IVFXAKuI3JzZBIKqCGUEQ3/bYBYFmD1rjCggkVZwqojqMNSdoDWYEQRDEUU4QRIsiqk8OERFDVsHnDTZ0AJAgjixu6ADen7l7bM3eeElF9Jhqlq3hVZW9R3oKa8zYx1hVqac/a3jtYg25eXcQEc8uhtDkFBAwD3hRfn6ohPC6ni9P/DgbTGQaAAAAAElFTkSuQmCC",
                 "origin": [
@@ -3269,8 +3210,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Parallel wavy lines (Thatch)",
                     "id": 41990624,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3293,7 +3234,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAANYAAACKCAYAAADWr7SiAAAC+UlEQVR42u3dwVKsQAxAUZri/38ZN87CUiiQBOjOOcu3sKZgrknjPJ0m4Id1XderX2NxGRFNvOZS86Y3eWutvSWQo69FWAw1Fd4cllUQQSWYXQJEJSzo4puFVdCbZ71ypjCpNs5nLoHvxOwE8s8HGFZBUZFwvYTlTUICYYkKYSGqTs5mLoGgOBDKyYcYHrcLhwTCEhTOWIiqj+suLFFhYoGwMK2EhaiIuw+eCj5w8d/038/J4QfEpgpngjn4TdEqKCoS7rWwIIGwQFggLDs3Ze+5sMDEMq0Qlqgoe/+FJSoS+EiToBCWaOhDExNcCGjjs4OLoMAqKCisgoKi6jq4CAji+TkWOGOZSjhjiYiy56xFTDDwKigorIKCgt11cBYVDLIKCorR+TkW9HrGMqGods5aBAUPnbG2Atn7Pdaiwipo8kDoOrgICuLNooIbwwKCz1imFQRPLFFBcFiiguCwRAXBYYkKgsMSFcRqrTWP2yFjYu193g+4cMYCEsIytcDEgn7CMrXAxIJX+gyo+a9/BEwseH9YphaYWNBPWKYWJE2s9s0lAqsg9BGWqQXHnP4zPuKCpFVQXOCMBf2EZWrBsTbmq18ARPW7icVlgbigLp2xTC1Etd/AnPWFoWpU0xTwN4j9XkIEFTixQFSJYVkJEVXCKmglRFBWQbhlEwtd40wtqgeVEpa4qB6UVRCSokqZWKYW1SK6LSxxUTWo9LDERcWgPny6HeH0NrFMLaoFdVtY4mLkgLZ43I6oep1YphZVgro9LHFRIahHwhIXI0b0F4/bEdQIE8vUEk8FngoiKqsgYjKx3AhRmVggJmEhKGEhKGcsNwv3ycRCTMJCUFZBREWXYbmZorIKIiaEVSmEMx9qFtRN9+vpF+CT7gIQlrgEhVVQUAhLUAgLYbBn9uYEE8ukwsQCYWFaMV5YvbxZRYWJJSoe4uGFoDCxREUn75u3vaC3fG5QUFgFBYVVUFSYWEKCEc5Yd5yzBIWJJR5MrOemlpAwsUwgBvcFFWtJjG9jer8AAAAASUVORK5CYII=",
                 "origin": [
@@ -3333,7 +3273,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAALAAAABeCAYAAACD+Z6sAAACHElEQVR42u3dQXLCMBBFwRmK+19Z2cQ7FiSFkf+43w0itwbZMUWVFNhaa1VVPSyFUvFWVT0thxLhAqxouEeOEIrFW1XVlkgpWAHWCLQAKx4uwIpBCrBGoQVYkVhf5TGaYvGawIqFC7Ci4QKsOKwAawRagEEdk6cQ8EZnAkMLsMAFWOACDO6t8Ha3rxSBG52nEPBGZwJDC7DABVjgOgPLBJaJCzB0R93d8J6Xf2SYkrl4/SMDXEcIcAUwtAIYwBvmObAANn0FMLwCWG7iTF6ZwJIJbPJqLmBwFXuEgFdHDa0i4f6+puomTs7AJq4ABlcpgCFVDGBYFQk46ncW/vDFS5vzYtcOXJ82kXB/r11PuXjvYFxrrU+jhTgc8M4LdjZGkAcD/vqPOl8YK8RBgM++KIlQId4H+LnjQkxDqn1Hxz4TLqim8Nmf0A0txKMAHwv97mMpaCHeeSPfx8JCCHAa3qqqh0XdfxH0/3WzoCZx9Kb3jQxFB7CjRPQ6AazoTQ6wKRy9NgAremMDbApHrwfAit7MAJvC0WsAMMTRAazozQuwKRz9NwMMcXR+qVOnb8JXLy99arPa8Rcs8W21XZ8eAEMcfewBGOLo8zrAEEffaLqJUyRcE9gUjoZrAisarglsCkfDNYEVDdcENoWj4ZrAJu6I4WUC32wKT3thCOCbIJ76ppsjhKOCCazrTeG7vFtsApu4AAtc6Ss3c9P6AVXBTJUF5z0wAAAAAElFTkSuQmCC",
                 "origin": [
@@ -3373,7 +3312,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAC4AAAA9CAYAAADS+1sCAAABJUlEQVR42uWYQQ6DMAwE7RX//3J6AQlBKQnYZpf6CmqHYXGcmBFXa60dXZvUgJdyBWB333FCyTId+Bn0t+uTkmUK46PQ2/uhZvqRrhICPHcYKEGXRyUSevktqJlOz3gWMN3KOfqBulQ8VrxQi0gKeCb0Nh1QhA4Dr4pHWDusAD5qIFCyfBu8CvpXu4aa6UvgldBniyMUobvBWeJBPWT1zk9Qi4j0WHsKzphtOuOjewOoZVs+4846i9Aav7vfBdOMTW086mQBlbYjj0OgZnrXVSoOcV49HQ6Bq9lONZ4JbWaGDNvZ0O+dx1ltm5mh6o9SjEfBV0rQz7haZPDUq75bk1q2DzPuc0nuOXsnxicfEKxg/7vks2b+snG5UaHNJZkvBnDZj/MDn/CkZ12mx4EAAAAASUVORK5CYII=",
                 "origin": [
@@ -3389,7 +3327,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 26446025,
                     "lablerLogin": "edtriplett",
@@ -3421,7 +3359,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -3437,7 +3374,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 79994046,
                     "lablerLogin": "edtriplett",
@@ -3469,7 +3406,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAL4AAADICAYAAABWD1tBAAAEhElEQVR42u3d25LaMBBFUeTy//+y8hBITU0A3y2pe+2nVGUwTHt368gY5vHA7dQnKtGOWQk+y/n6dymlnH1MEL9b4Uc4LvZRlGCdnHun/pLwP4/7+tmzVhiY+EM1W621kv9aJiW4LoocOaZoZOJ3Lf3vx5rUMn7aaV9KKWcdUyMRf6iYc3YjLb1uDZJE/LM2gNGytAYIKv47UY+c7IibSPIvM40ufVR5r1rF6g9M/CA5fM+kiyzAqx5X1e7bsXtfdUJdxzf530/3K2o3+qpRIkq9ZdpolmtWkG8/38NqEFL8tU1B+rwb8LS3LJB+nBhm4sP0N/Fh9R1k4h+59GXim/xDTvylN1WcdqSMOuTHnXR1Pz75YXMLEB8gPgJy97V8n7lFKuFNfKSVnvhIKT3xYXMLEB+IHrXueiLvyqKnvF9Ij4xNQHykbIZCeGSUfyI9RuBsnybSI+UKQnpkjD6F8MjYDL5mGynlL2RHRvlnwiMjE+mRkZnwMPFJjySb24n0MPFJD1EHCByJTHtkzPoT6RGRJZcn0iOj/DI+8m5uTXukFB8gPhCEb1d2JjEHJj5AfGBsXM4EiA9Tn/gw8YE8U5/4MPGBNOK3/iNcgIkPEB84h3ephvhIJ/0/8eV8pGuIT//hrk2En/hbHgCE39ySHynFF3eQTnzSI534pEd0ZsIj9cQnPWR8IIP4pj0i8vV7dZQHog5AfGBsfK8OyP87/6/pDiDahtfER8oVgPjIvbl1CzJSig+kyvprd8FA6Ikv8kDUATKJb+rfmDXVuo+ML/O3k16tRZ2Uk748UZ0OJr5J1EfEcQ7OZVaCcRtFM1wcdSy/fVGfqMT+IWLiDya8Kpyzcs5bHqDwiLKX2hxhRpH/0y/cy+u3uW1b3ynbL22/El/4Ned4OruTgBFWUZtbpBL+kPh7NrrensedYi8e86wDffw0+5cXfZX8awrVsvH2nMisg+KqaN00r7cUv5VMpO9jP5k6478Ke5dYLgz0Uyd3Zz76visy27S/6zwQ30ROWf9Z8fJJ5IpaAPFHEr3WWre83r2Cav6OxT86dZxcpMv4V0p/dUOtbXjTXtS5/cT+fI5vAl51OXTP8QiffHPbotG23sKxNetD1MGbhtzaREu3bbdoyrufk/idsWXlOCLpp683aSFii0ZrFnWyf5TxSNw5S5Qe4lar1yDja+RHlCYKG3WibQh/N0pvjbO23iOel5n040Ye5+PA6+9t8o1e0CPX4Nc81mXQQBPfyYSMnxR3TBIfyJHxTW+R0MQHiA8Qf5z8KJIQHyA+rCLEJyqIDxAfID7EJuITFsQHiA8QHyA+QHwbZBAfxAeIDxAfID5AfID4APFxCq7hEx8gPkB8gPhyOogPEB8gvohEfCUA8QHiA8QHiA8QHyA+QHzsxDV84gPEB4gPEB8gPkB8gPgNqLVWVSA+QHz8jzeviA8QHyC+jS2IDxAfID5AfID4NrbEB4iPlnjXlvgA8QHiA8TvE1d0iA8QHyA+RCTiA8Q3tUF8gPhWDBAfID5AfDEFxNdAID7wlz8te13Em5qoIAAAAABJRU5ErkJggg==",
                 "origin": [
@@ -3485,7 +3421,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 13399642,
                     "lablerLogin": "edtriplett",
@@ -3517,7 +3453,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAALMAAACrCAYAAAAtka0FAAAEBUlEQVR42u3d0W7qMBBFUWzx/7+c+3IrRUi0JLHJeGbtx0pAam+fHJMA7bEg27ZtZx7XWmsPpKVXEfnqYxGfVklmqU3m9CKTWs1IiSoimUuKJsXJfEjWV2EIjdA1Y/uPWoLQybyf7DMpu3/MKuJI64Qyj5DvR4zVEpDQSWR26iVz2c6cEQs6gcwm0VikkNnkGRM1o4DQpJ7PU/JAMhPZeGVIZpMCnRmIJLNURtoNIOb0aFcQj9NGDT4mTA6hdWaQGVAzcF/VeJ2PytVEMi+0UdyL++4SeeWwkcwFkv3TOfvrk0DRU5/MmFaBXn2ZvRjIjKFCH/1cJ5lRItWnyUxiRJe6kRhZhG4kRhapG4mRRepGZGQRuxMZWehERiqZgRQyS2VIZoDMAJlRkCM1uOnMWInf3neWzFAzgGi1w5fADDjdqWpBktkXjRyX+HXMjGGQuZEun28wRu26MWee+m+Jg/mLABM3gNUnRcImkpnQ54WWzveeBb01p27kTmZcqxuEvicsyExoyQyQuVA6g8yExjiZTZ4xiTwP7+aimzRkkbpkzXD/RU6pe6XJ2t9/QmgbwFRpTOhcCd2rikzoxMmcdXJmXokbOWauGKoZQwS5IhKhyRwukQlN5pASn/6yaiKROVM/HrkhtDi+y7O6vO+e90x12LZtI7BkDlcJSEnm0ptIC+neueoGcCwupkhm6YzLc9Rf/2jyYghtHgYlc3Spo8s1qmoQ+tgYdYM5V67LP6FrDh6fBq6vtF1oEVXfXP61sG0AF0rKyin9yf/eDeAcZqWoTbpklpBkBsgsnXdVI3qSZ6kuPaNEFbqzyrS4zLoqLst8t0RRT4OfHlPUdM4WDjrzgnVkxOIY+T0iUQh7BXCVgT37qRSMd+FJ5LwJfmZ8V/7l2fbtgcwq8mzJRr1OlK9UmHGsPZJoEjmuyCucnZ9nX8Q9u2t15wjjPPsYniMP7OhkSuK4p/gVF1K/46Dd+aVehEpmaTtH2tfxI/JNyVyd0eJ4//rmZIYNn2TGsFSuWvUks0QOtTCvHL9kJnKaMxKZAwpl40dmkBnOCDmqBpkTdUbJDKlMZpAr1viR2cJJs0jJjDSLk8wIk85Xn5vMxArxuiOek8w2gbf/f6Oey41GZEpz/JIZl4S843deyCyVQxzPzGNXMzBU6P3l+G8vOleqJjPjXgtXGNUMFYPMAJkBMkPFIDPIDKlMZhCZzCAymQEyS2Uyg8hkBpHJDJBZKpMZIDNAZoDMAJlBZoDMOIW35cgMkBlkBsgMkBkgM8gMkBl7/EAlmQEyg8wAmQEyA2TOizvmyAyQGWQGyAyQGSAzyAyQGSAzQGaAzCAzQGaAzDVwxxyZATKDzACZATIDZAaZgYX5By437olS7CXLAAAAAElFTkSuQmCC",
                 "origin": [
@@ -3533,7 +3468,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 72845530,
                     "lablerLogin": "edtriplett",
@@ -3565,7 +3500,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAHAAAABPCAYAAAAzzEEzAAABvElEQVR42u2cwY7DIAxEY4v//+XsaaWqqzTApthj3px6SWp4HhtIFDsS6zzP8/e3mdmB/siygboNGJC5AI7AmxpgceBeGd6q/4hUqwxvRTzRDred4F1N9tPxrIRquztPvf/6gaST1XGf9pgdeGwjUGDyOu7ThujA04bowNOGSA8Uh+i4T/ywADCBk//ASU0DGvtAFNhmAIgDEQARAAGIAIjWr0QBWN2BbOIpoajDJNOvNeK+3Lo7LzXgaYN04GmvVumB4hABWG0VSvnUciEOFN92AFAcJACr9UAkDJAFDA5EUQBxnzBA4FFCEQARAHcESP/DgSgSIF//K+BAIBYooUAs0AOBqKdbYKxSxQFGgHyvBCTRAwBXAF71PU/2gQOT33st/TfYgaNuGQGGAxc4sBcMbkvuwCvXzELDfUEAMy2OKKHAy+k+M+NpBA5EAEQABCACIAIgGthCpAf49JFbxWM83y1jv5EYAFzowgoQX2OnB+JArYxVd+F7zL4rPBwIvBTjadmDrvBI6VMi9Yzv0/VlH+hmeeemN47ZNxjagVKU8Nly77tP3Dd65coTn1YF0H/L4Os9r+6VcVH0A+9++HpuNBImAAAAAElFTkSuQmCC",
                 "origin": [
@@ -3581,7 +3515,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 73598968,
                     "lablerLogin": "edtriplett",
@@ -3613,7 +3547,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAMcAAAEhCAYAAADLb7TtAAAFOElEQVR42u3dy3LbOBBAUYHF//9leeMsnBIoPvHoPmeZmsQjgpcNxIpcXnTzfr/fV35/KaW4is9xcSeMQiTiEIRIxCEIgYhDCAIRhyBEMr/FJYgZxiz/j+IQBrZVwhh+wW21xCGM+0Kpve7oodlWJd5K7XlNW/9N9O2lOET/rv169rOVOBzA079eZ44Pi75nz+xGyXvIX02Ez4srCkqWADA5nDmE4TrbVgkj2rqMNoGKEGi5vdq7ViOEUkSB80ywM4cwbMPEIQyBdFrvxYXCugeIQxgCEYcwGOA+WFwQCHQgB3GYGohDGIyntLqpj3ynUxR8vXEbfOe8WRwwWyCLMKDR5BAHUaZIEQUiabStgp7ufEiLA4E8GYctFRGZHCAOEAfcstUXBwJ5Kg6HcaIGYnKQIpAzkYgDxIEJcmx6iAPEAeIAccARR9/OLg4QBzSMw3fHibqlMjlAHGR3ZpdTnv4CMOv2ahEG2FbB/XGYGogDHMz3x2FqYHIA4gBxwAVfvyHizEH4CCrfGDQ5wLYKxAGH1I4O4oCzk6PFj7SFabdV5ZfLhThEAufOHAIhw6HcgRwqgYgDKoGUuyoDZw4QB4jDlgpMDhAHXFJKKYfjsKXC5IDkVpcA/m6nTA7YCOP18inrUH0jbREFwjh5IBcGGcP4GocwyMyBHMQBN8VhS0V03+5xkwOBiAOcOUAccNXW9zq88ZDUAWwRB6Ko/f6jJ3iIHsXHySEKcCDH1BBHrwtLoMmRYUtV/UctfrQCtQN5lrPG3gCcvUz/dNsqNz2H4sh2w+x5vbZYOJCDOPruXREHiCPLRDA9Yp4pxQHicPZAHNB0a5UqjrNTwPTIaRUFJJwcd76hUGDiMC0EggM5HowJ43jyCW965Fl7kwNhiMP0iLweT6zJ6sbFWlf+/Ncrzr+Qax2Gf1kYe51XFwxrvDE5Zn8K9gwj8vT4/7r2eK0913aNtoA8d13//VqLSEZY1+5PhghhRJseZ6/rHddhpIfdmm0BGW8bNupalhmfgiNeTH/jF88y08UZ+WM73VQJ4rDQsBHHiIHMEOzsDxUPxckO5BaM4SbHCDfmjGHMGrOH0ME4el40i8XwcbS+USP8IBlhO3O4mYJw/S9MDlPCDScON4+pQd84sizI6K9TGIPFYUGEIQ4LMuxrFsY+65ULeuSdqBaE6R5sLkEbo7yl3UNq8AM5iANnDXGAODA1xAHiwNRAHCAOT29TQxwgDkwNcYA4MDXEAeLA1BAHiANTQxyAOEwNxAHiwNQQB4gDU0McIA4eesKbGuIAcWBqiANhiAPEgakhDhAHpoY4AHGYGogDxGFqIA4QB6aGOHIZ5SfKIg4QB4gDxAHiAHGAOEAcIA4QByAOEAeIY3DedCgObubt6uIAcYA4QBwgDhAHIA4QB4gDxAHiAHFE5U2H4gBxgDhAHIA4QBwgDhAHiAPEAeIAcfCX91WJA8QB4gBxAOKYjA+RFgeIA8QB4gBxgDgAcYA4evGmQ3GAOEAcgDhAHCAOEAeIA8QB4gBxgDhAHOziTYfiAHGAOABxgDhAHCAOEEdWPkRaHCAOEAeIA8TBQd50KA4QB4gDEAeIA8QB4hiav8YVB4gDU0McgDhMDcQxcRhiEweIw9RAHCAOnp4appI4hIE4QBymBuIQBuJAjOmsLkGbG/XTx3u68U2O9Gqfe+vzcMWRemoIQBzCuHmq2H6JI/RWau/UMF3EkWZqnLnZBTIef1vVeIvEROvpEpyfGk/EsPU1xSeOKSJ5+kbt8TWh2dkj0tfP6Ad83C7VFaenHwAAAABJRU5ErkJggg==",
                 "origin": [
@@ -3629,7 +3562,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 48787090,
                     "lablerLogin": "edtriplett",
@@ -3661,7 +3594,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAI8AAAEXCAYAAACUIRcJAAAE0klEQVR42u3cwVbjMAxGYZyT93/lzgYWzAHauLEtyd9dseDMNPb1LylJaR/FeDwej6+fW2vtA8NoFaX5doEEIk+POL8J9Nfvk20jeZ6J07UoBKovzwhxSEQeQk3gqL7ZI67hC/JMFseiK1tvp8678R9Fwq/r2HGCm35Rd93Ey5Rg5AkkUNbSV02iY/Ui7tR8VrvOFm1Bn53OChtQJYGOaAu5QxJVub4WeUGvPJMqsRnJEqlFP42vjMJEWsMp4pG25wF5QB41HpKnxDgfvd8LJY/0STYRmrCM7qXKVvuEMpJHGkkeiwfTFsgD8oA8IE/4plnjTB6T10Ui3qpIW7YkEHkIlDh9NMwE2lce/Q95oOfBTmmbXh5fySEPMoosdSROL6fzU0ucV762TR7iLE9hd5gLsKp8a5gTi7H6u13uMCcV6Io0owTT8yhNyhbIA/Loe3Yoe5IH5AF5MLh03Vm+ysij75nf/zQLtCd3HDZlC+RRxhassdqO3sOmbKH7oJEHeh7MTx/yQPKYuMgzRCASkUcKkYdA5AF5LAF6x/XDwkDyYPohIw/6BxCnCb0T6kEcSB7STE+gkzQwbRFn+rqatiB5MD99yAPJA/IMGSkxpnSVTB4CSR6QB1VL11nhIrCGkzDo7i2Jg/I9D3HIA/JIne37ndaa5IGyhbmpQx50i0MedItDHnSLQx5omEEeJCpZ5EH95PFmIHlAHuCzImT+8B6YapiRtN8kD/breZSs9VOu5MFeDbPUWZs4aZOHOHE4LQGupA15iLDftKVkxREnlTzEiSWOskWa+skjdYJK27t5M2yPLk1rra38jKvfc2p3b+KdFxRJnleua+bnjfCC3Bn1hEURJ9pbjJE+zzli09+9wF16nOyv1x7RLjRbqdqZUNPWTuJUEPNwEiXO0GmrJx2ubkCV1PntOioK2e5coArySJ2kPQ9xNpDn7kWOkDrECZQ8nkeRZ/hJlTqSJ236EGeRPNkfQxAn6bSlJyLP09P7kyT6nBqUaXqJk7RsZdoM4hToeUCeVCda6kge4lSUJ+oGEUfyoLo8vm1AHn0O1shj08gjdbBGHptHHqkDozrII3XIQxzygDxSB5IHdeSZlQZSR/KAPHod8hAHyhbII3XIA/JIHUgebCSP1CEPccgD8kgdSB6QR+qQx98dJI/UgZ4H5AF5QB6QByAPyGNMJw/IA5AH5AF5QB6QB4ghj3d5yAOQB+QBeZ7juRZ5QB6APCAPyAPygDwAeUAekAfkAWbI8+67PJ5rSR6QByAPyAPygDwgD0AekAfkAXmAGfJ4rkUegDwgD8gD8gDkQRh5/Ck58gDkAXlAHpBnIJ5rkQfkASbJ4x4PeQDygDwgD8gDkAdh5DGmkwfIKY/nWuQBeQDygDwoKY8xnTwAeUAekAfkAciDcvJ4rrWhPO7xkAcgD8gD8oA8QGR5TG2byWPDEaZskZE8BCIPMEiekQkhfQrLM2NzCVRQnpmbSiA9D8izJgmkTwF5bCK65CEOuuQhDv7iHC3O/+8nE7IO7W5xXnmZ/eq/7wX5JPL0itOzwVf+LwIlHtVXb6xyF1yennLyjjjSpIg8+hB0yUMcdMmzupcgYl7OLBtNsuTyEAZd8szcSNLkoL3S89hM/OjFT9MWWfAK/wD5O1J+cB5gJwAAAABJRU5ErkJggg==",
                 "origin": [
@@ -3677,7 +3609,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 40945456,
                     "lablerLogin": "edtriplett",
@@ -3709,7 +3641,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAL0AAAB7CAYAAAAhZoGZAAAC3UlEQVR42u3d0XKqMBSGUZLh/V/Zc+s4beVogGT/67uvY3CxG7DatkkHejwej09+rrXWZltL83JqNPTZTwLoT4Yy46S7C/wsxwX6i0GscBKcDf7u4wH9pBhGorjjec98AkA/OZhvIawC/kr40C+A5SiE1YDfhX7HuwaaCuCvagd9fSxVwF+1p+/AW0NaPRX7SlgSYF9567IngreW7Broa07DSuCvfoOqAa8k8NtW+O4N7IqY9KCb8uXQQw18BHrQgY9BDzvwMehhB/7sdtiV1g674n7jwC57ethVHH6DXWn4d8BlTw+4ik/7Drzu7A5D3WFXWn2lM1Qy6aWr0JvyMumlD1vi44KmvK7u2dyIk8Sk1zLgRw3d9s0TkM7a4ryz9s3E9wWumm6an36SmfJKuxDuwCstF7KC3pSXSS8VuwjuprzS4DfoVa13d3Q68Eqb/Pb0ciFryqv6tDfpZdKb8orc3kjQS4v1121L6GXSS5WnPPQy6d25UfUpb9LLpJeqT/lt88FwBWE36RUJHnrFgYdeceChVxx46BUHHnpFBr2gl2ZuxJ/K9JEPJq0Av0GvtAtc6BV3EtjTq+wW6LdBDr3i9v/QKw4+9IqDD73igl7QS9W3ONDLpJci0Hs3Via9VHhfD71Megl6CXoJegl6aeaW/QLX50/GeJ9B/2VnBTRHPv8IvpZH/8k3WYGvuD39iK98U8CkrzLlTX8dtdVne0Kjp7Xpr1cLblnK9qbqftw255rXYdbj/LyuIehfD9SRx7xj2wF+5uB5XdfX6N8dqOfHn2F/Df79A+jK1+CntcVd5EE/90X+qNfnr7VF3tlIh59+R6t70QU9+NYNPQDWCz0I1gm9gIceCmuDHg5BD76gB99aoIcFeOgl6E1KQQ++ExZ6CXq/nQQ98NBL0MuUh16C3gT1HKEX8HO3OwTzQ/a1JdDHTenWWgMf+rithn83NPBYOgTv+wmZvfS6/QNuKZT4IRa/FwAAAABJRU5ErkJggg==",
                 "origin": [
@@ -3741,7 +3672,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "fenced field (land)",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -3773,7 +3703,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "fenced field (land)",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -3789,7 +3718,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 18010714,
                     "lablerLogin": "edtriplett",
@@ -3821,7 +3750,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAHgAAACJCAYAAADnqvxuAAACiElEQVR42u3dwZLCIBBFUTuV//9lZzUbq9QkAmmac9czhnB5TRO1jEdBns/n88jfRUQ8ihMrij01QZMvgu2Br4umx8IhOEF6KyDBxdlNwZhqctdeHlkn5MykjCjPn8Zy5fqjhEdGsWcn4g7Bra7ZW3RklvttEqo0Vj0lR3a5q9Fati66+Lmb4OLneoKLQ3DxFBMswSAYBDsDSzAI1kmnFqw8j5+3jdzakjdya7OTqskil2Bys251O7ESTK4SjbKCpbewYHKVaMwqWHrnOCpJsASDYBAMgtGh0SJYgkEw0pZpgosTvVcQBgt9+QK5BNuDQTAIxj3dNcESjJlTTLAEY+YUE1xc8vbL6kB+glh7MLnVEkymLhozpDcidsldJMHkKtEgGJm4/KAD+Zqpjwm2/9aUq0QvIHrLNsgVftN31PxFRESm8nxGrm3l2Hwp0Y5JY9v6Hmlfmal/XvZfctZtJsO4SpToLGl+HUfPpvHo625VRN0t+dP17xzbVimFq+zLZ+5zy7DyW47hjvsZec2z19rf/VPvBmG1LviuZw7DP3Q3SuzIyTx6T7+O6crcbSPlZC5lVSvRfvWGPCocI/fnUI0qg3et9F4L8er9HB1Pq/mK3pOYoYS1lvzLPX0bS+v5WqKTbSm4lYB3Y2ot2LtJifbcHq+/01a3QVsmwSu/tahEF18kBEuwBBIMgkFw2jI9c3mXYAkGwSDYcYlgEAyCQfBKezbBEiyVBINgEAyCQTAIXqmTluAvzP4lO4IlGASDYBCskyYYBINggkEwCNZJEwyCQTAIJhgE66QJrsnMn+ogWIkGwSAYBOukCQbBIJhglNmfCS7efBH8QWaFzprgxY5Ny1PtNxn/AE20JVokpVafAAAAAElFTkSuQmCC",
                 "origin": [
@@ -3853,7 +3781,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "fenced field (land)",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAANQAAAE5CAYAAADocw7wAAAFn0lEQVR42u3cQa7VSBBFQYzY/5Zh8hky+S+NTlVGLKDVbfu+UwVS//jBt/3+4knw1+MRfH9M/3yoz+O5GhSfDsmw+OkRvDMmDIrhMRmgQWEYuEO1h+QupVDGpEoYVHNMxmlQxgQG1R2Toe7wyyPwsaNQR47JcA3KmMCgumMyYncoQwKF6o7JqA3KmMCgumMycHcoQ4KthTphTAZvUMYEmwZ12piM3x3Khwk3F+r0MfkxMCgfI9w2qJvG5IfBHcrHB6cX6uYx+aEwKB8cnDioLWPyo2FQPjL48hhS9MX4v80qlDFhUMbkB4V7B+VDwh3KkNyl6BTKmDAoY/J8aA3Kx4JBGZNnRWtQPhAMCpWiNygfBgZlTCpFa1A+BgzKmFSK1qB8ABgUKkVvUF48BmVMKkVrUF42BmVMKkVrUF4wBoVK0RuUFwtDgzImlWJoUF4mDA3KmFSKoUF5gTA0KGNSKV66QwEfDMqvoEoxNCgvC4YGZUwqxdCgvCAYGpQxwUt3KBz7+GBQXgoMDcqYVIqhQXkRMDQoY1Iphgbl4cNLdyhUig8G5aHD0KCMSaUYGpQHDe5QqJRBgUGhUhgUGBQqZVCAQamUSr0xqOd5Ho8BFAqVMigwKFQKgwKDQqUMCjAoVOqNQfm7KFAoVKo7KJUChUKluoNSKVAoVKo7KJUChUKluoNSKVAoVKo7KJUChUKluoNSKVAoVKo7KJUChUKluoNSKVAoVKo7KJUChUKlDApWDMqxD5VSKOgOSqVQKYWC7qBUCpVSKOgOSqVQKYWC7qBUCpVSKOgOSqVQKYWC7qBUCpVSKOgOSqVQKYWC7qBUCoMCx77uoFQKhQKV6g5KpVAoUCmDghWDcuxjY6UUCk4ZlEqxrVIKBScNSqXYVCmFgtMGpVJsqZRCwYmDUik2VEqh4NRBqRS3V0qh4ORBqRQ3V0qh4PRBqRS3Vkqh4IZBqRQ3Vkqh4JZBqRS3VUqhwKBQKYNy7EOhQKUOG5RKoVCgUt1BqRQKBSrVHZRKoVCgUt1BqRQKBSrVHZRKoVCgUt1BqRQKBcsrlR6USqFQsLhS+UGpFAoFSyt1xKBUCoWChZUyKNg4KMc+TqiUQsHWQakU9UopFGwelEpRrpRCwfZBqRTVSikUGJRK0ayUQoFBqRTNSikUGJRK0ayUQoFBqRTNSikUGJRKYVBw/bHvqkGpFAoFF1XKoMCgHPtoVkqhwKBUimalFAoMSqVoVkqhwKBUimalFAoMSqVoVkqhwKBUimalFAoMSqVoVkqhwKBUimalFAoMSqVoVkqhwKBUimalFAoMSqVoVkqhQKGgWanVg3LsQ6EgXKn1g1IpFAqilTIolUKhoFkpg1IpFAqalTIolUKhoFkpg1IpFAqalTIolUKhoFkpg1IpFAqalTIolUKhoFkpg1IpFAqalTIolUKhoFkpg1IpFAqalTIolUKhjIpmpQwKFEqlaFbKoEChVIpmpQzKqFAoaFbKoFQKhYJmpQxKpVAoaP6w+mV94WLK3hOKQRkVg0d9Rz4YvDcrlEoxMKS/fnlE8PmQFEqlGBySO1TsRXDHO3Tkg8EfQ7+ijn4Mnioc+WDwiK5QKmVIk/88j9SoDGmOP5TAkAa5Q13yImm8A4XCkNyh3KVongoc+Rz9PGdHPmj+YPm1dPQzJIWC5hHaHcqH4BkqFIYU/XfzetylDMmRz0fiOSU58mFIjnyOfoakUHD9EdgdyofkGTjyOfoZkiMfXF9lRz4fmf9OhcKQ3KFYfJdaU16frlEZkjsUxqRQ7KjU5r9T84cSGJIjn4/Uv6cjHxce/QzJkQ9DUigalTIkdyiMSaHoVMqQ3KEwJEc+Oh+5MTnyOfoZkiMfjncKxTWVMiR3KFRJoehUypAMioFRGZIjH453CkWnUob0f/ljc0UCPrlL8Z4/xDFpnhpyTIcAAAAASUVORK5CYII=",
                 "origin": [
@@ -3885,7 +3812,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "fenced field (land)",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -3917,8 +3843,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 98076265,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3981,7 +3907,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "fenced field (land)",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAASsAAABzCAYAAADADiSaAAAC60lEQVR42u3c0XKqMBSGUcL4/q9Mb6RjrY5WIN1/WOvytBfHEL7uOGKbAIpYlmV59rNmeYBqYRIrICpQYgXERGo1W0ageqhMVkDJMIkVEBepaZqm1lpzDARKh2p1sdRA5UiJFRARqZVjIFA+VCYroHSgxAooGSSxAmIjtfKeFQhVBJMViFT2ZLVcubQgVBGT1f2La615RAfEqbu25UUKFwjV4ZG6duZyxGKIGAhT92Pg1oUTLhCoPcwWFITqtJPVo4U1YYFAbdF6L4pogUh90ozZwoNQOQZ+eAFMXyBUJWL1zkUSLASK8rG6v2jChUjhQWYQKbECREqsQKSGd/sW0Jx8gV14hMpkFRcsb8KDWMXGTMAwUYlV1CYRLQRKrGI2zn2wfBcXIpVlPstiv/u6lhu2B0JVOFajb6a/bCjRQqjEqtyx0LSFUNXWLPyGxfP+lgDR7R7zCfadNrRwCRTHEquDNrp4iRKOgY6LCNUJ7xuTVacbRLAECsfA+BtGyIQKsYq6oURLmBAr0RInxApHRnFCrHhxw54lXkJFsyFOcqFDo2ZP2rMmK0eo0x8rcQxExExTiBX/F4weARMqxIrdQrJntMSJd3mDHagXpgd/EGfLAiQQK0CsAMQKECsAsQIQK2D4WPmMFWCyAhArQKwAxArgt2cPyosVYLICECtArADECkCsgFH5DnaghFff7S9WQOlIff/eNHmIGagbKZMVEBEpsQIiIiVWQPlAiRUQEymxAiIiJVZARKTECigfKLECYiIlVkBEpMQKiIiUWAERkRIroHygfvzfPMQMVI6UyQqIiJRYgUhFESsQJ7ECREqsgKHjJFYgTJmv99E/+jgDCFRErD4hcCBUEbESMBCn2FiJFwhUZKyEDoRp+FiJGAIlVkMQLQRKrAQLBEqsBAth4pSxEi4ESqzECzeMSImVaCFGiJV4IVBiJVwIDmIlXogUYiVcAoVYCRkChVgJnfggVoifKCFWjBg1MaKXLyJG9IwteQEdAAAAAElFTkSuQmCC",
                 "origin": [
@@ -4013,7 +3938,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "fenced field (land)",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAM0AAAEUCAYAAACI+rI6AAAErUlEQVR42u3dwU7kMBRFQbuV///lsIqEEAg/Jy+x4zqr2SAxbmquOyCmFEn/tu/7fvx5cxxSG5ajj2OR2sFAIwXBuJ5JASyWRuoAA40UBON6JlgCWCyNgOkAA42A6cj1TLBYGikPDDQCxvVMysNiaQQMNFI+GNczwWJpBEx+0AgY1zPBYmmkYcBAI2CgETDQSEOBgUbAQCNgoJGGAXN8Hr5PI1gsjYCBRsBAI80KBhoBA42AgUbAQCPNDAYaAQONgIFGgkaaeWWgETDQCBhoBAw0AgYaaSEw0EjQyMpAI2CgETDQSAuBgUbAQCNgoJGgkZWZtVprhUbAWBoBk7sy0AgYSyNgoBEw0EjQyMpAIwEDjYA50ffHzdAImB5EjkDAtC2MpREw3tMImPyVgUYKgoFGVsb1TMDkrgw0AsbSCBhoBAw0AgYaCRpZGUEjYKARMNAIGGgEDDQCRtBI0MjKQCNgoBEw0AgYaASM84PGCy5LIz34jw80VkaWBhjlnik0wMjSAKPc84UGGAXPGRpgFDxvaIBR8NyhAUbB8/efOgGjYNDAogiYWqvrGTAKgPGeBhgFwUADjIJgoAFGQTDQAKMgmFI8PQNGzVgsDTDqAAMNMAqCgQYYBcFAA4yCYKABBpggGGiAAabn4xwdLMBYGmCUBgYaYICBBhjlgvGeBhhYLA0wygUDDTDAQAOMcsFAAwww0AADTE1/uAUNMMBAAwww0ACjYcCU4pubsABjaYABxtIAo0GwWBpggIEGGGCgAUbDgYEGGGCgAQYYaIABpkADjCYGAw0wwEADDDDQAAPMeJ8nLILF0gADDDTAAAMNMMBMCmYpNMAAAw0wwEADDDDQAKPXgXk1GmCAgQYYYKABBphJ/17ACJZFlwYYYCwNLMBYGmCAgQYYLQdmWjTAAAMNMMBAAwww0AAjYGZCAwww0AADzMznAIxgecnSAAMMNMAAAw0wwHhPA4uAmWVpgAEGGmCAgQYYYPQ4GmCAgQYYYKABBhj9em7AwKJBlwYYYKABBhhogAFGj6MBBhhogAFG1z89gwUYSwMMMMpBAwww0AADjHLQAAOMBwHAwKKcpQEGGEsDCzC670GAgIHGiwWMLA0wggYYzYTGiwcMNAJG0ACj4dB4MYFZtc0RwCLXM2AEDTCCRsCsiMYPbgIDjYARNMAIGmAEDTCCRsBAI2D043Xs+SCPm2GxNAJG0AAjaIARNMAIGgEDjYARNMDofjS+RwMMNAJG0ACjzPw2GlgUff29lwFGCdczYIBRAA0wwKjxegYLMAosDTDAKIAGGGDUeD2DBRgFlgYYYHTyPQ0wEjTA6LL8GA0ssjTA6AY0q37hACNLA4ygAUbQACNogBE0wEjQACNogBE0wGieNlikxZcGGEEDjKABRtAAI2iAkf5uA0PqWBq/WEN6wdJYF3lPA4wsDSyyNJJmWRoLI0sDjCwNKNJjSwOMLA0osjTASLcvDSiyNMBI1y8NLLI0wEjXLw0ssjSS8tBYGUEjKQ+NlRE0kpoLPT2zMFIpn9bfRAOM5Hom5aGxMlIADTCS65mUh8bKSJZGOt1mYSRLI923NBZGsjRSHhorI7X1BUJHFiuGlDtlAAAAAElFTkSuQmCC",
                 "origin": [
@@ -4045,7 +3969,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "rock",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAOkAAAC2CAYAAAA876rBAAAEU0lEQVR42u3d246cMBAE0LHF///y5CWRoly0w2JwuX3Ocy6McVENzCavFxTw/qniZ2tOL6uH858bu7UmpBAa0GphFVLKBrRKWIX05IaoNEbtFNKVz58Nd2EjzDjhfx7TbheNEQ+HVlszIQ0fpT49lh3COvrp7SprJqSDN8KIE3/lGKqG9a7XKyusl5DesAmunPhRx1EtrHe+A01fKyG9cROcOfmz//6n1/WTY3vyywnJQRXSgKv03Zsx4QHXmeOa8c0hId00oHEn+4GNeOWh2+xzkRpUId0opHdvxNXXUkiFtPSGrbKOiUFtAgrZYe1OB2RfwIUUwm0bUqMuq+wRTQrhQRVSCA9qt+iQvWc0KYTbLqRalNX2jiYFTQraVEihcFCFFIy7gJBC4ZFXSEGTgjYV0sARBXtKSAUU4y6QUADdIkL2HusWD4y7oE2FFOoGtVswMO4KKNpUSKGuw1UMjLtg5BVSLYomFVCYtCe7xQBNKqBoU+Mu1A1q3/nDwwp7tQsoZO/ZLqCQvXcP4YRsXUAhey93AYXsPd0FFLI14YSJAWztywwewgmaVDjhQpsewgmaVDjhQpseo8P0VXULJ1xsUiGCrDb1o2oQ4n8FeWhQyNYFFBYIKZA78nYtCtlB1aQQHlQhhfCgCimEB1VIIVz/5OfZgIkhtQQgpMDVkBp5QZMC39Baa0IKmhQQUhBSQEgBIYWlQ+pdKWT5lUlNCsZdYFhIjbygSYET96NCCpoUEFIQUkBIgc9D6jUMaFLgaki1KWhSQEhBSIGZIXVfCpoU+KAg+5lfDDwbUE0Kxl1ASKHwqCukUKFJPTwC4y4gpLCuwxLAXF/dUmpSMO4C323Rj0PqCS/MCagmBeMucHU6FVIIDqiQwgK8J4XQBj3dpJ7wwqRwn/0N7/f7bdng/gb99j2pRoVn83L5D9CscG+hDW1FgYXwkAorjL8t7OkHCDsH9LYm1aoI6Di+cQThbg+p0RctqkmhbECFFBaYFoUUwm/nepUPAhUDqklhAUIK4dPho2OoLzYgnJoUSgX08ZB6gASaFMoVjJBC+AQopGDcBS41+Yy/1KuY+8cxa2zcZYGN5Wn6+gF9vfwL9uU3T2utaVXj7rCR9/eNZ2ONv7pb0zWbNHYcsqHu2TDWda2ARofUhrp3s1jbdULaLdKeG8WDpXV4uusiIKzp56jKB6k6vs0M0O4jsXGX+E2yc8MmffZuUTEOuyelwLi5U1jTPmezsW0Y65291poUtxnhfHeXoUFdtVmTLzaalO3vXdOPV5OydbuucEEpeT/h4ZFzUmlNjbtsFYoVx3HjLo8HdUarrjyNlH18XmXkrfqK46nzU2H9hFQ4S56rSusnpIJJuLIPjnwxHE2qXTUomlQYYMP3pIKKkAoqCCkIqTYFIRVUEFIQUm06hv/yASE19iKkgJCCkAJC6r4UTvPPp7ggoEmFBy7tS0vwt7veW7oIYNzVvhT0A+qVEc16aRCIAAAAAElFTkSuQmCC",
                 "origin": [
@@ -4077,7 +4000,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "rock",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAANQAAADBCAYAAAC3xZ4wAAAD9ElEQVR42u3dy3LbMBBFQYGl//9leuUquRKbelwSA6B7l0ViR+TRDBRZaTcI2Pd9f/x1a62t+Dg0twLJkFaPanNL0CM2QYGoBIVYBIXwBAUIikumzipTSlBY4QQFgmLx6bTCZBMUCApnJ0EhJkEBgsJ0EhTzxzR7nIICQWHVExRiEhRiEqugKH6zzxqVoLDmCQoEhek0PZ/LJ6SuIc322X0mlJgIunsIhISVj8limmX1M6GEhKAQkpUPIU2/9nmVT0y+bxOKmde7kSeVCSUmfxdBgZUPU2j61U9QQhKVoIQkKmcoxDQ9QYkJQUFN3stnMiEoIVGTV/mENMaNOsgrfc5QYkJQYsIZSkhCEhRCwsonJo9jF17lE9JQqr/aZ0KJCRNKTCZVzUklKPEIy8onJpyhxMT010JQiEpQLh41r4ugQFCmEzWvj6BAUKYTNa+ToEBQUHNKCQoE5fyEoEBQMOpW0WOz8OMbVr6lpX/8w4QCQUHN7UNQ1j3XOHiNBQXBqAQFwagEBcGoBAXBqAQFwagEBUGCOvmQylrXX1BgQsF1U+qVSSUoMKGcn6h5PwhKTJhQUPOJVlCmEyYUCMp0QlBigufvky31RUa+IcVESrviRqz6P3aLibei+eN+bpVuxqPw/vp6j79XJPQKq1WJCWYIyosSEBwqW+oPAlG9EZSY4Pcm7kKCnE1MkHMXEZwQlIAgtPKJCS48QwFPBmU6wee+OzKhIDmhKr8THJyhQFBALChrH5hQICgQFCAoEBQIChAUBO37vgsKTCgoHpR3S0B4QokKrHwgKFgiKGsfhCeUqCC88okKnKGgq6enkI8bg4OYPl3rRAY/g9o+LtJZC7JnKFFBMChRQTgoUcEJL5uLCkENFlV74BJSyb36N3gUTWutefmeqSdUYkq9MoFMKsoMgCu+yCsT5N04TCkqbFJbxW+q4rkNnrn3tiqhCILRY7ps5Ttay66OyXrIWUNi+akgLpIblzVLYASPL37A0FmO4L0hqF8eOGHxDkFBcHMRlPWP4H0gKLDygaCsfQgKEBR02VAEdcA7JxAUCArGXvcEBekIPQTOT3w+mUwoMKFMJ2pOJkGJiVv+nTBWPsQkKNOJejHdbgN8FDNUj8gZynQSzUlMKATkDGU6UZOgMJ0EBSYUCAqse4ICQYGgwLonqJEuUvXH7crHrvp1chP9h3/k7XNjHz3uIzzpCUpQprmghCcmZyg3F4JCVJ5ABAWCGvmZ27M3ggJBOWMgKFGxxvX3EPQz2r9jebIQlLDEJChxickZiilvXjGZUKaVkLrxQZem3z8Bi8mEMqlMG2cozg9CTIIiFIaYrHwE1j8hCYpAWELq7wupBi0c353TywAAAABJRU5ErkJggg==",
                 "origin": [
@@ -4109,7 +4031,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "rock",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAKUAAAE+CAYAAADs/dDuAAAFK0lEQVR42u3dwVLbMBSGUeTx+7+y2RCGyQTHdizpXumcVTdtwXz8sgO0X19csm3b5irUsbgEghSlOBGlMEUpTEQpTFGKT3yiRJQgSkc7ohSdKIWLKLvHJkxRIkqspSiFKUrEJUoQpZUUpSARJaK0kogSUYIoHd2ihFBWl8BCRlNcgvoxllJcZ8e3dRQliNJKilKQiBJRWklEKUhEiSixzqJElCBKRAmi9LCDKBEliBJRgigRJZ7ARYkosZai7MWPu4pSmIgSUVpL95X3f2xmeHjYC7BXIG4hBo4y6+qI0vGNKK2k+0pLiSgtDZNHuf3w4RJluEV8/Fqgogx1RAtSlO4Zaa6IsfMHwIvo4zx9I0oQJaIEUTLng90R/m/GQYPO/FRvKS2wpaRdXNu2bRkX01IGDm/W+01RDn78ZgxblAIXJYgy4ZrN/tqlKBEl7ivTRen7C7GUiBJHuCixlMResgxrKUpECaIk3REuykmDiRymKBEliJJ0R3jIKH3921KCKEGUiBJEyVBP4KLEUoIoESWIElGCKBEliBJEybNoX9VZXCQsJWSL0kpiKRGllcRSkm4QRImldHRjKUk3DIuLgaWE6FFaSUJFKUgc36QYimXmdx5LKUgc34jSSpIvSkHi+EaUIEqGvM1aZnlHsZQQO0orSagoBYnjG1HiCTxVlI5urljFyNBRipFQx7cguUsRIbuBdPi/1xdBMuzxDaJElBA2SveThIpSkDi+mdL6av1evTZlJWmlCI63kTR+Ad3xjXtKECUfa317J0osJYiSdEe4KLGUWEtRYilBlIgS95WixFKCKOFVlD1+4BwsJaIEUdJM7ZeFRImlBFGS7gj/jdLLQlhKECWiBFGeV37IINbDzjJzkOJMsJQ+MDi+HeeOcFGeP9qxlDBnlJYw9hFuKYVrKcWGKAWc7ggXJZbSWiJK8kdpGeh9XznVUl79hPOJ6vhGlBDrCBcllhJEiSihSpReAsFS4gn8SJTW0vXoZb36gWj9f0Dj+LYc5LynFCYhH3T8rDRhn77LHy4rnzxzVHlJSJiEWEoIH6W1xFIiSmtJrYcdS4njOzPLL0pEOfa6WDlRgigRpaMTS4koh2KpRQm/rnxVR5RYSkc3lhJRtlq/Iz96YSVz3lemX8r/whOkpXTfyLxRHgmwZqQ+AepbPWVjKWGkKK2hKEGUWVbSYp935rXKJdobBOGfvq3S/jUZ8RN+Fd4YgY4U5yLI8dYz+31l15/REeS98Y1yPZdeF1OQTp5Qx7cg572+R47w1cXCUuKTWpQCFqUPepi/L2qY7+4rRYmlBFEOYrSvce+9P6LEUnrY4d1aitInjqUEUVoiUcKn95WixFJy/9PqaLcYonRfKUoQpbUUJXx6ryzKSdYy05KLknBrKcpEi+RndKDTWorSooULU5Q+WRzfIEqrJEoQ5YRPp6IEUbqvnP1eV5SIEkSJKEGUHnZECaJElCBK95WIElFyqxm+KUOUiBJEiShBlIgSRIkoQZQgSiIrpRRRNjDLz2tbSkRJjJW849vgon8rnSgRJXEeKETJ0CGJktsijxT6420RpZUMscB/3wZREu7WQJQV3fVyUKtgooQpSgvW/T7z+e8TJeHWWZSBj+7ex2ntv/+/P1+Uju0ub8fenytKQTZ9e47cs4oy2NEd9as2Lb8RRJQ0CfPM7xWlY7v623j29/gn6oIc3Rm/2eLV+3rLMS+j/lH69ysd34gSKylKkltdAgtpKRGkKAWZ7hq5BPd7fllIiOd8A502PsxnR/qbAAAAAElFTkSuQmCC",
                 "origin": [
@@ -4141,7 +4062,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "rock",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAI4AAAEvCAYAAACTyvn3AAAENklEQVR42u3c0W4iMQxA0WbE///y9KWVEIJSMoxx7HMfq5WWwsFxWLTjK0H7vu+3PxtjjC+lbWQDA88abZ4CLQXn2bT5759RIzhAgCNwTBslhTODBrTmcI4AgCdfIzuahw/cZzyWY1MInNAXGB4T5xAegMAxfcDxYoKzCBpQHVXwgAMPOF44VZ448IKjLnAyvdNNHRNH4Jg64KhtF+9mhU6cldAAngSOF0JtdhzYPwzHC6B2tyroPwTHE6+WEwd+cASOqQMOPOB4omXieDOAI3BMnepwPLm67QKMDsGBRC/BAUaWY4HjZpUcjv+EUSaOwBE49hxwpCs4FmSZOALHngOOwJHAcVwdheNmJRNH4AgcgSNwrrIgy8RxJQdH4AgcgWNBlokjcASOwJHAeZQPASfguFnJxBE4AkfgCBwLskwcgSNwBI7AsSDLxBE4AkfgSE/hWJBl4ggcgSNwBI50FI6blUwcgSNwBI7AsSDLxBE4AkfgCBwLskwcgSNwBI7Akc6B0+lm5X8eNXEEjsAROALHgiwTR+C4koMjcASOBVkmjsAROAJH4FiQZeK8Px8CgiNwBI7AEThuVjJx3KzAETgCR+BYkGXiCByBI3AEjgX5z179EHD/CRyFgAMHlrJ4wDF5wPHiLwrHJ8h9cJk4Asc0AkfgmBrgCKqz4LhZmTgSOI4zcEqAWB0POJbgPHA6LsgzkFbGZ+J8ePqs+mUvcBLhWwkQOACBU2lJzo5nrPikdivjZcPEcfUHx+4DjizHAkf2nQg4vptj4sjUAUfgCBy9elx98sg6HY4F2cSRRRkcxxY4MnEEjgUZHAkcgSNwBI4FGRwJHIEjcASOwHGzkokjcPRXkd/JAUfgqDAcCzI4AkcCR+AIHAsyOBI4AkfgCByB42YlE0fgCByBI3AsyDJxBI5ui/rCOjgCR+AIHDcrcGRBBkfgKHzqpIBjzzFxBI4Ejj0HHJk4FmRwBI4EjgX5nAUZHIGjuKmTCo6blYkjcCRw7DngyMSxIIMjcCRw9N4FGRyBI3CU/LgCR+CoORwfAoKjonsOOKoFx3EFjgoeV+AIHMVNHXAEjuKmDjgycQSOwFHFPQccmTiKmzrgaAoPOKp3VPkX8rxTx8RRzeXY1Mk5dUwc1b2OmzrgqMhxNbr9wnrPpB+d3zWah7N1/cV17I23dXjXAHTC8+pdpJnJvXkSZOKYPmFvuK37k2ECmTgmUODU8cmx/WcqcBxf4Jg+cUc5OKaPiWP6gGP6uI67ukdMwKjH8/t3XxCocWxe/zwCkYmzyNSZOSbPeHy/j8OOY6mfwghO8dvWWUs9OJCD40WPwwNOsyX8XXjAaTrBjgICxxEIjuKmDziayj856O6x9WwhN3E0tf+YOMWWVkcVLCke06Mjy1GV4AVf8QtivlYR2L137wpo7j5uL6dm4DiqNHWUfgN+1xHkOu0NXQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -4173,7 +4093,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "rock",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAKcAAAEMCAYAAAChuqZ1AAAESElEQVR42u3dy24bSRBEURbB//9lakVABtpCP4vRmeesZmVz6KuoLsqP8SDS+/1+f/57jDE6vgdPGdwrVHEiRnEiWHEKVJwIVJyIE8soThCn1RQnIhYn4iRsDTuspzgRJ549xdksssqBitOCipO+FxtxNg+zYuTiFLs4QZzNV67SeooTceKGLk7KeHkLLKXlBHFSZanFiTixnuLEcoI4aXu0ixNxYj3FieXEeooTywniBHEiThCnm7I4QZwgTsQJ4kScIM6yfIwkTmEW/UIRJ+K0mogTcYI4HeniRJjiBHEiThzp4kScIE4QJ+IEcSJOECeIE3GCOBEniBPEiThBnF/m93KKE3GCOKceux8eP8TpFwRxbg3z7FjFL85To3HEizP+KBeoOKOfMQWa6+XigzgLRukLwrGOOK2m1RSnyBHnmfEKeL5h8X69GWOM6qu69P9oOW94FFtLcUYGL0xxuhwhToGKE3rHadnECeIEcSJOPK+LE8sJ4gRxeu4UJ4iTiuspTsSJ9RQnmwNNjVScxK7o8EayGEbAH4QbwiQ1Usc6sc+k4iT2xBInsYGKk1jiRJw42sWJ5cR6Xu111ouY8WGtD+At564Q/AWr1jP+WL/qRQu/n3FlCGcd9cIMDujCxzkXInou5xlfhVaz73q+0mIQI5HHujDd3P+J8/dHQOIgKdCn1SL2WL/TP5pEr/V8XnnbgjIXIqznYpzWk+jlFCjRx7pA8cwJe+K0nkQvp0CJPtYFSvQzp0CJvhAJlLXObMVtnXsvp/UkOk6BssYl31sXKLdeToEycz13X4gESuRyCpT4OCE6TutJ9HIKFMc64rSeWE4QJ+3jdLQTvZwCxbGOOEGcMCNOz51YTsQJ4oQZcXruxHIiTuuJ5QRxcqUz/njw5XE62oleToFaT8c6lhNKxelox3JS5rlzapzWE8uJOKFUnI52LCe3vxSJE8vpaOc2yylQR7tjHctpPXFbp83R/vU4rSeWE3FaT8462i0nltN64pkTcVpPLCdtL0VxcVpPLCfihFJxOtqxnIgTSsXpaMdyIk7rieVEnHDEmm9hxsfpaLecIE4QJ+L03InlpN2NXZxYTigbp+fOfke75cRyQuk4He3iBHFaTywn4gRxIk4QJ63977tE4sRygjgRJ4gTcULajf2Wcfr+uuUEcYI4ESeccSkSJ5bTjZ2t62k5sZywdT3FieUEcVLmaBcnlzryqYo4b/yLnv5x2uf17X2t4hTp4YVb++Nt/TnEWeSoPBLXjDD3fDHd/rssa/4lsI7PcWvfl6Uf68h7ujX0v34ucTa6YFz5vh59XUs/nzjFGcszJ+LEaoozJKKZN+Cy76Nnznnrtue1dv59q+L8wrqtec1+M/Xj8XIIfyfixY9OBGk5XVYspxs0buvCtJwIUpyipMSFaMblSJjijIxUmC5EkUsnTMsZuabCFGdcsKIkLtKOf9wj3Q9CekmHVIpduAAAAABJRU5ErkJggg==",
                 "origin": [
@@ -4205,7 +4124,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "rock",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAALAAAAE9CAYAAACr7ujsAAAFA0lEQVR42u3d3W6bQBCA0Q7i/V+Z3tiSW2Hw8rO7s5xzVzWpGvx5GHDixB+aWJZl+fxzRISjUs5BaxTs7gMj6J9MDkG/wZdGbwLTxfQ1kU1gTwIBY62wQojuxuCsFSawJ4eAsVYIGASMgEm6oz51jRAwAgYBg4Dt3AIGAYOAnc4RsCeOgEHAIGCncWuEgBEwzgICBgGbfA8X4ir74cjPf2Pt83oLePQf/Iwnh3tHLAK2QqQ9pVsfBCwox0DA4nURJ9zRHuhBd2G30awSAvYgYYUQq1XigFmoWCHEy4grxJnfxCNea0TTgNcC3DtwohVxFwFvhZjhG2BEbAe255JvAovRBK5tFihWCOg9YNOXtAGLd0wjPK6zaBlyAseLQ4SLOBAwHAjYGoEJDAIGASNgSBawCzlMYBAwCJgnBmwPxgQGAYOAecn+fd9FAduDMYHpSvahJGBMYBAwLuIEjAkMAoZOA3YvGBOYbrgPDAIGASNgEDAIGASMgEHAIGAQMAIGAYOAQcAImLz8UCcIGASMgGHwgLMv/ZjAIGAQMAJ2CBAwZAjYHQhMYLqTeTAJGBMYBAwC5ojM7xEsYJ4xgd1CwwQGAYOAGWQ9FDAmMAgYDphH35E4vxf3/EKHCUzqgSVgUp9tBUzqqAVM6msdAZP6Qn0a9QvjGU8AE5jTgb7/rkXEAuZUxK3P0HHmmQerUVV84cMEJjUBI2BotXZO9l9MYGg0/ASMCQwCBgHztD1YwJjA0GoKTy3HP5jACBgEDA3WUQFjAkOrKTzVHvmI2AQGASNgEDD2YAFjAoOAoW3A7gGTaQ82gbFCgICxRggYExgEDA0CdguNbHuwCYwVAlpNYQFjAoOA4UzA7kBgAkPlCzkBYwKDgEHACBgEDAIGASNgEDAIGARMj45+P4SAMYGhacC+FxgTGAQMAkbAUN+RazEBYwKDgEHAPG0PnryIgQkMAgYBk1xEhIAxgUHAIGAQMEkUv5DhkGECg4BBwAi4T/HiIeOfgDNEIVxSTuC1qStm7MAI+Krp+m2ibk1aU5imAe+tBQKl24D34hQvKXdg4XI44F7iETGlZnFihdgJ9454PSHGVfItlfOd4daa6t7bwgqRehoKWcBDnMaFbAcegv1YwCImV8AecB41gQVPF2fab3+xdSGUKV4XdGOvgLMJi4s4EHDbUxECBgGDgBEwCBgEDAJGwHm5FyxgELApjIBPRixkAQsZAYOA7cUCdggQMAgYBGwPFjAIGAQMArYH737tmb/+Wb59PGlqvoPQWrARERnfxcgE7mTi15qCo51tBJx4XXELUMBVY7jylzy+P/bI52Tw6zpjBy54gHvdEa/aXzPuwV6FqjAljk6////9s0+wX/4PPQX8y//XBO547bDjWiE8oVzEgYBBwLhIFjBD7dECxgoBAgYBI2DoyN6dCAFjAoOAQcBcIdOLGQLGBMYUFjAImKdNYQFjAmMK32nr1TgBkzpiAWOFwBQWMCIWMCNb24MFTOopLGBcxGEKt1ojBEzqVULApIv4cwoLmNSTWMC4iAMBg4B5iveFnIAxgUHAIGAEDAIGAYOAETB0aVmWRcCYwCBgEDACBgGDgEHAjCsiQsCYwCBgEDACBgFDHeEQcIVvv0Xo873Ttn5dVunnvD/GBKbetHwp/RwTmKpTeC+6rUlcGrgJzOVT9ujHHHmrVgHTbegCJmWUAkbw0OICsNRfIJ4GrJbNWc0AAAAASUVORK5CYII=",
                 "origin": [
@@ -4237,7 +4155,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "rock",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAKIAAADpCAYAAACnbey0AAAECUlEQVR42u3dzXKcOhCA0TSl939lZZOpohwP2MNft3TO7i5uahAfLWDiOP4wjd57X/93RESWz9ZmOwGZFv+pADNazIl5I8wU6GIaCFWIInT8tmYRCtEJYpYQBVdrrRYL6/gzaOaB+ITohDheT80iFCKiFiImoq3KsZqIZI57seCYiOKyjrNvzZXDvfqzP7E2i6vfZ86wNk1Qv/+zZ/lxg957v+tYfddcaFqOfB8cYvlw4W6aFBniu+NYQ3x5T06mCXj18XqhneTi+hrdbK+jotoJS7V4J02JCtFdPRFbtsDeHfBoE8ILeFvzYzH1FRdOshCr3xv99POagAUnYsUYtybdKBFeeRyR+cBe94umyfgPLi37lSVCW7Ntl9vO4XLlhz36ICLaibZ7U48M94qLCBlqIgrQVHx8IoqQxyai+DhzKvqumRSEiBAZwxm3aULERAQhIkQQIikfWISIiQiHQ5zx9x5jIiJEuP6BRYiYiCBEhAhCJOUDixAxEUGIpNqehYiJCEJEiCBEUj6wCBETEYSIEEGICBFPzkLERAQhIkQQIqUeWISIiQhCJNX2LERMRBAiQoTTQvRLITERESIIkbL2buWEiIkIQkSIIESECEJEiCBExg3RX3jARESIIESECOlC9KCCiYgQQYgIEYSIEEGICBGEiBBBiAjREiBE+CREf/MGExEhghARIgiRoURECBETEYSIEEGICBGEiBBBiAgRhEgZfikkJiIIESGCEBk7RD/Bh4mIEEGITKO5P8xj/QNGs625iVggSiGCEE1AIZIiwpni3A3RgwomIkLEvePZtnbXxbaMiYgn6r0QTUMxPh6iCMVoa2Zo74bcYhqaiukmogjF+JQmQFJMRBHmvW+aaSp6WEGIjP0AIkQB1wvxjoOJf6TD5kS8MpL1ny1GU3F3a/7N1Dpy8GLkO+3TUCIiPn31c+T/xcPKqdPPfaPt+bQQY8VWzalb89Ggjmy576K0jQvxlglnKuKFNkKEUiHausdfIxMRIZqKmIgI0VTERESIIESEyDbfpQsRIULhEL3CESIIESGCEBEiCJFxffcCX4gDeb3aqviKS4iDxihEBClEqsYoRISIqShEHvX1FY4Qk54YWzMIESG6AUeIzH6fWDZEU1GImIpCZMyLrnSItudxJmyrvtBbMfoXFGzNJqb7RCHavutplmAOexfk01O4zXISsm93T0/uM35zmBDdLpS/NVmcfIQoRmYMkXwX6+ueVIik2DmEiK0ZhOiBSYggRNJN7t57982KLdlEFGG947jqWKa7Su/+Un/USXj2OpqIIrQ1ixBbs/BSraWnZtGZiNWuZAFeNxXDAoovQ4i2ZgFevnZ7sYbF/n+RrMn9E1SIpAhSh6QJ8i8MjDF3emhDXQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -4253,7 +4170,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 65956077,
                     "lablerLogin": "edtriplett",
@@ -4285,7 +4202,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAHsAAABbCAYAAABTa/pJAAAB9UlEQVR42u3d207DMBCE4djy+78y3CCBKmhJmzT2zje3XMTef2cPkUi3jbaPL1W/50iHnHTfBuxNQFprnM2pYAO8jjrQOcnTgTagAV1wWGvvhnJEAN/t6irQ28rOmzaokyZH38g0TmAT2Po1ZxPYBHYZzdrKRsIlKyXPKzv8EMq1KsPt3/bAb5x9nh6BOCNe957ZgM5Jtg50TjswjQdpcLQ9G2iwgY6CDXQIbKBDezYVhs3V6+mplypAB+zZIOvZtIi8Lg0G3pRwZZzApnKwlXDOJrAJbAKbwKYrYJvE66qBHAQbZD2bqrm6tQY2Z1NJ2JU/uUzfJZyzU1cvK1igs5X1/YFcJWb9XiYI2H73LDmNc/h+wDMm7c/z9JmyVYJdvGefDaAi4FnvNPYc/tFnmfZM8lw8wep1tVZZ/a747NWrZ/RSJaiUd0HK0ZjdFd7oFXb2b+C5PQQ26IGw9fTX49SrXGTG5191zr+ea/UKWvl6xUulzhqPnrN8/7tiNTsK3lFn/3dbqVC6qvwQ6zP3uOxnI1KAr7oRGNCCVr9eCYIdPMzZgIeV8bOAr55IZXs2h4cNaEcCr5A85adxDi+4Z5+5i1dJGHt2UGXowOW0gM6ppnHlu2BSdCA5m6sLakCb43jOVsbzXJzQxzk7aGADm3KU9I+Dn2KB0TD0qqywAAAAAElFTkSuQmCC",
                 "origin": [
@@ -4301,7 +4217,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 42721079,
                     "lablerLogin": "edtriplett",
@@ -4333,7 +4249,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAHUAAAB/CAYAAADRn43aAAACtUlEQVR42u3d23LbMAxF0ZKj//9l9aWZ8aRpdRlKBMB1HhNbJrh5AFCW5PaLftS+7/tPf2+ttSuvv3KMUerwzVkwVxbBVW3VnHTkiM/3jXBdRG3VHXH0/6up8M573lav6tIZx4ry2WpqQfWVXTqqO41WgzfrOlfKLgU1e0cq/b4INHonWxIqoLpfil5TV3bp/2I/GvsGaL6Yj85qtdWAnoWaodv+Vxx9NaC2NE4ugEqghnRihfS/rFOzw9P9FlWa7jfDiYHoi79lGzAdm6FHHiDHapSk4z/ZLTxUjuVUbt33vWUcNHScCiqBSqDSKzuGpxqXJ7chmiVOBXWkm55wFJdyKqjqH6hUFerZa2g59qXtTGutjzrQGwO2MF5Ov087FtDz2kZbH4RFGyU1NinUkVcsWACJtjRgFd2nAlv05EP1e1vKQT1bV8Er5lRgC0P9Dhbke1kx5IM8wAzuVICkXxqg7Yqb3NOSpLZKj/Uapc59RWsqsDX0lXVblE71+8Kq8vSUt+P463KWGY6teFPxZzwz4ttmOaZqyo8Q13ZlkKMAq+HPLqjhkzvyhqlsdfUoxrceeRveMZnAzn6OcPjnKGVL1ZHG2U1YvfE5oV9wwXWTVyOOz+N2E/L+ePx8ddEF9iRYUCcCeeo4fdUJjRTP6Jg4tWBd7yY2xueOPDanJk7FqX4YYcXaOjK2vnLwVffI06/Qv/Otxerfxx7F3yLDWz3d3/1uelsVUtbMcGYsDcR66d6WpqD6ldXqgjFOpVnlIss2Rk0NDvUu5Fm3ZoCaYHHofpOlSc1cMac+5WJOJVB1sKACC6r0S6ASqOoqqMCCSqCCSqCqq6ACCyqBuqRbOZVTuRVUApVAlYJB5VQCVQoGlUAlUEE1BaASqAQqgWqvCiqnciuoBCqBSjRKWR+yyanSL2XQb+U5XY6YU8R+AAAAAElFTkSuQmCC",
                 "origin": [
@@ -4349,7 +4264,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 87123697,
                     "lablerLogin": "edtriplett",
@@ -4381,7 +4296,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAH8AAAB+CAYAAAAN4c62AAACu0lEQVR42u3d227DIBCE4WLl/V85vWmlKEpTH3AMO99cVq1M+WeWBSO5fdFh3e/3+/PPWmtt9HE36PpCn8kE4J8IfnQjgP8B6N2hdTLRAmeuAW+mcp7E95bkTwq+x5jAD0w8+AXAHx0f+IGJB78I+CNjBT8w8eCHgwe/CPi9Ywc/WO0Ml83wOrNiyd8677czJujx92Y0gjVfopT9nhBHrwJppX/59OSqBOMYeLlqgHtNcKZ50vqTdvWEvwJw5Y6iSmVaMz9t5gn56x88eps2xQAtaTK2mCDBAHEnfGugpjSlkXf4fuE+pyJtJ9KkoDDcf5Y4L3ZCwYMfDP5f+Ep+bS3AZ6Ze2Zd8Al/JL6FDb/WAzzGAsh9sgEXqrfkUmP6bxEs+gU9Jpf8t/PYjU1hTqy5zPBpAfxAG/5URmGC71lTRj96UfvfA0QZbHfyZc/vq+Rq+Yob5aLevKZzXAJIfbADwgw3Q7Q6f0j+fJP9DunpX9Or54Ev+evfY18+b/s3wAa/T9D1zXPb84V+G0PTNlX5rvjWfUtL/+Oyl90CUfsmnCdIPvuRTYvrBD9vrSz6BHw9/bxmxpZt/3V/2gAS+SP9Qzc0pTZxv6TLMIfmEehED7KkEkl/ICFurAfiBy8GvUcAPMsBzdeje7ev0r2nedPsEPoFP4BP4BD6BT+CDT+AT+AQ+gU/gr5fLnZJP4BP4BD6NpSmubvdoIl0vmwD+WbuF1lpjgIHLvm1iYPJBl3xKSr7ESz6lwZf6UPhXgB95m3fV2BaJl3wCX+rBL7q20onw34GXemt+VDcNvtQPOz/L2ekCPjT5wIfCB378eYoANGrDd3VAnPAp+0or+AwAPgOAzwDgM0DVMej2JZ8Slx7wg3sO39jpDHSmOw3RnW+PY9+Zdw/KvoaPEs8M4g889pT+KgdFGr6iYNfoGyv3iPov06gmAAAAAElFTkSuQmCC",
                 "origin": [
@@ -4397,7 +4311,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 11936734,
                     "lablerLogin": "edtriplett",
@@ -4429,7 +4343,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEgAAABfCAYAAABLPoFkAAACnklEQVR42u2cwW7EMAhEC8r//3J6aaSo2mRjM8BA7Fulak0eY8DYifw0G/u+7+e/RUQsvycdoaDglAd0BQYFpyygOzBIOCUBRajGBdBhuIeRGWCOoRGSrwoHpiB0amUA4wrI+hAMYI6xvTU7lQPEpBo6QJ6VMEUWszzIJzjyNxicp6zLimWI90NfKeFKOQxOOttBE6Qj4DxV7Pn/9C1La3bOkH3TWR2RGcviiMMeqkKRQZ3/HbUxGI9QD0ItYYWiiEhUnHkyj8UBki11dJGJVqdbFvNO2xFwvi4xrz6P5feid/zbiCHebVXGHf9mNTQKVtmedES2uisPvB2kCK/M1DdPfz+7V1Suko6Of/rNGKunLcuKoV9EqaA7MJ8yqWdNJCjDrwwZjSHeqhkFBS/URvZiT2FmQoIf7DFvbGcguW4UO2REjVrLZSFWqKTLxaCqkGZUD10mEaCilzbVSQJjvNNOD1MCEBpSNnDtEivKARrtBrwSUAVQ39oq7Y6e0dmWGhBadTMlyLbU8mJAiKJVKxmbMZ8u5RAAilQPei7aGDSawbycIE8myrgBFnked3vD7MkE2bc6MpWqjLHkiSMQJ6+uTfvMqth7WZkAZfefI+FMZzHPmOQZ56ab9hFrGXHrdfp1AgN0RXgt85bZNzDwb3d4qcmiIK8aagqQF6hZQFH3oYezmFWeiGWXDedRmreAskBigDNUB3U4oYDGoLTd88CFqgiH0af37CJT2Qxic5gwG8fgPGWWd+kgXUFRCKe1PNVAOsn1+kuHZacVZN4yBiHlbuk3lftUqWfrwuMlZOog3eYLVJ2B0r3evRS00vwC1GpTuxTUFdD6juJSUI/921LQAtQMEFt7ZCmoEiDG5tpSEBMg1s+y341tLav78QuJRd0MTexFHgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -4461,7 +4374,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "fenced field (land)",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAMgAAABZCAYAAAB7Ymt4AAAC10lEQVR42u3d2XLDIAxA0eLh/3+ZvjQdt9MlsTEG6dzHTscJQhdJcZbyhtS01tp//1NKKVnjs0kRcvT6v4gUaUKQUwkUvLqoIOTAH1QhOJZQmftyLRYZup6us8nUc33RD4pKAMAMcqscMwnpcEheQWZNgNZaM7eYQZyCE/fsV8TNy7wgd+KWbbMhxEQAQdoHktV6CJJgA0auacRjRZWkSKT4Q/vIGM46tB99J4S3mpg9ln6+zyT6T9fc/+2va6ggwSvIHfE7uqZez/Xx+Geu97hGIQZB7lzXzPtcSilaLO3VpY/d4zS/k2pjYS9/x510CYSVBJEw4jhTDFUQYJUK4tQDQcghlgtRbRDwlf09HDOIEx87Mb7f4Kw2m2zZq8SlLZYNgRmEGEhYPQ4LQg7tVXQxDOmSpWRa69H1viyIUyqOHNElOSPGZ4v17CerEKO9yrLHvdZZSynlEVzfYA5yfLvWK6fQXibMtbFnKkiEPb3qMN9e6dnIIYmyUZ8JJDHii7PiHo8QvkYOIFTArjNIrz4XY5Ogx085z7a3s7SD24pPGn2TzcF3ssUCsr6IUI8uwqlzDdl+iWr2tW5RF4b5xVghh7bI9gO3CkKS69qsiI+1Ys7UXgs2kyDiQbplDwDIMUQQkkjOiNQrNkS7hShi+sitFwPIMbKC7AOkkpxL3pUSLWorp4IAdwliQMwxa0Te5zoigFotA7gKIqApBvRse+nt7iDGDEN69F5VUqsgZpIkchDrhgoCVUcFUUWWSO7fYk+OH2Jy9xMgyviT3FfMTl5BVBOtlAqimkhgQzpAEKcmCEISYPIZJPM84mBQQQAVRCVRIQhCEkJosSQbObBJOiDIkL6CJEQ2g5hJiKGCOKXJgYXvg/gIL7RYk7dcBFVBtFzkIAhJyIHggkhcXIEvjiMgslQQcoAgNyQyOQgCwAyiauDFPIi6MF/vD4J0FIUYSDmDSHyc4R1wF6FSF7euZgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -4485,7 +4397,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "bodies of water",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -4509,7 +4420,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "scale bar",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAIcAAAAICAYAAADTAewHAAAAQklEQVR42u3UgQkAMAwCwbj/0GYFC4XS5H8FD2XbFSRJRauKB08RAW0hjpsBDRzfQQPbMBy8GjiA9gAaOIAGDjqH1tSgIAUrLhzfAAAAAElFTkSuQmCC",
                 "origin": [
@@ -4533,7 +4443,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "latitude and longitude of known points",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP4////fwAJ+wP99djxmgAAAABJRU5ErkJggg==",
                 "origin": [

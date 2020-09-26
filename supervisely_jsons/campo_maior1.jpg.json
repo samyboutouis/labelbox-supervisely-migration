@@ -37,7 +37,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAK8AAABICAYAAACA06VPAAABK0lEQVR42u3bQQrDIBBA0U7o/a883TTgppS0guPk/VVACCgPN2o8pMJlZp7fERHj2NPyaDXKX4NXSwHCq20Bwgtg3nHe8EIJr0CFFyxVwwuAZhdgaSuww0HFAa527bAEgleCV4JX8ErwSvBK8ApeCV4JXsErwSvBK8GrPRuv8MIrO68ErwSv4JXgleYWnwa8KlZZtO/n7/HvjyDXtnjhVlu8MKsNXpjVBi/MaoMXZrXBC7Pa4IVZbfDCDG/bYO4LOO42aZjhBVnwgix4QYZXMMMLsuAFWfCCDK9AhhdmwQsyvAIZXoEML8yCF2R4BXIlwJYAYngFMbyCGF6I4RXE8ApieAUxvBDDK4inYLx4aAYvxLkaoZ1XyxCvumYAry4jrnInBl59RVz1AtcLYCfQK3q+LmMAAAAASUVORK5CYII=",
                 "origin": [
@@ -77,7 +76,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAFcAAABUCAYAAAD3XKvCAAABQklEQVR42u3bWw4CMQxD0Qax/y2XBcCIl9I4zvUvXz2yMqOUiUX+yt57X/0W8LxH+jXhdBi1xIRDVuUGAbjgEnDBBZeACy64BFxwwSXgauYOweeJiJcr2qvNIivHP2EZC8xcr9aCmwgLbiIsuMzcnq0FNxEW3ERYcBNhwU2EBTcRFtxEWHB5z+3Z2tG42bBjcU/AjsQ9BTsO9yTsKNzTsGNwK2DXMr/9rUK1b241rC2uAqwlrgqsHa4SrM0DTQ3VprmqsO1xlWFb46rDtpy5HVBbNrcTbCvcbrBtcDvCys/crqjyze0OK4vrACuJ6wIrNXOdUKWa6wgrgesKWzoWnFFLmzsBdi3Bz1Od4PkLKbjgEnDBBZeACy64BFxwwSXgggsuARfc8Xna+lffTDjdRHx1kBPwY3FPwIObCA9uIrwT7gMGMDE4NNANxwAAAABJRU5ErkJggg==",
                 "origin": [
@@ -109,8 +107,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 25670787,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -125,7 +123,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAN0AAAA0CAYAAAAOjz1QAAABWklEQVR42u3aQW6DUBBEwSHi/lfGq+ySndXMzK93AFvClPojfJWkf3ue5/n2Z14uq7bczFOCTjAkwV3XBR1MCoKrqrpdCpjkeOnm1MqF++3eCMmxWV3BjV46y6WJ4KqqfoCTcuDGopOmghuJzsppMrhx6IDTdHCj0AGnDeA800lhcGPQWTltATcCHXDaBK49OuC0DVxrdMBpI7i26IDTVnBVDf97CZy2Ymu5dMBpO7jWz3TSRnCt0Fk5nQCuDTrgdAq4FuiA00ngXkcHnE4D9yo64HQiuNfQAadTwVWFX47DptPBRZcOOAEXRAecgAuiA07ABdEBJ+D++H7YBNzwpQNOwAXRASfggsdL4ARbCB1sAi54vAROwAXRASfgguiAk0LPdLDJygWXDjgBF1w64ARZEB1wgimEDjaBE0QHnMAJogMOHIXQwQaTguiAA0zB3xM4IJTtduNK2T57WcBficM5TwAAAABJRU5ErkJggg==",
                 "origin": [
@@ -165,7 +162,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAFIAAABmCAYAAABYx8YgAAABXklEQVR42u3aAW6DQAwEQG6V/3+ZPqCRGlUm2MfsC+xh74QQx9Es53mex8CkI+JEzGjiRpDvEKfBpnMTJ2Gm+3GegpnOiI52MeIE9ExpYnfMOM7DICsQOz+ITGtiV8xMPM4dMTMN8XFH+2rEbg8pk5fshJnpy3XBXDsttdZa4xvZoRl3zpCdjteds2QnxDtnym6Id82WHRHvmDG7In571rUz4jdfj/IUxKvnz1MQr94jT0K8cp/1JMAr78w8FbF6x/VUxOp2BmLN3oFYs38g1mAuiDX3ZiDWtDO4ajBBfoj5FyjIonaCLMIEWYQJsujeBFnUTpBFmLnzN4+dopEgQYIUkCBBghSQIEEKSJAgQcpnkL5JaiRIkAISJEiQAhIkSAEJEiRIAQlyIKSPuxoJEqSABAkSpIAECRKkgAQJUkB+E9I3SY0ECVJAgmycF4Lf+c/by2v3BUc10vvncfwA3KEf6+W7VygAAAAASUVORK5CYII=",
                 "origin": [
@@ -205,7 +201,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAFcAAAA5CAYAAABDNrdGAAABDklEQVR42u3bSw5CMQxD0cZi/1suU0YIBG7zuV5BcjDRe0isVSB7770KRlVgKwKLxg5ubmVsATkM9x1sJXRVbGwVYC0yA/ebRlZoryrC0twDsNk/EFVvbGZgdTgFWYFVHTYzsDrAZgWOjk8EERGjmnuyVVkarK7LZgBW5yVvA2vC17MdbhbYm3NoQmNvzaMpp+DGXJoAe2s+TYG9MacmwR5/U5z8qOV+TdZU2BM7aCrsiV1iMqz7TAhY334BrK/FAta3cwDra7GA9bVYwPqAA1jfmRCwvhYHsL4WB7A+5ADWBx3AGpE5C77wnwhwwSXgggsuARdccAm4WfKA4L95/XUM3B/waK4BDVwj2qd5Agh8C6X1E/wUAAAAAElFTkSuQmCC",
                 "origin": [
@@ -229,8 +224,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 49659663,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -253,7 +248,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAIYAAAA1CAYAAACEJ5NKAAAA9ElEQVR42u3cSQ7CMBBFwd+I+1/ZXCBClh1EbNfbsiJd6gwMFR1Za619e70con2HO1pVFRgbDnYWhY2x6XBnUSRJjbyxp22anYbzBBRJ8jYIXfVyCHR1BgADirIx1H2tCAYUYKj/rhIMgaH+Z1BgQAEGFE4lco2hu7cFGFCAAQUYyvxXI8CAAgwowIACDN2NIhn8ap/2BWFjQAEGFGBAAQYUP4XhZ4pQ2BhQgAEFGFCAAQUYUPz1psAjcSBsDCjAgAIMKMCAAgwowIACDK2AAgwowIACDCjAgAIMKMCAAoytW/k/133sfvhmAOPQAS8JwyCe2wdDeCEao3hxCwAAAABJRU5ErkJggg==",
                 "origin": [
@@ -293,7 +287,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAC8AAAAyCAYAAADMb4LpAAABHElEQVR42tWZwQ7DMAhDwf//z9mlmjqp2xISg+FelWeCQxKzHzHGGCYc+Je4MgA6Kv41+afEVWEwm6QiAKxxYEVZNfWxmpQSALo4y2Py7u6rH6kAhxtWAQBmZhH121tltfrv5KPqVwJ8KN8N4NgOWwHgjESyDIAy22RVASzlMgDALD0bAOy1ywRARvOxAJDlHgyAabdRBFiySjWA0nFgVwxU/PSUCOW3BzsAqCr5CQBUrtldAFQ33Q4AFFwjCuAqzRcRBZk/Oy3GcavMBKD4fBYA9azJmCTvwlB3WMZB/C5I2jUfw4lS7yiPA3QbxsqnylMVL7/aLhmJFaog8ZQZBZB7EVlZRnKPyLNVcHeXfAH3K9opH4FoE+MKM7MX/NzAIHWKSqMAAAAASUVORK5CYII=",
                 "origin": [
@@ -333,7 +326,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAADMAAAA0CAYAAAAnpACSAAABJUlEQVR42t3aSw7DIAwEUDz3vzPdFCmKlAbj37jsq/CwMU7oGIox55yDeEALYQbhJCKsIJz+kBGE7vtkG/MGYYPCOlEmkHhNTkSEKjKWVWaIEK6Tke/oCsIV4pEylSDcIZ1B+DVphk2d0gEwRucV0yndtiLTBYSMh2SBtjHWYpABUkWGHaROM2YQRsGIAh1hPA7TCNBxZBhBpjRjA5n3DBNImDa2dWFcq1l12XYvzZWgkHOmChR2aFaAQjuAbFB4O5MJSn3Hjy7dqY1mdJTSu+ZIUNmnJI8W5r4wqMJE9HRlGC8QRZp5pt1aFLBgPKJEg6F7BagCrRSlwyzQCYr+ykJTGMCO0USo1WUSXW/2N11zNKgd5gnU7f71cR91+rNS70PzdHwAzn7MODVxBCwAAAAASUVORK5CYII=",
                 "origin": [
@@ -373,7 +365,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAJEAAABfCAYAAADoOiXnAAABeUlEQVR42u3cwYqDMBSG0V7x/V85XQmFLsTmr5LkfOthYOLpTRyx9VJXrbW28t9fVbW7iOptdxHVjQgC9bZVVVkGdSE6DkeWQl2IQFIEEUiKIAJJEUQgKYIIJEUQgaQIIpAUQQSSTn1c+WGPSPTzJDKRFEMEkiKIQFIEEUiKIAJJEUQg6fItvn8B6C+TyFTSlv6FINnOotneTCLpeUS2tjXaLcHCZ5nQhxyiRS/8UGciW9r8a+lgDdAYiEyjudfPJAIIIoAg0gRBZAqNgcgztLlvREwigCACCCINDggigCACCCKAJnkcBBFAEAEEEUAQaXVAEAkiUwgigCASQBABBBFAEAEEkQA68ho1PCYRQBABZDuDRyYRQCYRPCYRQBABJNsZPCaRIDKFIJKciU6n0OdX4phMEF3K9ynZzgSRIBJEEkSCyB0bRIJIgkgQCSJBJEEkiASRIJIgEkSCSBDpPE/yIRJEgkgQSY8hchidv2leDb4Lq9epv3sDtTg5jO4I54EAAAAASUVORK5CYII=",
                 "origin": [
@@ -397,8 +388,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 39927857,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -421,7 +412,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAN4AAAA0CAYAAADluIZTAAABVklEQVR42u3bSw7CMBBEQRtx/yuHExDxbU889bZsUFCl7QVzSPp5x3EcZ59Pj0h6H863gSeYFgSeLodizjmvgAs8tVuU0ujO3hwCR/9BZ/HA0QJ04IGjBejAg0dhcC3hQaEK6C4BDxbthm6MMW7QSVl0pRcPOu0IrvTiQaed0ZWEB512R1fuqAmddgdXbvGgUxd0Ze940s7oysCzduqErsQdDzp1Aldi8aBTR3RL4UGnruiWwYNOndEtueNBp87gliwedIIuDA86QRc+akIn4MKLB52gC8ODTtCF4UEn6J539xMIuE0Wz9oJujA86ARdGB50gu7F7wSdgLvo4kEn6MLwoBN0waMmcAIuvHjQCbowPOgEXfCoCZygCy8edIIuuHjACbjw4kEn6MLwoBN0waMmcAIkDA86IJTLH2GB0KrFs3ZAyOIBof1f6r9cOyCkDxYPHCnTA+7twF2WZ/dKAAAAAElFTkSuQmCC",
                 "origin": [
@@ -461,7 +451,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAKkAAAA4CAYAAACG79jJAAAA20lEQVR42u3cQQrDMAxE0XHI/a+sXqClmxZG4f1lluIhsDFJpNJmZpLkMgo1A02S2zj0K0z/ClJ46oMUHkjh0eORwqMbHtUjhU3tuScVpBKkglSCVIJU65Gec44xyCaVIBWkEqQSpIJUglSQSpBKkApSCVIJUq1sZuZKEi+hZJNKkApSCVLpc8cfTFS/SZ3sVb9J3320XVWP9FsQqx4pxFqPFGKtRwqx1iOFWOuRQgzp44MYUogFKcSQCmJIIYYYUoghFciQCmRItQkypKqHDKnqIUOqesiQqh7yCxHJe/jJaG6cAAAAAElFTkSuQmCC",
                 "origin": [
@@ -501,7 +490,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAFcAAABoCAYAAACE5GwUAAABdklEQVR42u3d223EMAwEQJO4/ltWCggOOCTgiRJnK5DGa+rHj+c5JGut9RyWPAn2NOCXtg5s7jvYk8BTYwfhfgJ7Cn6c3NaICM0dMgba4f4HtvtFydMb2xk4jYKLDrQq1I6HW97S1o53Qt40BroB5y2w42buLtQu8zdvbGuXOyVv3VyHNcStrekwJuJm1N3AOQF21xpzAuyuteYU2B1rzkmw3157TEL99kGXk2Gr95STYav3ltNhK/cY01Er53CCrdt7gK1rcYKta3FArWtwgK1DTrB1YyJx/Q34E2S4hS2GWwgMt3BMwC1sMdxCYLiFwHALAxcuXIELF67AhQtX4MKFK3DhwhW4cOEigHsmbvdvc2muwIULV+DChStw4cIVuG2z1lpwNReuwIULV+DChStw4cIVuHDhCtwz8us5Md8ZK8R9F+iFuNA34ELfgAv98J8qwx2Mf8Uj+13hR7wPse13jZNP82p0b/IUgsMtRIdbCA63EPwHpbA3vLLylzQAAAAASUVORK5CYII=",
                 "origin": [
@@ -541,7 +529,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAC8AAAAwCAYAAACBpyPiAAABDklEQVR42s1YSQKEMAwy/P/PnYunOdgNAj1rDUtK6vN8rDHGeIIXZg+MdyUWX7usV1VFM//FdJIKOHkpxUp1y6rTRsWwggsAGPK7LISk06OlYVPYB9Oz3QDA3rATABQnRhcApEa/xTad7EMZOGoAUCemEgA6vKkCgMSBi8J8un2mtkkGgG6pmQCWimf7nwVgmfnEBt6yTZr/tz2fBKASvHtKCBwfZZEQd4PaIQRO2W+JgIMxFgBqwnYDkAVPx0kkTU11I0sHM7WN5FOlEkDrsMXug9Z5np3I7ZeRehdlL+c8fmsjOIu/VSDmdnSiAlKKP1Eh8sfS0lxTVUgsflWFyOKnA5kjpJyZYO+D/174Ad05rD7iAhYNAAAAAElFTkSuQmCC",
                 "origin": [
@@ -581,7 +568,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEwAAABDCAYAAAA2weP+AAABO0lEQVR42u3XUQ7DMAgD0Mbq/a+cfU6Tpk20DbHBXGDwarLkOAhqzjkPkQILlgoanCyxhKkBgg2HHQ2MSWJGg9dO+AxTgAUzAiMa2BPDhobO61XqDGMFh8qwLGjwKpKArcBi+ABQ+8K70aA41E40VFwbGbBMrF0fBsoD7PhNqK9INhqU10NyJRmwMntAlWRl9YJKa5jRk/yhn42GKunK6g/VsKhWUglrVa+onKwVPaP6Cj2NhqrpWtU/qmM9PQc6/SM+MQ+6XR/uzoWOd60786HrxfTqnPAt/iJYR6wrM6N7sqKzw2sYQ8PhCqEZLIhmsC9ov+AMFkybwYJoBguuqMGCaTNYEM1gdx7fLoMZzGBqYGOMYQYnzGAGM5jBXAYzWHqdJvisf/fSs+vgJRPG+Ao5Ow69HMzvzXe9ACQ6L4YjuR/BAAAAAElFTkSuQmCC",
                 "origin": [
@@ -605,8 +591,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 60721014,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -629,7 +615,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAPYAAABECAYAAACyEMi2AAAB3klEQVR42u3dMVLDMBRFUcnD/rcsKjI0sWPHkr6+z6kpgsjNk6GgFiC81lo78/XVkcGc+HoSNuJLSNiIT9ggSmEjVMZHXWutUd80s1+bSFkx6BCL3eONFvnDCkZEPTVsAUC/MftxLJAn6D+b44FcUU8L2zUc+rLYkGytp4RtrcFiAyfXWtiQMOrhYbuGwxj+jg1JVnrKYltrGGcTNeRa6yFhixrGRt09bFHD+KiHPmMDCZ6xrTXMWetuYYsa5kXdJWxRw9yobw9b1JDsGVvUEGOtbwtb1BAn6lvCFjXEivr2Z2wgwTO2tYZ4a/1V2KKGmFFfDlvUEDfqS2GLGmJHfTpsUcMaNlFDrrUu5YN/yidoWCvqw8UWNawX9W7YooY1o34btqhhbZuoIddal/Lvl2eChhxRvxZb1JAn6lJKqT2j7vVN+iBC1B9exVcjboR9cBV3iJDr/bhE2NYZUScLu7XW3h2c1UbUC4a9F7W4EfXOa4t89T5zcK7riDrwYl+J2nIj6sBhX41a3Ig66FX8k+dp13JEvdBi3xm15ebpUYcI++6o4elRT7+K947aldwN6LE/s+xLnSFuYbFE2KOv39/GLSw4CMz1GEQNiBoQNXAtaqcAogZEDYgaEDWs6hcdcRxgPsHzHAAAAABJRU5ErkJggg==",
                 "origin": [
@@ -669,7 +654,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAACkAAAApCAYAAACoYAD2AAAA4ElEQVR42tXWSw7DIAwEUNvq/a9MdxVJSfl4bE9Zkgg9zQSICNForbXRvLEBR1BjTpAGOQLe54w1wf6ZsVbcv2PyB0NZUyz9JneBqqrGDExP8gSoqpqG9ABTkKcVp9V9CuxTDEUiEgxFeoD3FEOQaCAciaw4BOkFPqUIQ0YCIcioimFIBHCWoguZkaALiQKupHiEzAZu/ZlX4JaRlbgpErkxPMAhkgn3hWTEfdZDn3dooIjIixkHQ0bi3MgMnOtazARuJ5mNuxxBsx1ehVuuuxr4s24G3COSCTesmxEoIvIGdkyMNWDSh/sAAAAASUVORK5CYII=",
                 "origin": [
@@ -709,7 +693,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEsAAAAwCAYAAABZq4foAAAA60lEQVR42u3YUQoEIQwDUBPm/ld2P/ZvYaHqaFubHGCwjwh1Wguc3nuPdB5Gh4oExpYgUcCYBScCGDO1yBssxTWMAsaMEF5g6ZrlCcbMw58GY/aWnARLew09wHjLoCfAeFMjdoNdcQ1/wXah8ZZWnfj+dc3aCYYqCyUApMLyfgivgqEC0ltgqAS1ioZqSCtgqIg0i8bqUCPnRmWk0YZBSHY0CMkORkHZ54SQ7C2DkOxgFJQ9j5AmsYRk3OAFZWiWkCaapQhLWF4bvbDULGEJS1jCUoQ1+5BWvvn3D/6pPHyJZr01fEosr+FH8wGvGrviMZ6doAAAAABJRU5ErkJggg==",
                 "origin": [
@@ -749,7 +732,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAJQAAABOCAYAAADGmT+dAAABYklEQVR42u3cUZKDIBRFQaCy/y2TFUSrElJeeH1+52fEzkMdM70ptjnnTPudeu/98ucWXEvBOSla2bAEAkpACSgJKAEloKQPoO6efEomlIASUBJQAkpACShpQT8/g/I+lUwo5YLypF3LJxRUsuUpG5QppeUTCirZ8pQNypQCqkElW55qgTKlgIJK+VseVEBBpfyLcqhq9MhJ9g6VCWVaKRcUVEBBpXxQUAEFlfLu8tz9PftB/ec6x00GqHKn/t256albDVT7XkaM1MVwXeWi3MW6dct/wQ4qEwqqwms1LJRKgoIKKKgKrs3YdeHAMqFMqwJrMSwkTEBBFXvsx52ISn8HTPwgDYssoKCKPUb/LAMmoGCy5anIVg4UTEDBBJSK3LEeCcqXHIDSAdMJKJiAggkoFcEEFExAwQSUimBqrbWX0wmSCQUTUDofE1AwAQVT+DGeeFC++eIu78iT+w3s3afYG34tOWdMlBscAAAAAElFTkSuQmCC",
                 "origin": [
@@ -773,8 +755,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 46930794,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -797,7 +779,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAMIAAAAvCAYAAACxOxVtAAABT0lEQVR42u3cQW4DUQgE0QHl/leeLBJllVUim/7DqwsYjSkaLNt14ZHc932/+jWqqp7yvD60zL4Gxi9SewQaWCosTwTTF0cnggaWCvEiaFIyHC+CJsZWGYoEIMR1tbcN1uNvEaQBtsvQJAAZrEbAlwhP+r4IpIJEABn+K4JUwHYZfhKBDNgsQ5186eNc0gavGwFj6ZA0dDvdVFiXxhKBDNgmQ5186cPt8JYbQTJgSzpUcnGQDhGJIBmwJR0qtTDgncO4k4oBpoZwJRYFvHsgd0ohwOQgrrSCgImh3AlFANPDuJKKAaYGc08XACSkg798hHS4XvB7BOmAE9OhUgoBJtOh0swEJoToBBuB6XWpEooAptOhkqwEpoToaROBhHWppywkBJIY/V8jMiBmRUq/5oE1IhACq1cjqxIkgmQ4u3ECh9Zf+yb+k5uThZBuZ/EJJ2q8LQWSU6cAAAAASUVORK5CYII=",
                 "origin": [
@@ -837,7 +818,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAACwAAAA9CAYAAADWDos/AAABLklEQVR42uWaSQ7DQAgEAeX/X56ccopkDdBAk8wHXC41ixcR5znnHBk8JstOCHjS8mtLFFyGWWBFRDQDqqpKY5jJ6qNhL2i35d1tLRKD7ujsNZwx1WnZUBfsgt4XCaSZDss2Ma3SkUBCV1suyXAltE0uMmnDG6JhDCsjTR+usGwsi3naMAoabdk6lnMk9O+9l2CzfGWYqQivI4GARlhuz3AW2gXMEA234elohCIxaXqsD0cth4GnopEyTPX2sgvaaxmS4U7TsKLLQHssQ7tEBzTVenkDDQeuLkKdtBW5+bJIVA2W0gxXQJcXHRq6pUsgoVt3gXWPSAjT7YMjC/0fP3hMWh4zHIUejUQEejzDXmiKovNA03SJW2jKTwNPE5GyDz/Zph0c276Bf0XkE5M35nukaGKkUFAAAAAASUVORK5CYII=",
                 "origin": [
@@ -877,7 +857,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAABEAAAA8CAYAAACAX1ESAAAAcElEQVR42u2XQQrAIAwEk+D/v9xemlKUCroBL7NHZcdNzCVmi7oefc/aivnvziWzu0+TzMy9mmIeIDvmVJigfDjUFHKS95fUFGVJIgdGKkedkaGc3VReMfY1jQUCBAgQIECAAAECBMjxzWtncew3kxtSnzRWQgukmgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -917,7 +896,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAABYAAAA7CAYAAAB/hnrTAAAAZ0lEQVR42u3YQQrAIAxEUUd6/yvHlVCkglErBv6s5TFGcaHMzNJgJGl4rQf2JHtauOD0U4LCu+csSXFGUXefZy7/8cbvcvfPuB3l3Y2/Dp63AhgYGBgYGBgYGBgYGDg43PvneFaBXgpDEQib1UV4eQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -957,7 +935,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAABkAAAA7CAYAAACOjSFeAAAAbUlEQVR42u3YQQqAMAxE0Zng/a8cV4UiIgpNoPjnAHlMmlWtKZmZWhzbDjXElS1Gypu0rSsqV2XbLesqRUYLSYrKqyptMrfY902uLfa/LhAQEBAQEBAQEBAQEBAQEJAfIMeqQXe/Q5+QpwFvcgJGzxCJOx9GfgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -997,7 +974,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAABEAAAA8CAYAAACAX1ESAAAAbklEQVR42u2WQQ6AIBAD2w3//7JehCgxCl01HtojyQylJwAxyxYAoAL3Z1TBJiBJFa4CACiz4FlKBm6NVHg/RdztMpLAA4m+2uxTDk0yz4qrG77fJNvmnSaWWGKJJZb8XKL8EjysJZZYYoklg1kBCxYkd6/f7dMAAAAASUVORK5CYII=",
                 "origin": [
@@ -1037,7 +1013,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAM8AAABDCAYAAAA781H8AAABaUlEQVR42u3cUa7CIBBAUadx/1vm/Ro10dcizMA5C1DbcqElsXGDDbTWWu/PDKeVbIOyCvEYlPSOx8WDD/GIBM45nAIQD4gHxAPiAcQD4gHxgHhAPIB4QDwgHqgvIkI8YOUB8YB4QDzAi8svAPE3brYMp8duW0R4Aw9u264EJCLEs8AqFA9cYtI+82R8Dvo2Gs9rXJqgf/XhMwdmj+MSFtPimTUAVzwmNoxnxoCb+ZwjLPGUHljZNgkEtW48x8gv23aGsuu3pLtTMHbyqLITaTUVj4gS30VkPgfPx/jut4pHRM7ByQnjWPFi+M2eC0fwlwQBiUg8rBJplYjEY2CL6OS1EA8isvJYfUQkHigR0bHSCTWsEA+IB8QDiAfEwz/YUBEPiMesSvWxZOUBt20gHihh6N+wPZtg5QHEA+IB8YB4SMJGjXhAPLDCCu11u8kvoJeq5yWewrOhsMRD57BEJR4G3btjwwCG+gOrpGkc/rVhHQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1077,7 +1052,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAANIAAABnCAYAAAB1nhyEAAAB10lEQVR42u3dUW6DMBBAwazF/a/s/CBFIYoSwIBZzxygKfa+utC0jQcMptZaW3/MsKzccXB7IySDi5AMNEIy6AjJkEODkAw6LEISBexTLAEICYQEQgKEBE1D8sQO9omIcCKBb+1ASCAkQEggJOjN1OMnFRGr35XuMT63C2nLoENmqYJwKnHVd1Al2wXZVq7gYQMIyamEeyT3S6T5QlhsCPZMSIhISDaHLPtUbBIISUz2Rkg2TEROJBDRmCE5leyDkGyi9ReSzST3uvtHYwjIiWSDrbGQbLS1FZINx5q+TLYcATmRDIA1FJJBsHZprt8IfPJYXEBOJMNhnYRkSKyPkAyLdXGPhHsmATmREJGQDJHrF5Jhct0IyVC5XiEZLtfZy3pZgu2yPs0TkZAEJaJL+DUKBOQeCREJCREJCREhJBGJSEiIqDee2gkIJxIIiZPVmZUQEo2CsgpCAiG5iUdIgJBASCAkEBIgJBASCAmEBAgJhARCAiEBQgIhgZBASAzHr5sLCYQEQuIrf7dBSICQQEggJEBIICQQEggJEBIcwE/jD3Lmm0KX76r497W9G0NIQ8a1dvB/vZ6QhJQ6rNYDftbrCIkhoxVSOx42jPIVc2YloKP7Nd49AZaNdXRFKJ1cAAAAAElFTkSuQmCC",
                 "origin": [
@@ -1117,7 +1091,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAFwAAABBCAYAAABcp8MdAAABOUlEQVR42u3cgQ3EIAxD0WLd/iv3VujpaBKbnwnIwwogVb2u4XXf930FlRywk9DlkuwUdDlgM1KasBM2Qm7JdkdfriNkrbVIOPN6Nvg/2K4bJedkO6LLFdsVXc7YjJQmbKdNVEqyXdCVgO2ELhCCwDuwp2/wSm166tNfqQmbmnQlNzkRXemJigSfjD1tbToh2ZPWqHTsaWvVCdiT1qxTsKesXSdh242UFOzOPnRqsrv60YnYnX3pVOyu/sQBafi0J+UbwE9Ld1W/Aru2b4Fd27/ArkUX2A23FLDrUi6wa9EXM/wh1KbPLnj4/JD2HYEEvHjMAF6cdsCL4Tk0iw9XwIs3AfCOlyYFOOAU4N7gHJgkPPJ6CDgJB5wCHHDqYX0g2HsLAfwlOBJeiBYL7vpvwnbwRLjXwUHbU19/ND+G0oE7tAAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1157,7 +1130,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAALEAAABOCAYAAABv7fcJAAABVElEQVR42u3dQQ7CIBBAUSDe/8rjqguNCxWxM/S9tSYGvrTWKr1BMhER7zyu995ba+1myPhneCuIWHjliViMIkas6SLecaCODwBi3VM3aFRfnIahoDoRI2IQMYgYEYOIQcQgYkQMIgYRg4i5ouPGNRFjJQYRg4gRMYgYRAxzEfuRKFZiEDGIGBGDiEHEIGJEDCIGEYOIETGIGEQMIuaybAH25NVOS+65FvFUQK/MRPXNdmDHc7LGnH2Ls9XjVnIlPmvSsseceb5WjpnTick3kaDPXwB8sPvB5FTbsXS3o+gwAWKuHvIwAWKuHvIwAde8YrDTGA2riRCqH7mGQyPV34yuTlCeiBExnCkiQsRYiUHEsFPEbqbBSoyIQcQ88G2niEHEiBhEjHNuEYOIETGIGEQMIkbEkN7yf6H8+AW59smHUvyhoHApF7Fo+fvpxOyphmhZ6Q7+dVkD2mZzzgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1197,7 +1169,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAH4AAABNCAYAAABgzdCLAAABCUlEQVR42u3cAQ6CMAxA0dXs/leuF8BEQMy6vn8C4bGNgSGGDsvM3PXYIiLmEwcYEQFi7abR0rOXUwBe4AVe4AVe4AVe4LU4/BOPV2XEC7zAC7zAC7zAC7x+U2YmeCNe4AVe4AVe4AVe4AVe4AVeC8D7w6URL/ACL/ACL/Cq1nQK9u9ouw7+zyf8U3c+EXflOQz4gheJNR7kPXhfonRXry4zUsUfXWGGWn2qL/9WbtWLoMQa7ybKGg8fPPydL8St7uqN/MbbOfiN9/Hwm8LDbwwPvzE8/MbwAi/wAg9e4AVe4PVFVZ4bgDfiBV7gBV7gBV7g7eHrvPsH3xAdvKlenUb7GL6IsQ3k2d4NGiTokYrUBAAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1237,7 +1208,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAKgAAABBCAYAAABFAO/+AAABfUlEQVR42u3cC27CMBBF0Q7K/rccFlAQEhjyPHPuAqrGc3A+KNSftKDzPM/Vf7Oq6rC0M4e/S4fBayRQw9cyoDAptZslUDRQu6fsoBKgagm0qsoyKHoHhVTxp3hIFX8NCqnSegjSoydFAwVVkaf4f3qd8pUMFFJFn+Kd8hW/g9pNtQ1QCVAJUAEqLchbnUNacYN7xVOc2uGf1PU4rwINKJwRPXMFKJxukiRA1W73BBROQAXnz4C6QYLTDio4AYUTUMG5oKPD4rs2bvwB/MZN0hWf6olIJ7zh0OoAJyGd8vrNzdAcJ6CG5/gA7T/EiW/Vtn3M1G2YU1/5bv0ctMtQJ/8eQfsH9bsPd/qPZYz4JmnXIfsll0Ffde42bDiHAd1p6HAOBbrD8OEcDjQZAZyAxmKAE9BYFHACGosDTkBjkcAJaCwWOAGNRQMnoLF44AQ0FhGcgLrGBRQoOAFtgxTOD9fPErzundeZwQQ0EimYgEYiBRPQSKRgqsU1qd7rDtVTZTTtdqfkAAAAAElFTkSuQmCC",
                 "origin": [
@@ -1277,7 +1247,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAFEAAAB0CAYAAAD97t6zAAABp0lEQVR42u3d226DMBAFQFjx/7/sPkWqqtJL1tiwnvPeYoazOA2psm0PT2utzV5DVACcDRlbkcyEDGiaeAvYqIY1A7JUE2dBRlWgkZAlm2icO7ZrVBujKuBIyKgMOAoyqgOOgIwVAJcd5ysAr7oo+4rt2/d9L9vEUePb+zixGmDZe+IMwJ7HjJUb2OvYsfoI91hDrAzYay2xOuAjx/mugJl1BcD8+gJgfp0BML/eAHjjNyAq4P31jYoAmD+PHWC+lQEwf24BMH+OAXDy7rwq3tf74wFvcBPhfd/GA14+B7yLEOElEOElEOHlEgA7ICKACBGiQIR4g3x+VQNREyFCFIgQIUIUiBAhQpRfEHv/x6UmCkSIECEKRIgQV8/rYRVETYQIUSBChAhRIEKEWDKvRysQNRFimRw9fskdH7v6AodOF3bUxS0/ziMwo+Ioj17nUhvLVa20O3fYvCBqIkSIT9qZNREiRPkPonubJj4XUXs1EWI2pb8tTRMXTWutQdTEByN6eaOJECFClLMcCPJ/+Rzv/iA8TTwtw9kHoX4qj3HuMGk2lg75AMxyEGM2fzLzAAAAAElFTkSuQmCC",
                 "origin": [
@@ -1317,7 +1286,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEwAAABnCAYAAACq/KTeAAABeElEQVR42u3cURLCIAyEYbL3vzO++uCMYluyCX8uYPhYbKgzjpFcc845CpUcsCqhhVuyIiJI2MIxdE+bnLAqoMkNyx1NjljOaOGK5fowUAUsp7SFO5Rb0lQJyyFp6ragUmC7sDI3RSQrASwDK2uDVDlZGZ8tjuEmMBes3X2IZD0M5oi1syd1Sdau3tTpGO7oUV2wdvWqTlg7etZoWk+hqfP48ET/6j5r3b0OnTCY3rmeOG2Kv/qKW6ddea6uUSfeD6+sNU6/TK8eUZ2M9U9Yjk/YauIAWwQUJN+P7HugAOPyDRhggAFGAQYYYCXunICRMMAAKw3Gqx0SBhhggAFGAQYYYIABRgG2UHPOCRgJAwwwwACjALsLzP0f4dwqBavK7wifwpSaLie4X0+aspus9pUgl92tAmf1lKyAZjdWuKfNdg5zhbMfXN3gmPQBAwwwwACjAAMMMMAAa1orVy/ASBhgy8cGMBIGGGAUYIABBhhggEEAGGBO9QIpUAAvmVpUpgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1357,7 +1325,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEUAAABeCAYAAAB1nNlxAAABQElEQVR42u3cbQ6EIAxFUfvi/rfM/J1EUZAPpb1dAHRO+jRk1G1btFJKadTaWhlkFIxWn5ARMCIyC6NcgfTGkpcJ6Qlj3uJiZuZ2UmZdP5ZBaQHpgSmPE9K6hrxGpmUteQRxEZ9RIE/XtQjTUXubVoS41O4l7yCfj8/bGKUxUqTpKO1B0eJS0otFwaiJkiKC3PVnEUHupsYiY+RgBMixfwFy/B0GRse7j1eQxyieQarj4x2jCiUKRhFKNIwsSlSIUxQw/lDAmHhKBgUUUEChQAEFFFBAAQUUUEABBRRQQAGFAgUUUEABBRRQQAEFFFCc1z5jk9zLAV99DGR/c/MzrC9A2YxGenx/YCTa5QsLo3B6onChBQUUUEABBRRQQKFAAQUUUOagrHaaZVJAAQUUUEABBRRQKFBAKaym/5K9npV+lufUEtPie04AAAAASUVORK5CYII=",
                 "origin": [
@@ -1381,8 +1348,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 37792842,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1405,7 +1372,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAM0AAAAuCAYAAACLbJ1FAAABT0lEQVR42u3ZSW7DMBBFwbSg+1+ZWceOAA1scapaB7Yj8+VLSPxAQ6WUcubnIiJ6+czhayPzsFc9rJ2EIxqaxzBaOKIRxnBahyMah184onHwhSMaB5+uwhGNwy+c1aNx8IWT/l4OGcK5ZuvpP60wwl3G5lIjnBvRWBuEY2kQTkmPxtogHEsDKeH8icbaIBxLA9XD+YrG2iAcSwNVw/k3GmuDcI7FG2VCj+6Ow5b1wjDr4nimgYxorA3W5sbSCAfh3Lg9Ew7C8UwDl8O5HI21YfVwIrtKGNXRQGy1XxBmXx3PNHDRo2isDSuuzeOlEQ6rhVPl9kw4uD0DDtemWjTWhlXCqbo0wmEFkVkkeKaxOKy+MtmH2+IwUgxnznNExJ79QYRDy4OeYX/rFxMPs9y6729eLOE4/DPY377QwhHH8NekxZt+hjPjFzPaHwdxnPcLHB6sVoUPFegAAAAASUVORK5CYII=",
                 "origin": [
@@ -1429,8 +1395,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 65703717,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1453,7 +1419,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAQAAAAA5CAYAAADZcPW3AAABoklEQVR42u3cS24CMRBFURux/y13RplEIQTwp8p1zgIYtLjPLSeiNyC867quGZ/bPVqEVZcBQJQGAARtAEDMBgAxUyD+3rsBEDRF4/cGIDIKx59qAIQHY+NPMwDih7HhpxkA8cP48L/dxA814w89AOKHufGHHQDxw/z4Qw6A+GFN/OEGQPywLv5QAyB+WBt/a0H+DCh+WBt+2DsAYE38IQbA6Q974t8+AOKHffFvHQDxw974tw2A+GF//FsGQPwQI/7lAyB+iBP/0gEQP8SKf9kAiB/ixb9kAMQPMeNvbfK/AosfYoY//Q1A/BA7/mkDIH6IH/+UARA/5Ih/+ACIH/LEP3QAxA+54h82AOKHfPEPGQDxQ874h98BAHni/3gAnP6QN/6PBkD8kDv+twdA/JA//rcGQPxwRvwvD4D44Zz4XxoA8cN5buKHmqf/vwZA/HBm/E8HQPxwbvx/DoD44ez4Hw6A+OH8+H8dAPFDjfif3gEA58bf2o9fBXb6I9xiz0H8CK74AIhfcNR09wiEiAEQKFT8/kd+/RcnBL4DECjk9gWmJtBhK9teSgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1485,8 +1450,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 64935766,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1501,7 +1466,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAPcAAAAuCAYAAAD0vY+0AAABW0lEQVR42u3aS5KCQBBF0Syj979letQDI6RVqE9WxrkLYIAcHqItJC3tOI5jxHGbUyutRTgEdmsNbsFYrD/XcAuegrBL4XahCeznJ/EGtVQP9ta4oZbOYW+JG2rpPeytcEMtfQ47IuIBtlQPdvrlhlq6Bjv1coMtXYedFjfY0j3YKXGDLd2HnQ432FIf2BFJXqhBLfWFnWK5wZb6w16OG2xpDOyluMGWxsFe8p0bamks6iXLDbY0B/ZU3GBL82BPww22NBf2FNxgS/NhD8cNtrQG9lDcYEvrYA/DDba0FnZE59+5oZZywO663GBLeWB3ww22lAt2F9xgS/lg38YNtpQT9i3cYEt5YV/GDbaUvwfYUr3V/ho32NIesL/CDba0D+yPcYMt7QU74s3fT6GW9oT973KDLe0L+xQ32NLesF/iBlsqcvMBW1a2OG6wBU2xzwZqaFSzHxeXVLNfZGq0RhflO5wAAAAASUVORK5CYII=",
                 "origin": [
@@ -1541,7 +1505,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEMAAAAtCAYAAAD1NNZZAAABFUlEQVR42u3YURICIQwDUJr73xl/9GfHdbTQJi1yAGd5pkA7hsCac06F74AKhAII/okQwHgHwcaBWiKYIDi9NGgY30KwwKCaCAYIlEsjGwQnnxHpGGZmVTBTyqQKiGVHcWVjq6hy74yVDUUnhPICjf6Hy/UmXpDIdFC7VjUQmbh6Nri73KCC4dnY7oTIYCiASGGwr1w5DOah2iIZrcuElQ7ZZDBAWpaJFwQKcwSVpg53P6TaTEWCQB0iczCEConIAkGV0sj4NlQ6I6IPVFQ7LCNByt4YEYPl0tfn6lvoinLcW+ITSnmM1vMM1rVrZtamUbPnOj4Zu1LSsoX3grQd+3nKpv0M9BcQG4etu2u4w/xmC84L6AFh0cgg77tc/gAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1581,7 +1544,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAADMAAAAtCAYAAAADfVPBAAAA60lEQVR42t3XwQ6DMAwDUBrt/3+5O3WathZIcRInOUI5PNlBcBzJpvfeV/ckI2QFkgqJpMLMILNrUiGRlDtzBZUqqVBj7kK+z0mFRGgxO5DxjFRIZEyrgKCpGQrSWmtSBRKaDBoSsjMoxC/EPRlLiCvGGuJSMyTiDGKejCfEFOMNMcNEQOA7g0ZoINBkoiEwDAMEUrOo/YAnwwR5hGGDbNfM49PEJRlWiCoZxlptYZjTUNUsC+QSkwlyWjOLf3TrkSqQv2Sy1WqKyY741KwKBFqzaMjybaZBMSDGvDIn8RjDiFBhmAG3MVkQY954p7Qk00Ot1AAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1613,8 +1575,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 41794604,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1629,7 +1591,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAKMAAAAwCAYAAAB9nsptAAAA/0lEQVR42u3bQY4CMQwFUbvF/a8cVizoFVIb8Um/OgGTlMoxYnqtteoi3d0FXPWoqmpCSPJiRMZfCHkncVPPNu2e26EhRcbD+EQKhyNArIzqCGUEGXfdYKGMwLyMrzqqJCLKSEgY0yDjJ5UEIspISESNaUIi6s1ISFhgQEZ1RHwZCYmoMU1IRL0ZCQkLDLZitGj+hwYxZTSuETWmCQlvRpBRHRFfRkIiakwTElFvRkLCAgMyqiPiy0hIRI1pQiLqzUhIWGBARnVEfBkJiagxTUi8+ZDyQfwwFzELjErCNg0yqiPOd6+MUEZ1xPnOH47i/y5t27/vLhf5ja+OVHyWJ/gdINyGnGw+AAAAAElFTkSuQmCC",
                 "origin": [
@@ -1669,7 +1630,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAADUAAABCCAYAAAD3wZ4JAAABLElEQVR42u3a3Q6DMAgFYCB7/1furpo455xWfg4ELq1GvxwNbSNRwhpjjLNxyQo6g0nmhH7BJPsrd3RcKnxD+3GhgiXZUzo6TyqA0iS1AprXSKWEZnE1EFxSGiBmZqkEKtmnmJlhUJopQaC0QDOlcJR2QuEoTdA2pTCUVUJhKG3QPiV3lAfIFeUFckN5glxQ3iBzVATIdOlh2YdCkooEmaCiQeooBJAqCgWkhkICqaDQQI9RiKBHKFTQMgoZtIRCB91GZQBdnvtFTUxNUNkwpyiLjREv0BfKapfHE0RExNbbVd4g85VvBIiISKxuHAX6+KYsNurDUU9hCJhZrwrJ/O1TV9NCxCw3X2TM7dcvA+bSJNa6MbuDMj9//xrXqEY1qlGNalSjGtWoRqHVG18Z1DSkyNvBAAAAAElFTkSuQmCC",
                 "origin": [
@@ -1709,7 +1669,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAADQAAAA4CAYAAACyutuQAAABMElEQVR42t3aSwLCIAwE0Gbuf2fc6LICIZ8ZWGv15Qe1Ps9kjTHGI7Sw8iIlFFYhKijcUmp/QW8YBSR238COMu+XNTOjBXmjzoiCavO/gk6izBgMnJYOGwoRF2FCIarBWVBQGMVHJafeT4i+YDcKGRtmJwpZp4AuFDKPNh0oZH9ANWoKUhvlSxlSKr3lklNBobIcKlBboIh+ykZtZ4gd5So5ZpS7h1hRpUOBfsoxZuk4Q2yokJJjQoX1EAsq/OAZFWlvgGinnDcw4aDI2w0PKiVDnfdQaSXXhUrtoY7JJ3H02UGlg6JKbxVVkqFKlLGWjjdIpT1UsUeVD4VslPwN3viuVlDGpvtDWXd0r/pNISNTxtQLV4GiYHRT7rQMqZ/9eLIl8TBr629vihvpVaAZ8gNvfNAc081RXQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1733,8 +1692,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 32083263,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1757,7 +1716,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAN4AAAA0CAYAAADluIZTAAABUUlEQVR42u3aQWrDQBREwR7h+19Z2QSTVbAh6S9r6q0NMmKKlrBXpI07z/OcuO5y6wUCeALh/ujWWg+3AQRZPAdNt1+7JDmgkywecLr92l1y8aDT3dFdDh502gHdpeBBp13QJckDOKnfAZ3UXbtReNBpV3Rj8KDTzuiS8u94wAm68uJBJ+jK8KATdMVHTeAEXXnxoBN0ZXjQCboyPOik4jsecLJ25cWDTtCV4UEn6MrwoBN0xXc84ARdefGgE3RleNAJuuKjJnCCrggPOEFXhAecoPvnawAnddE94QEn9dAlyQGd1EWXJEf7gtLu6JLv3/HgE3QD8OATdEPwJOiG4Fk9QTe0ePAJuqFHTfikoXc8+GTtBuDBJw3Bg08aggefNARP8n73x9/nnQ/7Q7U+CcfP8/rR8OBzqDUEDz4HWkPwWvgcaukXgBZQGsLnLkiv9wUytqh7YJIL+QAAAABJRU5ErkJggg==",
                 "origin": [
@@ -1797,7 +1755,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEMAAAA8CAYAAAA9vgdnAAAA/0lEQVR42u3YQRLDIAxDUazp/a9MN923ITWWyfcFEC82QxijoOaccxiWqiAcQURHFHaGM46qN+4EIsZjI8YvEC5YcvkqDiBiPDZgrEBU48mtIypBNKg8jH982arukBtEJYicw+8GkXvonSDqEHYXiLrNtSXGbogd66lTR2Svq26jkbm+Op4RWTnUDSIzjzpCZOVSV4iMfHHSPSIiIqUzOl6o7mbWaTfLO9l14hV7dQ/HvnStgOjkH6+r+zn+DXR+CoyLXfKo1/FvIHHqebFyUYunIjx+TMAAAwwwwAADDDDAAAMMX4y7z+t0BhhggAEGBQYYYIABxmq9XII4/Ba8AQ1M46LM6oCAAAAAAElFTkSuQmCC",
                 "origin": [
@@ -1837,7 +1794,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAADoAAAB9CAYAAADz5nD8AAABX0lEQVR42u3Yyw6DIBBGYTC+/yvTTenG1HBn/uGwM6aLL2esQghOV/qufH17w/27d3sH5nWdgJSHliJlR7cGKFu0BSlVtBUoVbQXab7oCKD5oiORZqGjkeZGdwbQXNGZSBNFZwNNFF2F3ApdidwyuquBW4ruQi4ruhO4rKgF5NSiVoBTi1pDToFaRA4dXavAoUWtI7uLKgC7iyohm4qqAZuKqiKroMrIotFVBxYV9YDMhst7ydei3pCPZ9Qj8FHUM/IH9Y4MIYTrBOS0jTdQoECBAgUK1Bk0xhgpChQoUKBAgQIFChQoUKBAgQIFWgw94TiF0QUKFChQoECBAgUKFChQoEBXQL2fMjC6QIECBQoUKNDXlVJKsfWHathotcAR0Blg08/oyI2G+T+jUViprVnPKEu9Xnrqyr1HW7HSpwo1o8wnIFCgQIECBQoUqAtozXcvRYECBQoUKFCgQPP6AJjUvHYEBszTAAAAAElFTkSuQmCC",
                 "origin": [
@@ -1861,8 +1817,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 17625534,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1885,7 +1841,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAL4AAABfCAYAAABWbH26AAAB+ElEQVR42u3bwU7DMBAGYRbl/V/ZXBASQtBC4rD2/825h3Y9Ga2rtl6AE4wxxqPXVFV1e9/l6Ih7i2jN5D8cfZaA+EfxHTKWWnUIi13WnYPQSOSV9IgU3whAfGAinbYL4kPxgZTqEx+Zxe/4OwqovuKD/MQHiA/VJz7wa/FdcJFWfcVHpPzEh8stkFJ94iNS/g/xXXBh1QE2rz7xESk/8WHVAVKq/0l8F1woPrBx9YmPSPmJD6sOkFL9L+K74CJBfsWHVQdIqT7xESk/8WHVccFFSvUVH4oPpFSf+IiUn/iw6rjgIqX6io9I+YkPqw6QUn3iQ/FdcJFSfcVHpPzEh1UHSKk+8REp/0PxXXBh1QE2qT7xofhASvWJj0j5nxLfBRdWHWCD6hMfkfITH1Ydez5Sqq/4iKT++sQAp+U7uUWccfEw/l6HKTT3zLocRm/xZ+246bM6dv2gHs7vz8BsNr7c+hbKbC4Xf5XBOWCziSu+AzabKeKvNLR6h+rkjym+QzaXy8VfcWDkN5e44pMfl4m/qkTkJz4QFx7iQ/GtDSA+ogKQ9vsd4kPxZ9bOOgTFB3YSX9Wh+ADx++FfSMS/FOsOVnDEqgPFV30QH+47xFd9EB8gvupjRScUH4qv+j7nzPl0mtEtb2SMMVYU45lvO9KF/2lGnWfzBsio2NeXE5+ZAAAAAElFTkSuQmCC",
                 "origin": [
@@ -1925,7 +1880,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAFkAAABSCAYAAAA/zHhsAAABNElEQVR42u3bsQ6CQBBFUZfw/7+MlYkFRhqGnbdnKjvx5DosMY5XozmO4+hyrWOM8Xm9d7rwrrN9i5ubkBEUIau5qGTQ1kUOspqLSgZtXbR8cNr+Pa0YJfdGVnNRyaCtixxkNReVDNq6yEFWc1HJoK2LHGQ1F5UM2rrIQVazknOQ1VxUMujf8/l1xLrospPVXHTjA+10kYOs5qKSQVsXOchqVnIOspqLSgZtXeQgq1nJOcir11xW8srQ1kVFYNVvuOJ/uZWciLzibn6k5NWgrYtk5JVqVnI68io1T/chE8/RbUqaEf/sm3h2ne2/rk/iX113UTuxGvwqctTpYtYbadwRbkboyHPybNAeRiBDNpAhQ3bCgKxkAxkyZAMZMmQDGbJZHnmWR2slQ4ZsIM8zO4L7b5ZvaAcpH2dSiskAAAAASUVORK5CYII=",
                 "origin": [
@@ -1965,7 +1919,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAACYAAAAuCAYAAABEbmvDAAAA5ElEQVR42tWXwQ7EIAhExez//7K9NU22VUAYRu4mjwcitraIMcZoBdEbaXSNrQprZxqjBKtq+inYGxQa9Mdk6dWYBgoJ3tlM3WBWKFQSXUTEeggBxz3HGK3dxtjgzniSmKz9GWOBO2u7YLD2aawa7swNttLa0pgHDlZKK1yENXWPoeFMzY8sa+qt3LFmBkOVVJA2LEm5S5k947Z6LBNOKpt8lljIrfSOkVlCYeMiGi50jkXCpU3y3b5Lm/y79tLfPq+59A3Waw6yWnvgYDu/Fa5kbdb0XckvSWOv7Pu2gpNGFM8SX1AWkDMRCE6lAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2005,7 +1958,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAKEAAAAyCAYAAAA0o7tbAAABGElEQVR42u3bQQ6DIBBAUWi8/5WnK9dVCplR3ls3jegPUhp6g4kiIq5+tvfeW2vtcNtEk30NIhRMumN0YOdUyl7BrNCfcsNWRy+avGfaPQSyI/y4FWT7WONRJkIhUiJCIVIiQiFSIsIzRDGSGqFZkdXObcFLWzRCJHUm9HqmTIRmRcpEKERKRChESkRonUiJCM2KlIkQRIgIQYSIEP7hyOckd3cInOkR4fSoRr9/RYxZW2ajYxFhkdhnxJi9Xzs6FmvCQjG+ZdP/7lhEuNkyoOJYRFjwh8Nu/8mL0CtahCBCRAgiRITsLSJChJgJmTurVLumK1tMIsRMWJXDWyJEhCBCRAgiRIQgQjbioBPL/dpzFeELHuLTfQHJzETWoOmkIAAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2029,8 +1981,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 17367420,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2053,7 +2005,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAQsAAAA8CAYAAABxXZ/zAAABuElEQVR42u3au1rDMAyAUTlf3/+Vw8DEgps2F0k+Z2agbvUjh44Alrfv+z77meGYIM9AZiYWGEDmoRhjvByDAQKbhUGDU7aK9LEwuJAjFKliIQyQNxRpYiEUkDcSKWIhElAjFBERm1AAs1A8FguhgFqheCQWQgH1QhFx8zMLoYB6kbg1FiIBtUNxyzVEKKB+KC6PhVBAj1BcGguhgD6hiLjgmYVIQL9QnB4LoYB+kTj9GiIU0DcUp8VCKKB3KL6+hogE9I/E15uFUMA6ofg4FkIBa4Xio1gIBawXioiDzyyEAtaLxKFYiASsHYq3riFCAUIx3SyEAkRiulkIBQjFv5uFSIBQTDcLoQChmG4WQgEiMd0shAKEYhoLoQChOHQNuZNAQZ1I/LmGAEKRLha2CqgXisc2i0oHBObg18tbBiKRcrOwVSAUNW0ODXzmXUNAJOpvFrYLhEIsgIZ/DFO8GN+9QCTEQjAQCdcQYJVQpNosbBeIhFgIBiLRgO9ZgEi8ZfNmgM9myViAUCQ9g6y/mGcXiITNAoTCZmG7QAC68t8QDDf1NwvbhcFGLETGYCMWa7o6Toabp/0Apva4p+PC0QIAAAAASUVORK5CYII=",
                 "origin": [
@@ -2093,7 +2044,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEIAAABwCAYAAACq5qZOAAABrElEQVR42u3bWW7DMAxFUcrw/resfjQFmkCtbU2cLheQGAePlJRYIsmr1lpFRA4QvusAITHEJ0JKiBaCiMiZHSBVIq4QUkDcQQgPcRchNMQThLAQTxFCQvQghFo+ewFCJWIUIQTEDATXrTELwHUiZiO4hFiB4A5iFYKbGbESwE0idiCYh9iFYLY1dgKYTYQGgjkILQRTEJoIJmaENoCJRFhBUIWwhKDSGtYAVBJhFWErhGWEbRDWEZbPCA8AyxPhCWEZhDeE6a3hEWB6IjwjTIPwjjDcGhEAhiAiAXS3RkSER4mICnAbIjrAJUQWgH9nRDaEJkRGhLfWyArwlojsCCIiBwgLj+FAAAEEEEAAAQQQQAABROqqtVYgSAQQQAABBBBAAAEEEHMhSikFBhIBxGcNv2d5t7Ws/7VYrh5y1QxJf3HlL+D0l9taMBooJm8Ca6TFxaqxY6/D8gkEEEB0Q2Q6kJEIIBxsqDT2HwcIgSF6hvyZHSBcIkaX+gMEZxCrN3fn7y/5Ofdn/In/zLqlZmcJBBBAAAEEEEAAAQQQQADROIrz8luj6qtmfNYX+L3was0jsSMAAAAASUVORK5CYII=",
                 "origin": [
@@ -2133,7 +2083,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAC0AAABUCAYAAAAWN76TAAAA6ElEQVR42u3Xyw6DMAxEUWzx/788XRVFFUkxecnS9a4qpCeDodiOzpKk8rOZWev72nGROnuAIzf7ZDOSZGbmR5L6blKSfNbib6qW8u+a579LsRr+ZC2/O2jkj87YrLdO2oEvQ6verLtwPeXZwLc9DXoWuufvlKSj6Gxp574RM6Wd/5GXJW0fOVHQHo13bh89v80Gp0q6DNKjo89u8PU+vXJ8GjEzhtJciW9d6e2D65vW9BmL8pwGnRG9s69pD9CgQYMGDRo0aNCgQYMGDRo0aNCgQYMGDRo0aNCgQYMGDRo0aNCgQYMO1gfd/2ScBsM8oAAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2173,7 +2122,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAE8AAAAvCAYAAACiwJfcAAAAwUlEQVR42u3byw6AIAxEUYfw/79ct4YEnwiU3tm5k2OBQqI2citmZsdnScqw1IGuksF5nwxQMLyeQO7wZsHpgudlsM3xog68RRIE4IEHHngEPPDAA48UeJIEw0IXA2VqH3j00TLPDsSatyDcFHie19wEnEM873BmZvR53ipvld5SZ2U5O9zoPk89X7x1xbnFezqwP6bqsni9drzwJwx2W/CctQqDWx4qDzzwwAOPgAceeOAR8MADD7zACf/j3pebmR2kD0RiHAwQvgAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2213,7 +2161,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAADkAAABTCAYAAAAld6+5AAABGklEQVR42u3aQRaDIAxF0ST73zOddKgeq0CS38cCKjcfMLQ12zTGGMOSRqgDtyGzsaGe4vYkJZFHKWYkS5Ld9+JSZCVg2nLdXYRQTzH14NlZjFBPMf0VsqsooZ7iNOQb4I7ilOh4VkNDeZmW611XFisqTWwVlFtIRtVXfG5U2z9/s1xnFzGqpjjzOaUPnlnQqL4XZzyzxSvkLdS7naju7pJJvi12dErx6XyiG/DJvFr3rneh0b19uzNHiVvI+I6fkd2a8Ks5y90nj6CukuJV4+BK98YzKF9/gAQJEiRIkCBBggQJEiRIkCcXf5IECbIR8slvgSQJEiRIkCBBggQJEiTIy0sGSYIECRLk7JOVJKUSVfmz4NlSNTP7ALdQw/lJTmTxAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2237,8 +2184,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 55735780,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2261,7 +2208,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAGcAAAA6CAYAAACtUUfQAAAA60lEQVR42u3ZsQ6DMBBEwXPE//+yU6WjIJYxC8yWKW/0rERpZZev9973Pm9Os/7oRwfngqPDCT88nNCjH4JprW2OHgzk6JnVVFVtIIKRZhzmJw1mXjXTcGw+TFXVx0lyBye0GjjKsdEvVHBCYeB41mz09yEc5di/1cBRjo1UAycYBo5nzUaqgaMcG6kGjnJs9G98OKEwcDxrqoGjHFtVDRzlqAbOw2DgeNZUA0c5tqoaOMpRDRzl2Kpq4ATDwPGsqQaOcmxVNXCUo5rRbc6dgwEnDABOMMBrcO4I8CicpwHcDudNAKfjOOY5+wK2Vyzff8XGowAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2301,7 +2247,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAxCAYAAAC78KvKAAAA6ElEQVR42s2YwRaFIAhEGf7/n23TpvdKUWFG9p0ulxE7mb1Ua60ZqVz58lcANogru+8aYAG5svuhAQaYK7sPGagGdGX3YQOVFtzE5QCgtDBtIBtCP4KVhzItuJnZTA6OOQVZFrYykAFxTghXc7Br4WFAEcaUEexY+ANgj+LMTci08GmABXH2ZcSwMDRQvRvKRhC1EAKoHEV5CEcQYYCdLPQgpgxUQEyPIBtiKQOZEGActV4jYJ33Twj24inbA6s2UxfRCkT6JpyFKFnFUQgAKLsLohCllxHukn+S9SBo34S/EMpfAo+ldQH4dYRAua550QAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2325,8 +2270,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 65550391,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2349,7 +2294,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAN4AAAAtCAYAAADBYdUAAAABKklEQVR42u3cYY6CMBSF0VvD/reMvzXEELV90J6zAJOhfL4XmJkW4NC+73uvz24uL0IYq7XWhMfyIYyOzsQTCIODW3LVPHsDXmkTEM1cwR2G937Id15F3bBcMbhT4QH/jy5JHi4TjI0uSTaXCsYFZ+JBUXQmHgwOzsSDouhMPBgcnIkHRdEJDwqiSw5+ZcxLdOgXnIkHRdElHq7A0OBMPCiKTnhQEJ1VE1Lz528mHqIrYOIhuAImHqIz8WDu4Ew8RCc8WCe6xD87QnAmHqwQXeLhCoIz8WCF6Ew8BGfiwRrRvYTniSais2pe+jB9SQlOeBMeCvOf79br21sAuKc+/CyO8zvWTdFZNRHczXidgOiEB2s8IxCeGwPhgfCAXhuTS/CbO71WsB5fxxMWT0DmxAHQBQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2389,7 +2333,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAABgAAABVCAYAAABTsSRKAAAAlklEQVR42u3Z0QqAIAyFYRe+/yvXTYMUQcUzI/p3GXE+NtSoUhLVeVd9Pa+G9u7JEaFTwGzgELAa2gSUoQUQFex1pOCSA/VEvtcBwDxgZsaItgPPzcaIxoDIpbpvRFFdFB1EIPtXkbqLZgdK5L2NpuqCswjgz4A/lxkRAAAAAAAAAAAAAIC/IzAiAAAAAEUtf7rs/c29ACU7NJzvYEkMAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2429,7 +2372,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAB8AAABUCAYAAAB6MeyWAAAAhElEQVR42u3XSwrEIBQEQNv739lZZZORGQjyhFi9D6WNn5gxxmi3JEkrSGb4348WDe4Rviq9bQx8D161rdQOh5+HJ0mvvL/VfjVttZdXftbM71v6jJnPDrK+C35/7b/uDSccHF6L7/iPUzscDofD4XA4HA6Hw+HfePUbXe1wOBwOhy/JB9dUDM6xOfoVAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2469,7 +2411,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAADkAAAAsCAYAAADfAxCtAAAAeUlEQVR42u3ZOxKAIAwFQJ7j/a+Mlb0/QHRfTbMTZpJAaq21TJAkOXN+dyXJWibJnWIs5QeBhISEhGzRelQSEhKyey4N6Gc3gp7D+GPIt61VriskJCTkEGTrnqeSkJCQkKO2BJWEhISEhISEhISEhPxWDv+FzPzgtQGAohhgJAIjugAAAABJRU5ErkJggg==",
                 "origin": [
@@ -2509,7 +2450,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAD4AAABKCAYAAADjcueTAAABN0lEQVR42u3YURLDIAgEUNn739l+tdPpJE2iCAjrARKeC45Jaw6r996b84IX2huPakmbw4/QnhsB76S98IjQ3h54VJlpM/hTtPUmIVLSlnhEa28rPKrM9DK4JtpiAxG10NV4RC5w5bNRZabV4FboVe/BDkmveB92aW/t96LKTA/DI6A1a0C1pG/Do6G16kG1pC/hkdEataFa0qfwXdCzdUqGpEVEhhPfub1HakeWmX5qkIwH2Z3WR0u47oSZEv7G/9uAtPCr9NPDz/Al4EetXwb+m345+CfxketeiR8RhBNO+N73+Qp/W3iqfyc++0GfYsYrpS8z37Qp4Zb4q05bUcdla1vgV43Yv9pF4yER0WoXmGwHH56mk2UDeFcnnHDCCSeccMIJJ5xwwgknnHDCCSeccMIJn1kvONEDwpMeyy0AAAAASUVORK5CYII=",
                 "origin": [
@@ -2549,7 +2489,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAACMAAAAwCAYAAACbm8NsAAAA80lEQVR42t2YURLDIAhEYe9/Z/vXaZsYUWBh6gEyz7egGBHDGmMMISxYQRhA6GBkCXMHkg2HDkamMCuQTFB0MHKB2QHJgkYHI+ZzhmkHno9GA0EaLTdMpB2oqv6NmUg7EBHpYudtxgsUYecrpmpDoa3ttXOBqYzr1kxVXNOYPECndtKugxOgRxh2/SzNMOvHFBOrfigjhBXIDMOIa8tMdlzbMWUC0cfOJ6AjmKz6KRnIZ3bKB6pPy+VPlc8NIWpXEUCtHnGa3a70boqKS1ltW3LOeCylFPApkDLPkfLrYMcS9X3UaoRYWaKfwDOg8t8yv7G9AFoAmByMpuZPAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2581,8 +2520,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Roof type",
+                    "name": "* Roof Style",
+                    "value": "Crosshatched (Tile)",
                     "id": 20494470,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2597,7 +2536,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAF8AAAAwCAYAAAB37qZ6AAAA2ElEQVR42u3cQQ7DIAxEUYb735keoYla9G35z54FL5YlgkWW+TnnnPN2TZJk2qYrJd030DlbAvHFN+KPSJKID8Fb+SC8+CC8+CC8+CC8+CC8+CC8+B6yZla9+Fa++ObPLefJPYn4QK8X/zL8k+oX/2LFf/sA4l9uNZ5wi/R48YvAr7XW7j670xXeygfhxQfhxQfhxQfhxQfhxQfhxQfhxQfhxQfhxQfhxQfhxQfhxQfhxQfhx+PTv9O38OKPgx+JX+nmbgsv/jj4MfhVhwRaTS68faSj+mTGB9IrHPGqoihpAAAAAElFTkSuQmCC",
                 "origin": [
@@ -2621,8 +2559,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 24768205,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2677,7 +2615,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "9",
                     "id": 48783950,
                     "lablerLogin": "edtriplett",
@@ -2685,7 +2623,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 21149630,
                     "lablerLogin": "edtriplett",
@@ -2717,8 +2655,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 40590168,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2781,7 +2719,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "4",
                     "id": 68237266,
                     "lablerLogin": "edtriplett",
@@ -2789,7 +2727,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 75581680,
                     "lablerLogin": "edtriplett",
@@ -2821,8 +2759,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 29834390,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2909,8 +2847,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 38265948,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2997,8 +2935,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 97229628,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3085,8 +3023,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 82357096,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3173,8 +3111,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 60858242,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3261,8 +3199,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 29498073,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3349,8 +3287,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 88524320,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3437,8 +3375,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 23035535,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3461,8 +3399,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Wall Features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Wall Features",
                     "id": 98899730,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3533,8 +3471,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 32150090,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3621,8 +3559,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 32788004,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3709,8 +3647,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 45679961,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3749,7 +3687,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 74853787,
                     "lablerLogin": "edtriplett",
@@ -3757,8 +3695,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 50908297,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3789,8 +3727,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 50667500,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3829,15 +3767,15 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 59675497,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "4",
                     "id": 26207020,
                     "lablerLogin": "edtriplett",
@@ -3869,8 +3807,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 48473714,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3909,7 +3847,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "4",
                     "id": 73392810,
                     "lablerLogin": "edtriplett",
@@ -3917,8 +3855,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 70223583,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3949,8 +3887,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 21056420,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3989,7 +3927,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 27341316,
                     "lablerLogin": "edtriplett",
@@ -3997,8 +3935,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 17828396,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4029,8 +3967,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 43906937,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4093,7 +4031,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "12",
                     "id": 13959767,
                     "lablerLogin": "edtriplett",
@@ -4101,7 +4039,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 94543200,
                     "lablerLogin": "edtriplett",
@@ -4133,8 +4071,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 82355165,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4197,7 +4135,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "9",
                     "id": 98852910,
                     "lablerLogin": "edtriplett",
@@ -4205,7 +4143,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 17866220,
                     "lablerLogin": "edtriplett",
@@ -4236,9 +4174,8 @@
             "createdAt": "2020-06-02T17:02:42.352Z",
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
-                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT"
+                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT."
             ],
-            "classTitle": "path (will be sketchy)",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -4253,9 +4190,8 @@
             "createdAt": "2020-06-02T17:02:42.352Z",
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
-                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT"
+                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT."
             ],
-            "classTitle": "path (will be sketchy)",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAEsAAAB7CAYAAAA8NH1HAAAB/ElEQVR42u2ZQZLDMAgEIyr//7Lzg1TJAjFA675eu9Uzxsr6OK3neZ7Ta6y11kd4fT0ecsoyEAArBpZ6T2AWsIDFAtYBLIWSr/CiwSxgAQtYwOoOi88ezAIWsIDVGBYlX8SsCr8FEENgAUsPFiWPWcAaDUt9fMCsU1iUPGYBC1jAagwrq+SVxwfMAhawgAWsibD47Clglur4QAyBBSx9WJR8AbMUS54YAisRFsc1mBUHi7diAbOUorgFa7pddFYkrAy7VKKIWcASgjU1iph1A9bEMaKUWdlRPII1za5ynZVpFwV/E9akMaKsWRnAXGBNOUmlszJgTbCrhVm3gLnCyhxSbwCjs6bCirbLHVb292IksJYxjAIWAqvraUTbgo+wKwyWgl3ewNqPDp7AQmF1664RQ6mXXeGwVOzyADbqc+cU2BVYXbrrmlkd4jjy1OEtsKuwlOL4Bth1syr31+jDv127UmBVjWOaWRWBcQZfpbOq2ZVuViVgxHADWOkh8bb1pnpjihtIDDeAmbL2asCW+m4yZxVca61lqjemeD+mvJNq92Hq6jNnFeko2Qle5e34z2arussZ/4cYbmyIdXqY6Gtbt92PvKYRvcafO152vbmOTTDC6++N6A2A9eahT420KZZ4dN2X2A3qrH8wvOcy62pPxABrRG/oij7K+QFwe7FdxlJd5AAAAABJRU5ErkJggg==",
                 "origin": [
@@ -4270,9 +4206,8 @@
             "createdAt": "2020-06-02T17:02:42.352Z",
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
-                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT"
+                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT."
             ],
-            "classTitle": "path (will be sketchy)",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -4287,9 +4222,8 @@
             "createdAt": "2020-06-02T17:02:42.352Z",
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
-                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT"
+                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT."
             ],
-            "classTitle": "path (will be sketchy)",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAGQAAAAoCAYAAAAIeF9DAAABCUlEQVR42u3ZyxLCIBBE0cHi/39ZN9EqFZTIyDRwZ58s+lSHR8wYt7ke0/OORIx+GG/hpnQ63wtRajWGhvypHcWwGxpDQ8QaQ0MGtaO1MTRErDE0JKgdtcbQEDFgQETawRoiOqwhIs0ARAwCECEEQAQh7tveTPyxCDREFeK4RklA6GCYmWUQOIcAUWnH0iBTtKFw/Z6B4JNF8Fb/nZsIXAcjBGTloHsgXEF2DtkL4isIIY+FeDxD8BoQTw0BJR6i+MkCJg6iuoaAEgPxcVEHZTxE07YXmHEQzeeQ3VFGIJw+GO6EMhqg66S+Kkw0ws8gq6AoAXSDzIiiDOACMgPMTAhuIEooswK8zg3nN6v32jbLKQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -4304,9 +4238,8 @@
             "createdAt": "2020-06-02T17:02:42.352Z",
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
-                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT"
+                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT."
             ],
-            "classTitle": "path (will be sketchy)",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAMoAAACOCAYAAABwrJfSAAADZElEQVR42u3dy1IbQQxAUQ///8/DBqooKOz2TD+k1rmr7JxkdKxuB8jx6NR5nuf3r4/jOB7SRh0joPx5EXAEShsWeATKBSjwCJRevzlwBAo8KgplFhZwBAo0CtjHLkgivL5ASRMsCnv0ijicjmGyUWwWgQKLQIFFoEig2CoCBRYJFFgEigSKrSJQYBEosAgUCRRbRQIFFoECi0CRQLFVBAosAgUWgSIJFFtFoMAiUGBRNig7/wwtWGSjwCJQYBEosAgUWAQKLAIFFoEiWEARLAIFFq2HYlD8HYAiWAQKLAIFFlWGkuGrlWEBBRZYQMk0DLDIRmnEAYtAccHXDlBmP/z/tkeWb0WGJW9HlgfegiHLIO78MwZslOBIbBaFgRIZiTuLQkDJgiQTLFg2g5Jtk8CiqZf5VQ+x16BnG0KX/IQbxTud7aIXUHb5spSM79CwJIGy29duwaKud5TVD2f0QGccPneWYBtldyQ2i25DqYAEFt2GsnJ4Vrw2LLp1R1nxQFYObebhc3dZdEf5+QCqPITMf04bZjGUapdrWHQLSqXtAotuQal0HoZFt6FU2S6w6Ol8rHowkQcz6+D5NCwYlLvD5EcMAbPl0aviccxRTF2gVHj3yvxmAEuQo9fVh2PwbMbyUF4NVfaHBgsow4dqp4fle1tAGTJUOz4k2wUUwaJf+Wn2BQfOJ2I2iuGzWWwUQwe3jWKzNAOc8RoCJSyYdwe2JxhYQAmP5eqQjjg6AQNKSDB3BxMWUIBZeCGHBZTQaN4Z0NGfWsECSmgwzwbUfw8ICjBPBrP12OYoNib/4BjlHeviN4nNGuDzK1AUBkzWDyRAURpAM6BVxAKKHMVAke3SaaN71Ia3yv3KRpHtAorcXUCR7QKKYNkFDCiyXUARLKDIUQwUXc/Xiw34OzVWjjxQ2yi2i+1io2ivgYyM2kaxWWC2UWS72CiyXWwU2SyRYNsoNgvQoAgWRy85itkosl0igbZRlHazzMRtoyjtZpmJ2kbRFptlNHBQ5CgGimwXdxS5t0yDDYpgcfSSY1gf5KDIvQUUwdIHjDuKSt1bruIGRbCAIlj6YHFHkUt+A3IbReW3SwtsUARLAxZQBEsDFlAEi8u8XPL74LZRZLs0gAZFsDRgAUWwNGBxR5G7TQNsUARgQ581kbSBg0Yp1gAAAABJRU5ErkJggg==",
                 "origin": [
@@ -4321,9 +4254,8 @@
             "createdAt": "2020-06-02T17:02:42.352Z",
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
-                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT"
+                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT."
             ],
-            "classTitle": "path (will be sketchy)",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -4338,9 +4270,8 @@
             "createdAt": "2020-06-02T17:02:42.352Z",
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
-                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT"
+                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT."
             ],
-            "classTitle": "path (will be sketchy)",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAakAAADvCAYAAABIWiueAAAFgElEQVR42u3dUU4CQRRE0W7D/resP5r4oYGGYabe63MWoDIOuSkbYQwAWPD57Yzv9eFyA5AaK5ECIDZWIgVAbKxECoDYWIkUALGxEikAYmMlUgDExmq6bACshOaorzXnvNsgSwqA2GUlUgDExkqkAIiNlUgBEBsrkQIgNlYiBUAskQJApABgxZxzihQADznrgw4tKQBKECkARAoAHvXzvn4iBcBdV5xHiRQA0UQKAJECAJEC4FBnn0f9/jBEkQLAkgIAkQJApADo78rzKJECwJICAJECQKQA6O/q8yiRAsCSAgCRAkCkAOjtqs+PEikA4vz1ogmRAiCaSAEgUgDUkHIeJVIAXO6/8yiRAiCaSAEgUgDkS3i/PpECoITpEgBwxSv67q2oMca4+dUACFMqf+4DEKjTPbKiRAoASwoAK2p1RYkUgEBZUgAI1OqKEikALCkArKjVFSVSAAJlSQGwt2dWlEgBWFGWFAD7BurZFSVSAAJlSQGwp1dWlEgBWFGWFAD7BerVFSVSAFhSAFhRIgUgUJYUALx7RYkUgBVlSQGwR6COXFEiBSBQlhQA/R29okQKwIqypADoHah3rCiRAsCSAsCKEikAgbKkABCod68okQLAkgLAihIpAIFqEyiRAhCo2ECJFIBAxQZKpAAEKjZQIgVANJECsKIiV5RIAQhUbKBECkCgYgMlUgACFRsokQIQqNhAiRSAQMUGSqQABCo2UCIFIFCxgRIpAKKJFIAVFbmiRApAoGIDJVIAAjWTr5tIAQhUrOn2AdgrTlUCZUkBCJQlBSBOAmVJAQhUm0CNMcbNbQXQO06VWVIAGwSq4ooSKQCByv7Z3WYAPeNUPVCWFIBAWVIA4iRQlhSAQLUJlCUF0ChO3QJlSQEIVDT/zAtQPE6dWVIADQLVcUWN4UwKoPx66hooSwoQKIGypADESaAsKQCBEikAgRKoUx6rWxYQJ4GypAAESqAW+WdeQJywpAAEyopaftxuZUCcBMqSAhAogbKkAHESKJECECeBEikAcRIpAHESJ5ECECdxEilAnARKpADESZxEChAncRIpAHESJ5ECxEmcEClAnARKpACsJ3ESKUCcxEmkAMRJnEQKECeBQqQAcRInkQLESZwQKUCcxEmkAHaMk0CJFCBO4oRIAeIkTiIFiJM4IVKAOIlTfx8uASBQWFKAOIkTIgWIkziJFCBO4oRIAeIkUCIFiJM4IVKAOIkTIgXiJE6IFCBO4oRIAeIkUCIFiJM4IVKAOIkTIgUCJU6IFCBOAoVIgTiJEyIFiJM4IVKAOIkTIgXiJE6IFCBO4oRIgTiJEyIFiJNAIVIgTuIEIgXiJE6IFCBOIFIgTuKESAHiJE6IFAiTOIFIgTAJFCIF4iROIFIgTOKESIEwiROIFIiTOCFSIEyugjghUiBM4gQiBeIkUIgUCJM4gUiBMIkTIgXiJE4gUiBM4gQihTiJE4gUCJM4gUghTAgUIgXiJE4gUiBM4gQihTCJE4gUiJM4gUghTOIEIgXCJE4gUogTAgUihTCJE4gUwoQ4gUghTuIEIoUAIU4gUoiPOAEiJUyIE4gUwuSJJk4gUgiTOIFIIUyIE4gU4iRMIFIIE+IEIoUwCRMgUsKEOIFIIUziBIiUGCFMIFIIEOIEIiVACBMgUiKEOIFICRDiBIiUACFMIFIChCgBCc9jEUCYgPglJVaIEhAbKbFCmID4SIkVwgTER0qsECUgPlJihTAB8ZESLEQJKBEpsUKYgPhIiRWiBMRHSqwQJiA+UmIlTADxkRIsUQIoESmxEiaA+EiJlSgBxEdKrEQJID5SYiVGAPGREisxAoiPlGCJEUCJSImVGAHER6pzrAQHoEmkUmIlLAAidWishAWgri8XHl0JNGKacQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -4355,9 +4286,8 @@
             "createdAt": "2020-06-02T17:02:42.352Z",
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
-                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT"
+                "THERE ARE NO CLASSIFICATIONS FOR THIS OBJECT."
             ],
-            "classTitle": "path (will be sketchy)",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -4389,8 +4319,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 68027769,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4453,8 +4383,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 43700770,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4517,8 +4447,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 94679805,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4629,8 +4559,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 48195214,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4693,8 +4623,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 18458064,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4749,8 +4679,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 29198720,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4789,7 +4719,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 67073768,
                     "lablerLogin": "edtriplett",
@@ -4813,8 +4743,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 93313228,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4837,8 +4767,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 74295283,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4901,7 +4831,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "9",
                     "id": 48256368,
                     "lablerLogin": "edtriplett",
@@ -4909,8 +4839,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 76290980,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4941,8 +4871,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 52432003,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4981,7 +4911,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 29901396,
                     "lablerLogin": "edtriplett",
@@ -4989,8 +4919,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 12357450,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5021,8 +4951,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 34939232,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5061,7 +4991,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 39890663,
                     "lablerLogin": "edtriplett",
@@ -5069,8 +4999,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 90255826,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5101,8 +5031,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 17928018,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5165,7 +5095,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "6",
                     "id": 42958334,
                     "lablerLogin": "edtriplett",
@@ -5173,8 +5103,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 65451500,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5205,8 +5135,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 75141550,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5245,7 +5175,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 57570230,
                     "lablerLogin": "edtriplett",
@@ -5253,8 +5183,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 54475186,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5285,8 +5215,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 19194950,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5325,7 +5255,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "4",
                     "id": 60349817,
                     "lablerLogin": "edtriplett",
@@ -5333,8 +5263,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 33604136,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5365,8 +5295,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 39798411,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5405,7 +5335,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 24992629,
                     "lablerLogin": "edtriplett",
@@ -5413,8 +5343,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 71713403,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5445,8 +5375,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 62332156,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5485,7 +5415,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "2",
                     "id": 26470755,
                     "lablerLogin": "edtriplett",
@@ -5493,8 +5423,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 81312774,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5533,15 +5463,15 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 95933865,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Front facade, side facade or underside??",
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
                     "value": "Front facade",
                     "id": 98759956,
                     "lablerLogin": "edtriplett",
@@ -5565,7 +5495,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 76938311,
                     "lablerLogin": "edtriplett",
@@ -5573,8 +5503,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 89272819,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5605,15 +5535,15 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 70849210,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Front facade, side facade or underside??",
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
                     "value": "Side facade",
                     "id": 22478305,
                     "lablerLogin": "edtriplett",
@@ -5645,7 +5575,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "1",
                     "id": 40359792,
                     "lablerLogin": "edtriplett",
@@ -5653,8 +5583,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 73326592,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5685,15 +5615,15 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 89083405,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Front facade, side facade or underside??",
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
                     "value": "Side facade",
                     "id": 59180090,
                     "lablerLogin": "edtriplett",
@@ -5725,7 +5655,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "2",
                     "id": 73231640,
                     "lablerLogin": "edtriplett",
@@ -5733,8 +5663,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 24548078,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5765,15 +5695,15 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 84029442,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Front facade, side facade or underside??",
+                    "name": "* Front Facade, Side Facade, Round, Eave, Top, or Back side?",
                     "value": "Front facade",
                     "id": 78630280,
                     "lablerLogin": "edtriplett",
@@ -5805,7 +5735,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "4",
                     "id": 90883271,
                     "lablerLogin": "edtriplett",
@@ -5813,8 +5743,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 31423585,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5845,8 +5775,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 35832499,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5869,8 +5799,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Keep features (embrasures are pear-shaped, machicolations are projected walls at the top of the keep with crenelations above and corbels below, and arched buttresses are large, blind arches pressed against the wall)",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Keep features (embrasures are pear-shaped, machicolations are projected walls at the top of the keep with crenelations above and corbels below, and arched buttresses are large, blind arches pressed against the wall)",
                     "id": 88308808,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5901,7 +5831,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "5",
                     "id": 12376010,
                     "lablerLogin": "edtriplett",
@@ -5909,8 +5839,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 49943910,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5941,8 +5871,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 61008614,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5965,8 +5895,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Keep features (embrasures are pear-shaped, machicolations are projected walls at the top of the keep with crenelations above and corbels below, and arched buttresses are large, blind arches pressed against the wall)",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Keep features (embrasures are pear-shaped, machicolations are projected walls at the top of the keep with crenelations above and corbels below, and arched buttresses are large, blind arches pressed against the wall)",
                     "id": 17611494,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5997,7 +5927,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "8",
                     "id": 56162824,
                     "lablerLogin": "edtriplett",
@@ -6005,8 +5935,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 14758183,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6053,7 +5983,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "flags",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -6069,8 +5998,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 44761694,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6109,7 +6038,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 70239394,
                     "lablerLogin": "edtriplett",
@@ -6117,7 +6046,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 60152322,
                     "lablerLogin": "edtriplett",
@@ -6149,8 +6078,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 63129700,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6189,7 +6118,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "2",
                     "id": 59602600,
                     "lablerLogin": "edtriplett",
@@ -6197,7 +6126,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 74042200,
                     "lablerLogin": "edtriplett",
@@ -6253,7 +6182,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAABYAAABHCAYAAAADZrdpAAAAp0lEQVR42u3XsQ6AMAgEUI7//2ecNB2sFgpJS2Fz8MSX06RETiMi0l4zBQ1HbOu+cfuAtSlCgt9896K434AjGA5tRY+II3zL+BkA4AjfQ4z/GACg6mYPHvVNTqFhqLrpg7W+ZawLtvgmpLAyVN3Ggmd8E1HMMlTdvoM9fMu4H+zluznFyBFrnY29t1VtrGlELEUEQ/0rFgrWVo2IiC035TT+PSZYP6AL/0RgYyRt3u4AAAAASUVORK5CYII=",
                 "origin": [
@@ -6293,7 +6221,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "house part",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAABcAAAAyCAYAAAC3S0AlAAAAmUlEQVR42u2YSwrAMAhEVXr/K9tVoJS2UeOU/FzLMHmoaIiMoapKzhACRj/iETQw8UWYw8QLbw/3zTwuHm0eQTbTxMxbhlWfWCwvEuT83u3vE7fwruVs5nbxrP2k2fmXkX+xZK5si5fiG0pBrsgTMEdcDWnOn8wNzhx1paU6v5sci/nVvSCvYgiWYvioJTIzR/cWRv4FMLIUT5Rva/moUfbLAAAAAElFTkSuQmCC",
                 "origin": [
@@ -6309,8 +6236,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 55696955,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6349,7 +6276,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 26820052,
                     "lablerLogin": "edtriplett",
@@ -6357,8 +6284,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 22216871,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6389,8 +6316,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 61158740,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6429,7 +6356,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "4",
                     "id": 69690248,
                     "lablerLogin": "edtriplett",
@@ -6437,8 +6364,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
+                    "value": "Pointed",
                     "id": 13342391,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6469,8 +6396,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 14875950,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6509,7 +6436,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 99050803,
                     "lablerLogin": "edtriplett",
@@ -6517,7 +6444,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 64507230,
                     "lablerLogin": "edtriplett",
@@ -6549,8 +6476,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 37944016,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6589,7 +6516,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "2",
                     "id": 91979839,
                     "lablerLogin": "edtriplett",
@@ -6597,7 +6524,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 90648660,
                     "lablerLogin": "edtriplett",
@@ -6629,8 +6556,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 89458464,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6693,7 +6620,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "8",
                     "id": 95476127,
                     "lablerLogin": "edtriplett",
@@ -6701,7 +6628,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 85068676,
                     "lablerLogin": "edtriplett",
@@ -6749,8 +6676,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 33112962,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6813,8 +6740,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 95912523,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6877,8 +6804,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 67604062,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6989,8 +6916,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 34102156,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7053,8 +6980,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Church facade features",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Church facade features",
                     "id": 38775961,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7101,7 +7028,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 85191034,
                     "lablerLogin": "edtriplett",
@@ -7133,7 +7060,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAMoAAACcCAYAAAA+sjRCAAAD4UlEQVR42u3dyXaDMAxAUezD//8y3XSRnDZMsfGg+9YNUFnPkiDDsiAs2y8icUwSgnhy/JsIKcmFHbIQkAREwUlJSEQUmFmIMnPCtkpashAl5I5+55hkeWfVt7/T6u5Pj4m5bdvmbljwitJTYu5di51dRbFrF7omMqkoU8t09lxEIEqXAtROzDtD+6e/JxFRws0jWq5+SUQ5GagCd39GS2x3vAKJUjI5v0mckXd/wkwuSunkvJowM7VG0WVJJCmfLDPPDlGFSSQpmySRBuxI0iRilEuM6HehrlbckURLBFFNWm4me3/f06cxV4LMe02jxaHnGCaCqCbmo8EriuRDL2SSQPs9oCg9fm6btEiS8fvemEjzzymJJCDLAK0XSWCYB4gCxGnbc4R/EmRRUYAHZCEKyEIURJSlhjB5RvsBFQVosBETBWQhCkAU4LGqQhSAKMDgoviaTozUfqkoAFGAMjz2LSyffljUE3qoKAc9IklAFGCigZ4oIMsJUs8WA7W4+ngikQNkebj1IgkM80DgmSW3OCmgogATVpX09AmBEQd9FQX4sPG/bv651EGFFmYUgCgAjrqlXOpAgIoCEEU1AaqJQhIQBQBRgKvceguLtgsqCgCiAEQBiAI0GuRTSkQBDiRRUYCzwlx9gVvDiFRJbs0oJEFESS6JQhJElWRZTvzsA0EAwzxwWE0ORVFNABUFOFVNdkVRTYADUUgCvLMKAbRbNyqKagIciEIS4EAUkgAXh3mg5dxw9YdIHxNFNQFUFIAos5R2/F2nrkTRdoEsKkrXuxTGWbMs4Og9rjXOcfWYWQLh22QbTZY7x8olTjqibDaImPG7e93ZoiJKC/bN63OpE0tGUvR47vTCV+ddlvNP5s+crLfbzUfX7PZ4X/HsdcNdawxK27Zte8d8KjlVOfEs9r+3OGlvoqgqdQS5GteeRVwtLmrF8fW1o29G3hRJqt0h+Knj9b4GzS6u9g5TOvCR2rOaSftfHEfYqPKMi9HDWx5Icu74o8R1bb0oBmmtrhllsqDNXlXMap0P863f8AZxG0KUUgtlscVtelFGWbDZkookA4oCEKXyDmdnFLNwFcU3pZCku3iNcJFHz1paLPrIz39Icp3VwgKGedh0iAKSEEXSgSggNlEAogBEgXYGRAGIAhAFIIo55QF8NwFRAKIARIEWkSiS0PURBSAKVDsQJUxCkoQoIMmjrEJAEKgooZKUJEQBiALVhCgSFkQBOYkCiQuikBJEAYgCEAUgCswnRAGIAhAFRfHVQEQBiAKDPIgCEAUgCrRdRAEG2JyEoD4lbxerJkQhElGIgjISEaUNPyinIZKng2NEAAAAAElFTkSuQmCC",
                 "origin": [
@@ -7149,7 +7075,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 94602520,
                     "lablerLogin": "edtriplett",
@@ -7181,15 +7107,14 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
+                    "name": "* Number of rocks or trees in the container?",
+                    "value": "5",
                     "id": 91087777,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAJUAAAB+CAYAAAAtIVMOAAACzElEQVR42u3dzW7jMAxFYdPw+7/yzGJqoOj0J64pi5K+s8qmhUMeX1KJ0W4bbvPnDZX4x64E94X67DWpcFsoYpEKDQklyEup/4obsWR9JRVINUpKkQpTydf7I45D62uJkvX7e+5zpDJSjb/RGv/Kz1QRKmtskqqzjDMu/cdqTfzt3tGi+a2E6v352LGqUL2u62x4y+vsXYODUK7Ror5ws0ap5a54+Kk2V+sUBPl52SXftQNAEArZUvmcCmkykQrNJoLv/pCeVvsqdw+ew/hDOsOOPwlVeFSSCZknv+HGH6HsVIQiFaGQU/sgE7L3qyAQsuUKAiFbrCASssU6iIRlP1IAqaQUqQBSYTWpjD5SEQrGHxaSSkpBUoFUIBUm5rsvlEmFukllSYekQpPRRyo0mUqkQrpYpIKdCvXTilRIF4tUSBeLVLBTgVRYcASSCpIKpAKpAFKh4LJOKkgqkAqkujdLsTbnE6GSCqlCkQp2KtRPqRSp7FP4yHFFjt/88xuslVLb9u5PXksclBl/gMeJ0T65jD9kI6nQRiopBUkFUoFUAKlAKkxMRMR+vlAOZAglqZAuFKmQLhSpkC4UqZAuFKmQLtS2vXtKYdt8B7iqBNkcyk0mUqGsTKQiUDP2yheH8YQqnVQREQ4O44j0pVQVmngWjFDjcrjz0GynkgxIlaq3UISeNKksq5j+9PeKRE6IRXtVpSl3kmc1saqndJnxd0eMEUfhzOPboy+EWneneqVRlcfgt88fTSZZqUZkFLfn+3EiLZZUIzeETAV3qsymPN1gQn1Sk1lHxtX3RI7kpIo3lAPp42+m0eEmKbRTPdUMTZ98p+pxRH9KqivXT/SBT39PNo8oz3NcaUpGammypEoVopdQRC4+/mZukGezHhp/X4l1NkAK4PLpb8UUcqMMePoDqZbDbkUqp8UZFnUygVRkIhWZSEUmONGhLX8BqY15CEmazekAAAAASUVORK5CYII=",
                 "origin": [
@@ -7205,7 +7130,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 73385520,
                     "lablerLogin": "edtriplett",
@@ -7237,7 +7162,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "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",
                 "origin": [
@@ -7261,7 +7185,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Trees",
                     "id": 60964528,
                     "lablerLogin": "edtriplett",
@@ -7285,7 +7209,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAARsAAADYCAYAAADbJkePAAAFdElEQVR42u3dzXbaMBCA0YrD+7+yu2hyTkshGFszljT3LrtIjX8+j0wg7RfT2rZte/y31lqzZxjRzS5YJzQ//TuIDd1CAyMzci8al8zl1N/bZxmH2BSeYKIC4JkRYiM0ocF5t22Cg9gUC0xECM5sowiJDYsHpkcARl/SITYMHJo9F3/ENh4NzugPoj0oFxuhOXjhR25jr8hdcVHv2Tax+d/dLqgZmVX2UeY04diJjcDYR46f2DDyiXrlqD/LBSw0/fi4ghPV/nb8TDZO+jWnmgrHb9u2zT422ZhmBMm5IDYgOGLD25NqxROr2nQTcQwFR2ycTDhHxMZJZLu9rtV4N6rwSf34GjwQjt/flfexk8tdc80T+8RFfeVnwkw24gGmG5ONmNB3kpjhS8xMNgIDJpwKsREaqgVnpof83o2CAW6QeyKx52Y68sTUVjxw8PKEv+BrUM9u19FtGi06JhtKThKWafn8BjGIo2WUOxbELhtNNkC3m/AoN2KxAcsxsQHWCY7YAGIz04gIrhWTDWCyAapMN2IDiM3oa1Bgkdi8C4nQwDyG+7jCs4C8+pVrsYETF3/yRxmGiM2eaDzuGKGBuWJzyVdMHAmFP9QOllHhoQHmn25SHxALDdSVFhuhAbEBisocAsQGBCclOLeVXgxgGQWIDWApFb/6uK3wIoDik43QAN+6fVxBWICw2AgMEL6MEhrgEx9/CEtkYMEQJHwg8+0ySlyA8GWU0AApsQEIj42pBjDZAN1kfVvfzVQDmGyAdWNjqgFMNsC0/OE34E8Mgh8UN6EBMsJzExrgUUQTPLMBXganZ3SaqQbIWF6JDZASIssoIGXZJTZASnTEBgiLjtgA6cQGSJluxAbImWzaF7sCsIwC1omN6QYw2QDT+n5ILDZASnDEBshfRnluA6TEBkBsALEB+Elrrd2e/aNdA5hsgHViY7oBTDaJa0x7ARJiU/Vi8yl4uGCyqXTRiQxYRgGT38h3xabC3d5EA/HudsH+CPmDfhC8jFr5zv/JazMBQXBshAYQm+TQeNcKjl1n96ovPPpneb4D/yoRmysmkWf/pwBhGTXoBTtraCzB4ERsZozMqBe24CA2i1wkLmYYzzLPbGYLTGuteYaD2Oy4qI9eKEej8Or/M8XAJDfYsz9gT3QE4dz+gxVWHPeePwzgFV8xMVD5QWyAMje/qBug2JhuIOX30sQGhCble5vExnSD8y4kNI8/W2yA0IlGbEw3kEpswM0t5WeLjekG51nKzxYbEJouAXr39rk/5QKdL+SZP+8WOfGYbCyl6HTMZjhuV26jyQbcGFKYbJzEFDlGV2+v2EDnJZMbxYv9YheMzZdrrTEdXH0cRwigyQY6TDMjX+yjTFomG9MNSRdqr+O49w8gjrac824UDD4RrLKtJhvTDYkX7pnjOPuDZ7ERG5Iv6L3HcrV3tcRGcLjgwp7hGYvYiA2Th6bsfrYLBEdkyOD3bBAaTDaYbkTGZANCw0f8Uh8ig9iAyFhG4SKyjzDZIDKYbEBoTDYgMphscIHZDyYbEBlMNggNYgNCYxkFIoPJhmoXoNCYbEBkMNkgNIgNCI3YAIgNBaYAU43YgNAgNggNYgMgNqYC24/YIJSIDQgNYgOIDZhqxAYXL4gNIDYAYgOIDSE8t0FsALGxCwCxAcQGQGwYmgfZYgMgNoDYgCUUYgOIDSA2YAmF2ABiAyA2gNiwOs9rEBtAbACxARAbQGwAsQEQGybmbW/EBhAbQGwAxKY6z0cQG0BswKSF2ABiAyA2gNgAYgMgNszFO1GIDSA2gNgAHHa3C+jNsxrEBoFBbBAZxAYEBrFBYBAbBAbEBpFBbBAYxAaBAbFBYBAbRAaxQWAgwW9ynFri2SRmnQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -7301,7 +7224,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Reeds",
                     "id": 58674075,
                     "lablerLogin": "edtriplett",
@@ -7325,15 +7248,14 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
+                    "name": "* Number of rocks or trees in the container?",
+                    "value": "20",
                     "id": 72750739,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAB0AAABRCAYAAAAuCa0YAAAAxElEQVR42u3Xyw6DMAxE0Rjl/3/Z3TQSaitoyHhKpes9HPxIZFpbiMzMK89tq+AVeGuCmIU3Z1mlmc5+iAydgaXoTzIFBQUFBQUFBQUFBQX9V/SbP7eSTM/gsvIewQwSqGSYKG9p9H3dIyLsmeYzqofJUt7XZKw9HbB9kDIzOad+VH1s3lDXhUBPQUFB9ajiirxXppWXPoN0H1TV5zh6YUSEcqDGwhDV0/ppM+kuqASd2bW6A1lCVZtjd2KnaOU+3J3YiAdbRGh3FHC4RQAAAABJRU5ErkJggg==",
                 "origin": [
@@ -7349,7 +7271,7 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Tree, bush or Reeds?",
                     "value": "Reeds",
                     "id": 63236333,
                     "lablerLogin": "edtriplett",
@@ -7373,15 +7295,14 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
-                    "value": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE (Roughly) How many trees in the set? (numbers only)",
+                    "name": "* Number of rocks or trees in the container?",
+                    "value": "20",
                     "id": 73126982,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "plant",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAABwAAABPCAYAAAD4F6XNAAAAuElEQVR42u2Z2Q6AIAwEKfH/f7m+aGIMiEdbgUyftZNdenikZBS6Res6sQAVE4sUc2cP2FXkFBwAAQIECBAgQIAAAQIECBAgQPP3eywFCBDg4MDaB1t3hWdwmKU7dO6iUVWdvy2W0vau/QIYs/FLzfn2eWWs0ealMnsWSD+W1lR62Ppf0USdZVOhta05aqQ9OkNLlf9PGm9bbyu0srXvjW+hUiK3hYhImKV7MfZzhpbtccy1fLn5TazL01R7RYA3ZAAAAABJRU5ErkJggg==",
                 "origin": [
@@ -7405,7 +7326,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "scale bar",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAPwAAAAKCAYAAACQYDNjAAAAUUlEQVR42u3ZsQ0AIAwDQbz/0GGHFKDAXZ/G0lfJAsapqurcxXRwL8CuJBE8DAvwNMEjwI8YRYACFDwCRPACFCCCFyA8HrwAYWDw7Qe+AGGcDWk3KAdFZVH7AAAAAElFTkSuQmCC",
                 "origin": [
@@ -8885,7 +8805,6 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 }
             ],
-            "classTitle": "latitude and longitude of known points",
             "bitmap": {
                 "data": "iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP4////fwAJ+wP99djxmgAAAABJRU5ErkJggg==",
                 "origin": [

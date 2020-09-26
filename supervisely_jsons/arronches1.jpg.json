@@ -21,8 +21,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 11637428,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -101,8 +101,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 18049471,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -165,7 +165,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "5",
                     "id": 77178541,
                     "lablerLogin": "edtriplett",
@@ -173,7 +173,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 22921569,
                     "lablerLogin": "edtriplett",
@@ -205,8 +205,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 70622876,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -245,7 +245,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "2",
                     "id": 72175179,
                     "lablerLogin": "edtriplett",
@@ -253,7 +253,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 39738888,
                     "lablerLogin": "edtriplett",
@@ -293,8 +293,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 69668776,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -325,7 +325,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "3",
                     "id": 31466370,
                     "lablerLogin": "edtriplett",
@@ -333,7 +333,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 92359975,
                     "lablerLogin": "edtriplett",
@@ -389,7 +389,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "4",
                     "id": 39886873,
                     "lablerLogin": "edtriplett",
@@ -397,7 +397,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 11384260,
                     "lablerLogin": "edtriplett",
@@ -413,8 +413,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 57849914,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -469,8 +469,8 @@
             "updatedAt": "2020-06-14T23:20:32.100Z",
             "tags": [
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 53360284,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -533,7 +533,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "6",
                     "id": 55932875,
                     "lablerLogin": "edtriplett",
@@ -541,7 +541,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 11878175,
                     "lablerLogin": "edtriplett",
@@ -581,8 +581,8 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NO SUPERVISELY EQUIVALENT",
-                    "value": "NO SUPERVISELY EQUIVALENT",
+                    "name": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
+                    "value": "NO SUPERVISELY EQUIVALENT for title Castle surface type - Trace only facades or entire rounded towers",
                     "id": 53839175,
                     "lablerLogin": "edtriplett",
                     "createdAt": "2020-06-02T17:02:42.352Z",
@@ -637,7 +637,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "Number of merlons (numbers only)",
+                    "name": "* Number of Merlons?",
                     "value": "12",
                     "id": 64079864,
                     "lablerLogin": "edtriplett",
@@ -645,7 +645,7 @@
                     "updatedAt": "2020-06-14T23:20:32.100Z"
                 },
                 {
-                    "name": "NOT FOUND, PENDING RESOLUTION FOR THIS VALUE WITH TITLE Merlon Style",
+                    "name": "* Merlon shape?",
                     "value": "Flat",
                     "id": 81549824,
                     "lablerLogin": "edtriplett",
