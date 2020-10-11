@@ -98,9 +98,9 @@ for index, entry in enumerate(labelbox):
 
         # Class title
         if obj["title"] in objtitles_to_classTitles:
-            obj["classTitle"] = objtitles_to_classTitles[obj["title"]]
+            s_obj["classTitle"] = objtitles_to_classTitles[obj["title"]]
         elif obj['title'] == "latitude and longitude of known points":
-            obj["classTitle"] = objtitles_to_classTitles["Latitude and Longitude of known points"]
+            s_obj["classTitle"] = objtitles_to_classTitles["Latitude and Longitude of known points"]
         else:
             # May change later on below for a few fortification elements, but generally should be obj["title"]
             s_obj["classTitle"] = obj["title"]
@@ -257,7 +257,7 @@ for index, entry in enumerate(labelbox):
         json.dump(supervisely_bof, f, ensure_ascii=False, indent=4)
 
 # For reference, printing what needs to be resolved
-# print(set(titlesnothere))
-# print(set(answersnothere))
-# print(len(noclass))
-# print(set(noclass))
+print(set(titlesnothere))
+print(set(answersnothere))
+print(len(noclass))
+print(set(noclass))
