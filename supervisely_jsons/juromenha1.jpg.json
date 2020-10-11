@@ -7,6 +7,9 @@
     },
     "objects": [
         {
+            "id": 431058898,
+            "classId": 1058898,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -47,6 +50,9 @@
             }
         },
         {
+            "id": 690092894,
+            "classId": 9289400,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -87,6 +93,9 @@
             }
         },
         {
+            "id": 767025951,
+            "classId": 7025951,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -127,6 +136,9 @@
             }
         },
         {
+            "id": 577992087,
+            "classId": 7992087,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -175,6 +187,9 @@
             }
         },
         {
+            "id": 903867968,
+            "classId": 3867968,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -215,6 +230,9 @@
             }
         },
         {
+            "id": 805386229,
+            "classId": 5386229,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -255,6 +273,9 @@
             }
         },
         {
+            "id": 127913562,
+            "classId": 7913562,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -295,6 +316,9 @@
             }
         },
         {
+            "id": 190637749,
+            "classId": 6377490,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -335,6 +359,9 @@
             }
         },
         {
+            "id": 993285544,
+            "classId": 3285544,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -375,6 +402,9 @@
             }
         },
         {
+            "id": 369082519,
+            "classId": 9082519,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -423,6 +453,9 @@
             }
         },
         {
+            "id": 942919941,
+            "classId": 2919941,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -471,6 +504,9 @@
             }
         },
         {
+            "id": 908939980,
+            "classId": 8939980,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -511,6 +547,9 @@
             }
         },
         {
+            "id": 130947520,
+            "classId": 3094752,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -551,6 +590,9 @@
             }
         },
         {
+            "id": 711976960,
+            "classId": 1197696,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -599,6 +641,9 @@
             }
         },
         {
+            "id": 201635528,
+            "classId": 1635528,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -639,6 +684,9 @@
             }
         },
         {
+            "id": 874113757,
+            "classId": 4113757,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -679,6 +727,9 @@
             }
         },
         {
+            "id": 684763787,
+            "classId": 4763787,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -719,6 +770,9 @@
             }
         },
         {
+            "id": 216924233,
+            "classId": 6924233,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -767,6 +821,9 @@
             }
         },
         {
+            "id": 714557067,
+            "classId": 4557067,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -807,6 +864,9 @@
             }
         },
         {
+            "id": 862869941,
+            "classId": 2869941,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -847,6 +907,9 @@
             }
         },
         {
+            "id": 702161965,
+            "classId": 2161965,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -887,6 +950,9 @@
             }
         },
         {
+            "id": 276591720,
+            "classId": 7659172,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -927,6 +993,9 @@
             }
         },
         {
+            "id": 464751267,
+            "classId": 4751267,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -967,6 +1036,9 @@
             }
         },
         {
+            "id": 632128121,
+            "classId": 2128121,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1015,6 +1087,9 @@
             }
         },
         {
+            "id": 628276860,
+            "classId": 2827686,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1055,6 +1130,9 @@
             }
         },
         {
+            "id": 901465544,
+            "classId": 1465544,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1151,6 +1229,9 @@
             }
         },
         {
+            "id": 361314540,
+            "classId": 6131454,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1247,6 +1328,9 @@
             }
         },
         {
+            "id": 170269296,
+            "classId": 2692960,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1351,6 +1435,9 @@
             }
         },
         {
+            "id": 299878577,
+            "classId": 9878577,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1423,6 +1510,9 @@
             }
         },
         {
+            "id": 109144774,
+            "classId": 9144774,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1495,6 +1585,9 @@
             }
         },
         {
+            "id": 856912713,
+            "classId": 6912713,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1535,6 +1628,9 @@
             }
         },
         {
+            "id": 808899760,
+            "classId": 8899760,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1575,6 +1671,9 @@
             }
         },
         {
+            "id": 433636647,
+            "classId": 3636647,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1623,6 +1722,9 @@
             }
         },
         {
+            "id": 421010655,
+            "classId": 1010655,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1663,6 +1765,9 @@
             }
         },
         {
+            "id": 375679631,
+            "classId": 5679631,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1703,6 +1808,9 @@
             }
         },
         {
+            "id": 622721107,
+            "classId": 2721107,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1743,6 +1851,9 @@
             }
         },
         {
+            "id": 257576300,
+            "classId": 2575763,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1791,6 +1902,9 @@
             }
         },
         {
+            "id": 289460418,
+            "classId": 9460418,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1839,6 +1953,9 @@
             }
         },
         {
+            "id": 878542245,
+            "classId": 8542245,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1879,6 +1996,9 @@
             }
         },
         {
+            "id": 899698470,
+            "classId": 9969847,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1919,6 +2039,9 @@
             }
         },
         {
+            "id": 416504529,
+            "classId": 6504529,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1959,6 +2082,9 @@
             }
         },
         {
+            "id": 741665514,
+            "classId": 1665514,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -1999,6 +2125,9 @@
             }
         },
         {
+            "id": 696787499,
+            "classId": 6787499,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2047,6 +2176,9 @@
             }
         },
         {
+            "id": 126824737,
+            "classId": 6824737,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2095,6 +2227,9 @@
             }
         },
         {
+            "id": 196393043,
+            "classId": 6393043,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2135,6 +2270,9 @@
             }
         },
         {
+            "id": 557085180,
+            "classId": 7085180,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2175,6 +2313,9 @@
             }
         },
         {
+            "id": 117660529,
+            "classId": 7660529,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2215,6 +2356,9 @@
             }
         },
         {
+            "id": 343498138,
+            "classId": 3498138,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2263,6 +2407,9 @@
             }
         },
         {
+            "id": 689841482,
+            "classId": 9841482,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2303,6 +2450,9 @@
             }
         },
         {
+            "id": 628672837,
+            "classId": 8672837,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2343,6 +2493,9 @@
             }
         },
         {
+            "id": 979858304,
+            "classId": 9858304,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2383,6 +2536,9 @@
             }
         },
         {
+            "id": 188871678,
+            "classId": 8871678,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2431,6 +2587,9 @@
             }
         },
         {
+            "id": 975960580,
+            "classId": 7596058,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2471,6 +2630,9 @@
             }
         },
         {
+            "id": 769186718,
+            "classId": 9186718,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2511,6 +2673,9 @@
             }
         },
         {
+            "id": 978466611,
+            "classId": 8466611,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2551,6 +2716,9 @@
             }
         },
         {
+            "id": 397663323,
+            "classId": 7663323,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2599,6 +2767,9 @@
             }
         },
         {
+            "id": 929371369,
+            "classId": 9371369,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2639,6 +2810,9 @@
             }
         },
         {
+            "id": 746192330,
+            "classId": 6192330,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2679,6 +2853,9 @@
             }
         },
         {
+            "id": 443318936,
+            "classId": 3318936,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2719,6 +2896,9 @@
             }
         },
         {
+            "id": 308504045,
+            "classId": 8504045,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2799,6 +2979,9 @@
             }
         },
         {
+            "id": 403547883,
+            "classId": 3547883,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2879,6 +3062,9 @@
             }
         },
         {
+            "id": 155882860,
+            "classId": 5588286,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -2983,6 +3169,9 @@
             }
         },
         {
+            "id": 928073565,
+            "classId": 8073565,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3063,6 +3252,9 @@
             }
         },
         {
+            "id": 896390880,
+            "classId": 9639088,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3167,6 +3359,9 @@
             }
         },
         {
+            "id": 127790409,
+            "classId": 7790409,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3271,6 +3466,9 @@
             }
         },
         {
+            "id": 843626581,
+            "classId": 3626581,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3335,6 +3533,9 @@
             }
         },
         {
+            "id": 864730442,
+            "classId": 4730442,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3415,6 +3616,9 @@
             }
         },
         {
+            "id": 269657003,
+            "classId": 9657003,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3495,6 +3699,9 @@
             }
         },
         {
+            "id": 164726211,
+            "classId": 4726211,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3575,6 +3782,9 @@
             }
         },
         {
+            "id": 340271541,
+            "classId": 2715410,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3663,6 +3873,9 @@
             }
         },
         {
+            "id": 431669333,
+            "classId": 1669333,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3727,6 +3940,9 @@
             }
         },
         {
+            "id": 517907725,
+            "classId": 7907725,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3791,6 +4007,9 @@
             }
         },
         {
+            "id": 995751221,
+            "classId": 5751221,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3871,6 +4090,9 @@
             }
         },
         {
+            "id": 195545139,
+            "classId": 5545139,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -3959,6 +4181,9 @@
             }
         },
         {
+            "id": 704912813,
+            "classId": 4912813,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4023,6 +4248,9 @@
             }
         },
         {
+            "id": 143057805,
+            "classId": 3057805,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4087,6 +4315,9 @@
             }
         },
         {
+            "id": 109633031,
+            "classId": 9633031,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4191,6 +4422,9 @@
             }
         },
         {
+            "id": 995927074,
+            "classId": 5927074,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4271,6 +4505,9 @@
             }
         },
         {
+            "id": 916911020,
+            "classId": 6911020,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4351,6 +4588,9 @@
             }
         },
         {
+            "id": 846482452,
+            "classId": 6482452,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4423,6 +4663,9 @@
             }
         },
         {
+            "id": 847403390,
+            "classId": 4740339,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4503,6 +4746,9 @@
             }
         },
         {
+            "id": 240015994,
+            "classId": 1599400,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4543,6 +4789,9 @@
             }
         },
         {
+            "id": 926055310,
+            "classId": 2605531,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4583,6 +4832,9 @@
             }
         },
         {
+            "id": 901454935,
+            "classId": 1454935,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4623,6 +4875,9 @@
             }
         },
         {
+            "id": 741282419,
+            "classId": 1282419,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4663,6 +4918,9 @@
             }
         },
         {
+            "id": 409570470,
+            "classId": 9570470,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4703,6 +4961,9 @@
             }
         },
         {
+            "id": 457685374,
+            "classId": 7685374,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4743,6 +5004,9 @@
             }
         },
         {
+            "id": 395998198,
+            "classId": 5998198,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4783,6 +5047,9 @@
             }
         },
         {
+            "id": 777110334,
+            "classId": 7110334,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4831,6 +5098,9 @@
             }
         },
         {
+            "id": 557182920,
+            "classId": 7182920,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4871,6 +5141,9 @@
             }
         },
         {
+            "id": 712192721,
+            "classId": 2192721,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4911,6 +5184,9 @@
             }
         },
         {
+            "id": 142321241,
+            "classId": 2321241,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4951,6 +5227,9 @@
             }
         },
         {
+            "id": 392596533,
+            "classId": 2596533,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -4991,6 +5270,9 @@
             }
         },
         {
+            "id": 961732170,
+            "classId": 1732170,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5031,6 +5313,9 @@
             }
         },
         {
+            "id": 689218135,
+            "classId": 9218135,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5071,6 +5356,9 @@
             }
         },
         {
+            "id": 563481563,
+            "classId": 3481563,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5119,6 +5407,9 @@
             }
         },
         {
+            "id": 896133217,
+            "classId": 6133217,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5159,6 +5450,9 @@
             }
         },
         {
+            "id": 670767390,
+            "classId": 7673900,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5191,6 +5485,9 @@
             }
         },
         {
+            "id": 693441044,
+            "classId": 3441044,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5231,6 +5528,9 @@
             }
         },
         {
+            "id": 675278507,
+            "classId": 5278507,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5271,6 +5571,9 @@
             }
         },
         {
+            "id": 308445849,
+            "classId": 8445849,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5311,6 +5614,9 @@
             }
         },
         {
+            "id": 714796489,
+            "classId": 4796489,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5351,6 +5657,9 @@
             }
         },
         {
+            "id": 881267706,
+            "classId": 1267706,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5391,6 +5700,9 @@
             }
         },
         {
+            "id": 125675550,
+            "classId": 2567555,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5431,6 +5743,9 @@
             }
         },
         {
+            "id": 118781640,
+            "classId": 1878164,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5479,6 +5794,9 @@
             }
         },
         {
+            "id": 106336882,
+            "classId": 6336882,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5519,6 +5837,9 @@
             }
         },
         {
+            "id": 866365878,
+            "classId": 6365878,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5559,6 +5880,9 @@
             }
         },
         {
+            "id": 524287923,
+            "classId": 4287923,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5599,6 +5923,9 @@
             }
         },
         {
+            "id": 269067299,
+            "classId": 9067299,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5647,6 +5974,9 @@
             }
         },
         {
+            "id": 351934428,
+            "classId": 1934428,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5687,6 +6017,9 @@
             }
         },
         {
+            "id": 697684337,
+            "classId": 7684337,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5727,6 +6060,9 @@
             }
         },
         {
+            "id": 820317130,
+            "classId": 2031713,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5767,6 +6103,9 @@
             }
         },
         {
+            "id": 758442824,
+            "classId": 8442824,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5815,6 +6154,9 @@
             }
         },
         {
+            "id": 863952220,
+            "classId": 3952220,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5855,6 +6197,9 @@
             }
         },
         {
+            "id": 771154098,
+            "classId": 1154098,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5895,6 +6240,9 @@
             }
         },
         {
+            "id": 637696876,
+            "classId": 7696876,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5943,6 +6291,9 @@
             }
         },
         {
+            "id": 363721024,
+            "classId": 3721024,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -5983,6 +6334,9 @@
             }
         },
         {
+            "id": 834518730,
+            "classId": 4518730,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6023,6 +6377,9 @@
             }
         },
         {
+            "id": 163643412,
+            "classId": 3643412,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6063,6 +6420,9 @@
             }
         },
         {
+            "id": 210968856,
+            "classId": 9688560,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6111,6 +6471,9 @@
             }
         },
         {
+            "id": 790636521,
+            "classId": 6365210,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6151,6 +6514,9 @@
             }
         },
         {
+            "id": 365383060,
+            "classId": 5383060,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6191,6 +6557,9 @@
             }
         },
         {
+            "id": 862988280,
+            "classId": 6298828,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6239,6 +6608,9 @@
             }
         },
         {
+            "id": 341879096,
+            "classId": 1879096,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6279,6 +6651,9 @@
             }
         },
         {
+            "id": 663828679,
+            "classId": 3828679,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6319,6 +6694,9 @@
             }
         },
         {
+            "id": 303489340,
+            "classId": 3489340,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6359,6 +6737,9 @@
             }
         },
         {
+            "id": 823869911,
+            "classId": 3869911,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6407,6 +6788,9 @@
             }
         },
         {
+            "id": 364717284,
+            "classId": 4717284,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6447,6 +6831,9 @@
             }
         },
         {
+            "id": 175437950,
+            "classId": 5437950,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6487,6 +6874,9 @@
             }
         },
         {
+            "id": 151630028,
+            "classId": 1630028,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6527,6 +6917,9 @@
             }
         },
         {
+            "id": 263002362,
+            "classId": 3002362,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6559,6 +6952,9 @@
             }
         },
         {
+            "id": 922057743,
+            "classId": 2057743,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6607,6 +7003,9 @@
             }
         },
         {
+            "id": 761795791,
+            "classId": 1795791,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6647,6 +7046,9 @@
             }
         },
         {
+            "id": 306375290,
+            "classId": 6375290,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6687,6 +7089,9 @@
             }
         },
         {
+            "id": 563931237,
+            "classId": 3931237,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6727,6 +7132,9 @@
             }
         },
         {
+            "id": 180359310,
+            "classId": 8035931,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6775,6 +7183,9 @@
             }
         },
         {
+            "id": 246658740,
+            "classId": 4665874,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6815,6 +7226,9 @@
             }
         },
         {
+            "id": 452252123,
+            "classId": 2252123,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6855,6 +7269,9 @@
             }
         },
         {
+            "id": 556562831,
+            "classId": 6562831,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6895,6 +7312,9 @@
             }
         },
         {
+            "id": 500280992,
+            "classId": 2809920,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6943,6 +7363,9 @@
             }
         },
         {
+            "id": 830734945,
+            "classId": 7349450,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -6983,6 +7406,9 @@
             }
         },
         {
+            "id": 885698670,
+            "classId": 5698670,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7023,6 +7449,9 @@
             }
         },
         {
+            "id": 744605375,
+            "classId": 4605375,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7063,6 +7492,9 @@
             }
         },
         {
+            "id": 907030866,
+            "classId": 7030866,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7119,6 +7551,9 @@
             }
         },
         {
+            "id": 778823000,
+            "classId": 7788230,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7183,6 +7618,9 @@
             }
         },
         {
+            "id": 781322418,
+            "classId": 1322418,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7247,6 +7685,9 @@
             }
         },
         {
+            "id": 842531889,
+            "classId": 2531889,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7303,6 +7744,9 @@
             }
         },
         {
+            "id": 808005126,
+            "classId": 8005126,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7359,6 +7803,9 @@
             }
         },
         {
+            "id": 825068548,
+            "classId": 5068548,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7423,6 +7870,9 @@
             }
         },
         {
+            "id": 789925438,
+            "classId": 9925438,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7463,6 +7913,9 @@
             }
         },
         {
+            "id": 383478114,
+            "classId": 3478114,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7503,6 +7956,9 @@
             }
         },
         {
+            "id": 339450352,
+            "classId": 9450352,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7551,6 +8007,9 @@
             }
         },
         {
+            "id": 390881277,
+            "classId": 8812770,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7599,6 +8058,9 @@
             }
         },
         {
+            "id": 404584871,
+            "classId": 4584871,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7639,6 +8101,9 @@
             }
         },
         {
+            "id": 506076696,
+            "classId": 6076696,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7679,6 +8144,9 @@
             }
         },
         {
+            "id": 511775827,
+            "classId": 1775827,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7719,6 +8187,9 @@
             }
         },
         {
+            "id": 989782829,
+            "classId": 9782829,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7759,6 +8230,9 @@
             }
         },
         {
+            "id": 971779968,
+            "classId": 1779968,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7807,6 +8281,9 @@
             }
         },
         {
+            "id": 957820020,
+            "classId": 7820020,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7855,6 +8332,9 @@
             }
         },
         {
+            "id": 990857465,
+            "classId": 8574650,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7895,6 +8375,9 @@
             }
         },
         {
+            "id": 708823972,
+            "classId": 8823972,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7935,6 +8418,9 @@
             }
         },
         {
+            "id": 903330425,
+            "classId": 3330425,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -7975,6 +8461,9 @@
             }
         },
         {
+            "id": 416191492,
+            "classId": 6191492,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8023,6 +8512,9 @@
             }
         },
         {
+            "id": 675174962,
+            "classId": 5174962,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8063,6 +8555,9 @@
             }
         },
         {
+            "id": 257415655,
+            "classId": 7415655,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8103,6 +8598,9 @@
             }
         },
         {
+            "id": 414709238,
+            "classId": 4709238,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8143,6 +8641,9 @@
             }
         },
         {
+            "id": 426255776,
+            "classId": 6255776,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8183,6 +8684,9 @@
             }
         },
         {
+            "id": 463613147,
+            "classId": 3613147,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8223,6 +8727,9 @@
             }
         },
         {
+            "id": 831649041,
+            "classId": 1649041,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8263,6 +8770,9 @@
             }
         },
         {
+            "id": 588680389,
+            "classId": 8680389,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8303,6 +8813,9 @@
             }
         },
         {
+            "id": 105870555,
+            "classId": 5870555,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8415,6 +8928,9 @@
             }
         },
         {
+            "id": 340603524,
+            "classId": 6035240,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8432,6 +8948,9 @@
             }
         },
         {
+            "id": 430450533,
+            "classId": 4505330,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8480,6 +8999,9 @@
             }
         },
         {
+            "id": 786009819,
+            "classId": 6009819,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8520,6 +9042,9 @@
             }
         },
         {
+            "id": 692600920,
+            "classId": 9260092,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8560,6 +9085,9 @@
             }
         },
         {
+            "id": 809821275,
+            "classId": 9821275,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8600,6 +9128,9 @@
             }
         },
         {
+            "id": 658143240,
+            "classId": 8143240,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8640,6 +9171,9 @@
             }
         },
         {
+            "id": 363178757,
+            "classId": 3178757,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8680,6 +9214,9 @@
             }
         },
         {
+            "id": 944822542,
+            "classId": 4822542,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8720,6 +9257,9 @@
             }
         },
         {
+            "id": 974648233,
+            "classId": 4648233,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8760,6 +9300,9 @@
             }
         },
         {
+            "id": 999843106,
+            "classId": 9843106,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8800,6 +9343,9 @@
             }
         },
         {
+            "id": 383076296,
+            "classId": 3076296,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8848,6 +9394,9 @@
             }
         },
         {
+            "id": 879696317,
+            "classId": 9696317,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8888,6 +9437,9 @@
             }
         },
         {
+            "id": 934435090,
+            "classId": 4435090,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8928,6 +9480,9 @@
             }
         },
         {
+            "id": 564341188,
+            "classId": 4341188,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -8976,6 +9531,9 @@
             }
         },
         {
+            "id": 490077633,
+            "classId": 7763300,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9016,6 +9574,9 @@
             }
         },
         {
+            "id": 983317080,
+            "classId": 3317080,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9056,6 +9617,9 @@
             }
         },
         {
+            "id": 889420647,
+            "classId": 9420647,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9104,6 +9668,9 @@
             }
         },
         {
+            "id": 158936662,
+            "classId": 8936662,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9144,6 +9711,9 @@
             }
         },
         {
+            "id": 670840759,
+            "classId": 8407590,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9184,6 +9754,9 @@
             }
         },
         {
+            "id": 204592230,
+            "classId": 4592230,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9224,6 +9797,9 @@
             }
         },
         {
+            "id": 157956515,
+            "classId": 7956515,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9264,6 +9840,9 @@
             }
         },
         {
+            "id": 463877507,
+            "classId": 3877507,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9304,6 +9883,9 @@
             }
         },
         {
+            "id": 932340490,
+            "classId": 3234049,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9344,6 +9926,9 @@
             }
         },
         {
+            "id": 998909963,
+            "classId": 8909963,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9384,6 +9969,9 @@
             }
         },
         {
+            "id": 313094760,
+            "classId": 1309476,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9424,6 +10012,9 @@
             }
         },
         {
+            "id": 941020731,
+            "classId": 1020731,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9464,6 +10055,9 @@
             }
         },
         {
+            "id": 339155250,
+            "classId": 3915525,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9512,6 +10106,9 @@
             }
         },
         {
+            "id": 342931751,
+            "classId": 2931751,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9552,6 +10149,9 @@
             }
         },
         {
+            "id": 411276808,
+            "classId": 1276808,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9592,6 +10192,9 @@
             }
         },
         {
+            "id": 829528785,
+            "classId": 9528785,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9640,6 +10243,9 @@
             }
         },
         {
+            "id": 362708602,
+            "classId": 2708602,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9680,6 +10286,9 @@
             }
         },
         {
+            "id": 837065995,
+            "classId": 7065995,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9728,6 +10337,9 @@
             }
         },
         {
+            "id": 379044333,
+            "classId": 9044333,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9768,6 +10380,9 @@
             }
         },
         {
+            "id": 611274455,
+            "classId": 1274455,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9785,6 +10400,9 @@
             }
         },
         {
+            "id": 340653818,
+            "classId": 6538180,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9802,6 +10420,9 @@
             }
         },
         {
+            "id": 383363916,
+            "classId": 3363916,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9819,6 +10440,9 @@
             }
         },
         {
+            "id": 330827140,
+            "classId": 8271400,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9836,6 +10460,9 @@
             }
         },
         {
+            "id": 999167795,
+            "classId": 9167795,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9853,6 +10480,9 @@
             }
         },
         {
+            "id": 870253720,
+            "classId": 2537200,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9901,6 +10531,9 @@
             }
         },
         {
+            "id": 936614445,
+            "classId": 6614445,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9949,6 +10582,9 @@
             }
         },
         {
+            "id": 605654177,
+            "classId": 5654177,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -9997,6 +10633,9 @@
             }
         },
         {
+            "id": 961357105,
+            "classId": 1357105,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10045,6 +10684,9 @@
             }
         },
         {
+            "id": 842312821,
+            "classId": 2312821,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10109,6 +10751,9 @@
             }
         },
         {
+            "id": 154678223,
+            "classId": 4678223,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10165,6 +10810,9 @@
             }
         },
         {
+            "id": 918369690,
+            "classId": 8369690,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10221,6 +10869,9 @@
             }
         },
         {
+            "id": 571970695,
+            "classId": 1970695,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10277,6 +10928,9 @@
             }
         },
         {
+            "id": 123500963,
+            "classId": 3500963,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10365,6 +11019,9 @@
             }
         },
         {
+            "id": 185580550,
+            "classId": 5580550,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10429,6 +11086,9 @@
             }
         },
         {
+            "id": 870282338,
+            "classId": 2823380,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10485,6 +11145,9 @@
             }
         },
         {
+            "id": 662378593,
+            "classId": 2378593,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10557,6 +11220,9 @@
             }
         },
         {
+            "id": 950684732,
+            "classId": 6847320,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10613,6 +11279,9 @@
             }
         },
         {
+            "id": 914860866,
+            "classId": 4860866,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10669,6 +11338,9 @@
             }
         },
         {
+            "id": 784784808,
+            "classId": 4784808,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10725,6 +11397,9 @@
             }
         },
         {
+            "id": 184940119,
+            "classId": 4940119,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10757,6 +11432,9 @@
             }
         },
         {
+            "id": 687814054,
+            "classId": 7814054,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10789,6 +11467,9 @@
             }
         },
         {
+            "id": 493968178,
+            "classId": 3968178,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10845,6 +11526,9 @@
             }
         },
         {
+            "id": 495898892,
+            "classId": 5898892,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10901,6 +11585,9 @@
             }
         },
         {
+            "id": 399229033,
+            "classId": 9229033,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -10957,6 +11644,9 @@
             }
         },
         {
+            "id": 746792500,
+            "classId": 6792500,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11013,6 +11703,9 @@
             }
         },
         {
+            "id": 969708772,
+            "classId": 9708772,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11069,6 +11762,9 @@
             }
         },
         {
+            "id": 230197106,
+            "classId": 1971060,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11125,6 +11821,9 @@
             }
         },
         {
+            "id": 278500088,
+            "classId": 8500088,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11181,6 +11880,9 @@
             }
         },
         {
+            "id": 963446590,
+            "classId": 3446590,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11237,6 +11939,9 @@
             }
         },
         {
+            "id": 852862140,
+            "classId": 2862140,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11293,6 +11998,9 @@
             }
         },
         {
+            "id": 575634726,
+            "classId": 5634726,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11349,6 +12057,9 @@
             }
         },
         {
+            "id": 242661199,
+            "classId": 2661199,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11405,6 +12116,9 @@
             }
         },
         {
+            "id": 355033162,
+            "classId": 5033162,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11461,6 +12175,9 @@
             }
         },
         {
+            "id": 144557770,
+            "classId": 4455777,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11517,6 +12234,9 @@
             }
         },
         {
+            "id": 272756193,
+            "classId": 2756193,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11573,6 +12293,9 @@
             }
         },
         {
+            "id": 744433018,
+            "classId": 4433018,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11629,6 +12352,9 @@
             }
         },
         {
+            "id": 579924135,
+            "classId": 9924135,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11685,6 +12411,9 @@
             }
         },
         {
+            "id": 177434562,
+            "classId": 7434562,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11741,6 +12470,9 @@
             }
         },
         {
+            "id": 657775152,
+            "classId": 7775152,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11797,6 +12529,9 @@
             }
         },
         {
+            "id": 334479793,
+            "classId": 4479793,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11853,6 +12588,9 @@
             }
         },
         {
+            "id": 661734774,
+            "classId": 1734774,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11909,6 +12647,9 @@
             }
         },
         {
+            "id": 643836947,
+            "classId": 3836947,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -11965,6 +12706,9 @@
             }
         },
         {
+            "id": 357910180,
+            "classId": 5791018,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -12021,6 +12765,9 @@
             }
         },
         {
+            "id": 541265253,
+            "classId": 1265253,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -12077,6 +12824,9 @@
             }
         },
         {
+            "id": 346965100,
+            "classId": 4696510,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -12133,6 +12883,9 @@
             }
         },
         {
+            "id": 791205021,
+            "classId": 1205021,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -12189,6 +12942,9 @@
             }
         },
         {
+            "id": 661957080,
+            "classId": 1957080,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -12245,6 +13001,9 @@
             }
         },
         {
+            "id": 873082061,
+            "classId": 3082061,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -12301,6 +13060,9 @@
             }
         },
         {
+            "id": 739795198,
+            "classId": 9795198,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -12357,6 +13119,9 @@
             }
         },
         {
+            "id": 766652697,
+            "classId": 6652697,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",
@@ -12381,6 +13146,9 @@
             }
         },
         {
+            "id": 765122487,
+            "classId": 5122487,
+            "description": "",
             "geometryType": "bitmap",
             "lablerLogin": "edtriplett",
             "createdAt": "2020-06-02T17:02:42.352Z",

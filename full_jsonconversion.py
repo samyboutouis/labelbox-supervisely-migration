@@ -88,7 +88,6 @@ for index, entry in enumerate(labelbox):
         class_id = labelbox_to_supervisely(obj["featureId"], "classID", used_ids)
         s_obj["classId"] = class_id
         s_obj["description"] = ""
-        s_obj = {}
         s_obj["geometryType"] = "bitmap"
         s_obj["lablerLogin"] = "edtriplett"
         # Creation time
@@ -257,7 +256,7 @@ for index, entry in enumerate(labelbox):
         json.dump(supervisely_bof, f, ensure_ascii=False, indent=4)
 
 # For reference, printing what needs to be resolved
-print(set(titlesnothere))
-print(set(answersnothere))
-print(len(noclass))
-print(set(noclass))
+# print(set(titlesnothere))
+# print(set(answersnothere))
+# print(len(noclass))
+# print(set(noclass))
